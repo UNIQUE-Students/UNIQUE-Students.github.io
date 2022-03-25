@@ -1,0 +1,12 @@
+.*.sw*
+.*.pyc
+_site
+.sass-cache
+.jekyll-metadata
+vendor
+.bundle
+.cemetery
+Gemfile.lock
+assets/img/team/*_orig*
+assets/img/speakers/*_orig*
+assets/img/banners

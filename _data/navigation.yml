@@ -1,0 +1,12 @@
+- name: Upcoming Events
+  link: /comingevents.html
+- name: Past Events
+  link: /pastevents.html
+- name: Who we are
+  link: /team.html
+- name: Funding
+  link: /funding.html
+- name: About
+  link: /about.html
+- name: Code of Conduct
+  link: /coc.html

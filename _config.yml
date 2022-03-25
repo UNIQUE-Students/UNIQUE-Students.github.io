@@ -1,1 +1,64 @@
-theme: jekyll-theme-slate
+# Welcome to Jekyll!
+
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: UNIQUE Students
+tagline: UNIQUE Student Affairs
+email: unique.student.symposium@gmail.com
+twitter_username: ai_unique
+twitter:
+  - username: ai_unique
+description: USS (UNIQUE Student Symposium) is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide graduate students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
+author: UNIQUE Student Symposium 2021
+baseurl: ""
+url: ""
+logo: assets/img/unique-logo-white-favicon.png
+favicon: assets/img/unique-logo-white-favicon.png
+
+# Reading Files
+include:
+  - _pages
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      hero_image: /assets/img/SAC_long.png
+
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "collection1"
+#     values:
+#       layout: "page"
+#   - scope:
+#       path: ""
+#       type: "collection1"
+#     values:
+#       layout: "page"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Theme: Bulma Clean Theme
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme

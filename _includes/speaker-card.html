@@ -1,0 +1,63 @@
+
+<div class="columns container">
+  <div class="column"></div>
+  <div class="column is-four-fifths">
+    <div class="card" id="{{ person.photo | replace: ".jpg" "" }}">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-left">
+            <figure class="image is-128x128">
+              {% if person.photo != "none" %}
+              <img src="assets/img/speakers/{{ person.photo }}" alt="{{ person.alttext }}">
+              {% endif %}
+            </figure>
+          </div>
+          <div class="media-content">
+            <p class="title is-4">{{ person.fullname }}</p>
+            <p class="subtitle is-6">{{ person.pronouns }}</p>
+            <p class="subtitle is-6">{{ person.position }}</p>
+            <p class="subtitle is-7">{{ person.affiliations | join: " · " }}</p>
+          </div>
+        </div>
+        <div class="content">
+          {% if person.bio %}
+            <details>
+              <summary><strong>Bio</strong></summary>
+                {{ person.bio }}
+            </details>
+          <br>
+          {% endif %}
+          {% if person.title %}
+          {% endif %}
+          {% if person.abstract %}
+            <details>
+              <summary><span class="title is-5">{{ person.title }}</span></summary>
+                {{ person.abstract }}
+            </details>
+          {% else %}
+          <p class="title is-5">{{ person.title }}</p>
+          {% endif %}
+          {% for session in person.sessions %}
+            {% if session contains "panel" %}{% continue %}
+            {% else %}
+            {% capture talk %}
+              {% assign date = session | slice: 0, 8 %}
+              {% if date == "20210607" %}
+                <a href="schedule"><em>Monday, June 7th, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT)</em></a>
+              {% elsif date == "20210608" %}
+                <a href="schedule"><em>Tuesday, June 8th, {{ session | slice: 8, 2 }}:{{ session | slice: 10, 2 }} (EDT)</em></a>
+              {% endif %}
+            {% endcapture %}
+            <p class="subtitle is-6">{{ talk }}</p>
+            {% endif %}
+          {% endfor %}
+          <br>
+          {% for tag in person.tags %}
+            <a class="tag" href="{{ tag.link }}">{{ tag.name }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+	</div>
+  <div class="column"></div>
+</div>

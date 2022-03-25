@@ -1,0 +1,129 @@
+- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+  bio: I am a postdoc at Mila. I am interested in the fundamental aspects of learning,
+    both in brains and machines. I currently work also on applications of machine
+    learning to fight climate change.
+  committee: Communication Committee
+  email: alex.hernandez-garcia@mila.quebec
+  fullname: Alex Hernandez-Garcia
+  photo: alex_hernandez-garcia.jpg
+  pronouns: "he/him/\xE9l"
+  alttext: Alex has white skin, green eyes, a thick dark beard and dark long hair though with noticeable receding hairline.
+  twitter: https://twitter.com/alexhdezgcia
+  website: alexhernandezgarcia.github.io
+- affiliation: "Universit\xE9 de Montr\xE9al, CRIUGM, Projet Courtois NeuroMod"
+  bio: "I am a master student in psychology at Universit\xE9 de Montr\xE9al. Having\
+    \ backgrounds in both music composition and cognitive neurosciences, my research\
+    \ interests include auditory perception, music perception and creation, and noise\
+    \ pollution's effects on perception and health (physical and mental). I'm currently\
+    \ part of the auditory perception and protection branch of the Projet Courtois\
+    \ NeuroMod (CRIUGM)."
+  committee: Logistics Committee
+  email: eddy.fortier@umontreal.ca
+  fullname: Eddy Fortier
+  photo: eddy_fortier.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: none
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: "I am a Ph.D. student at Universit\xE9 de Montr\xE9al. I am studying how the\
+    \ brain makes action decisions. I am interested in how the brain changes our behaviour\
+    \ based on who is around, and why."
+  committee: Logistics Committee
+  email: a.nakahashi@umontreal.ca
+  fullname: Ayuno Nakahashi
+  photo: ayuno_nakahashi.jpg
+  alttext: Ayuno is an Asian woman with long dark hair and glasses.
+  pronouns: she/her
+  twitter: https://twitter.com/ayuno_n
+  website: none
+- affiliation: "Universit\xE9 de Montr\xE9al, CRIUGM"
+  bio: "I am a master's student at Universit\xE9 de Montr\xE9al. I am interested in\
+    \ the neural correlates of pain, and more broadly, in neuroimaging data analysis\
+    \ techniques. "
+  committee: Educational Committee
+  email: marie-eve.picard.2@umontreal.ca
+  fullname: Marie-Eve Picard
+  photo: marie-eve_picard.jpg
+  alttext: Marie-Eve is a Caucasian female with brown hair, freckles and glasses.
+  pronouns: she/her
+  twitter: none
+  website: none
+- affiliation: Mila, McGill
+  bio: 'PhD student at Mila/McGill; interested in probabilistic generative models
+    and their application in real world problems. '
+  committee: Coordinator
+  email: nazsepah@cim.mcgill.ca
+  fullname: Nazanin Sepahvand
+  photo: nazanin_sepahvand.jpg
+  alttext: none
+  pronouns: she/her/elle
+  twitter: https://twitter.com/NazSepahvand
+  website: none
+- affiliation: "LIONlab, CHU Sainte-Justine Research Center, Universit\xE9 de Montr\xE9\
+    al"
+  bio: 'I am a Master''s student at the University of Montreal, currently doing my
+    research at the CHU Sainte-Justine''s research center (LIONlab). At the moment,
+    I am studying the development of the brain via neuroimagery in neurotypical infants
+    as well as in clinical populations such as premature babies and babies born asphyxiated.
+    My research focuses primarily on neuroscience but I am very interested in AI as
+    well and most of all, the intersection between the two. '
+  committee: Chair
+  email: laurence.petitpas@umontreal.ca
+  fullname: Laurence Petitpas
+  photo: laurence_petitpas.jpg
+  alttext: Laurence is a white woman with long blond hair, blue eyes and glasses.
+  pronouns: she/her
+  twitter: none
+  website: none
+- affiliation: 'Concordia University '
+  bio: I'm a PhD student in Emily Coffey's lab. I'm working on understanding how brain
+    state affects sensory representation, exploring the function of sleep spindles,
+    and trying to characterize the role of spindle-slow-oscillation coupling in memory
+    consolidation across the lifespan.
+  committee: Program Committee
+  email: hjourde.clasp@gmail.com
+  fullname: Hugo Jourde
+  photo: hugo_jourde.jpg
+  pronouns: he/him
+  alttext: Hugo is a Caucasian male with longish brown hair assembled in something supposed to look like a man bun.
+  pronouns: he/him
+  twitter: https://twitter.com/HugoJourde
+  website: none
+- affiliation: McGill University, Mila
+  bio: I am a Ph.D. student at McGill and Mila. I am fascinated by the fundamental
+    principle of both biological and artificial intelligence. I build computational
+    models of the brain, mainly with neural networks nowadays.
+  committee: Communication Committee
+  email: xiaoxuan.lei@mail.mcgill.ca
+  fullname: Xiaoxuan Lei
+  photo: xiaoxuan_lei.jpg
+  alttext: Xiaoxuan is an Asian woman with long dark hair and glasses
+  pronouns: she/her
+  twitter: none
+  website: none
+- affiliation: McGill University
+  bio: "I am a Master\u2019s student in the Integrated Program in Neuroscience at\
+    \ McGill University. My research is on the application of machine learning for\
+    \ the prediction of recovery of consciousness after traumatic brain injury. I\
+    \ am fascinated about the philosophy and neuroscience of (human) consciousness."
+  committee: Educational Committee
+  email: Charlotte.Maschke@mail.mcgill.ca
+  fullname: Charlotte Maschke
+  photo: charlotte_maschke.jpg
+  pronouns: she/her
+  alttext: none
+  twitter: https://twitter.com/CharlotteMaschk
+  website: none
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: I am a master's student at the SIMEXP and Jacquemont labs, working on the impact
+    of rare genetic mutations on functional connectivity and how it can help us understand
+    psychiatric conditions.
+  committee: Program Committee
+  email: annabelle.harvey@umontreal.ca
+  fullname: Annabelle Harvey
+  photo: annabelle_harvey.jpg
+  alttext: none
+  pronouns: she/her/elle
+  twitter: none
+  website: none
