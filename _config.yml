@@ -21,8 +21,8 @@ twitter:
   - username: ai_unique
 description: USS (UNIQUE Student Symposium) is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide graduate students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
 author: UNIQUE Student Symposium 2021
-baseurl: ""
-url: ""
+#baseurl: ""
+#url: ""
 logo: assets/img/unique-logo-white-favicon.png
 favicon: assets/img/unique-logo-white-favicon.png
 

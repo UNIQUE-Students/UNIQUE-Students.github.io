@@ -1,4 +1,4 @@
-# uss2021.github.io
+# UNIQUE-Students.github.io
 
 # Run site locally
 ```
@@ -13,4 +13,3 @@ bundle exec jekyll serve
 * [Bulma (CSS)](https://bulma.io/documentation/)
     * [Dropdown in nav bar](https://bulma.io/documentation/components/navbar/)
     * [Tiles](https://bulma.io/documentation/layout/tiles/)
-
