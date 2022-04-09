@@ -1,0 +1,146 @@
+- name: Opening remarks
+  date: 20210607
+  time_start: "13:00"
+  time_end: "13:15"
+  platforms:
+    - YouTube+https://youtu.be/g_5-h7QPSkg
+- name: Keynote talk
+  date: 20210607
+  time_start: "13:15"
+  time_end: "14:15"
+  platforms:
+    - YouTube+https://youtu.be/DBPuwN_Hdic
+- name: Lightning talks
+  date: 20210607
+  time_start: "14:20"
+  time_end: "14:50"
+  platforms:
+    - YouTube+https://youtu.be/NZuI3IzxNu8
+- name: Lightning talks Q&A + Social
+  date: 20210607
+  time_start: "14:50"
+  time_end: "15:10"
+  platforms:
+- name: Active break
+  date: 20210607
+  time_start: "15:05"
+  time_end: "15:10"
+  session: activebreak
+  platforms:
+- name: Go to Crowdcast
+  date: 20210607
+  time_start: "15:10"
+  time_end: "15:15"
+  session: break
+- name: Keynote talk
+  date: 20210607
+  time_start: "15:15"
+  time_end: "16:15"
+  platforms:
+    - YouTube+https://youtu.be/jLsAnQN69mQ
+- name: Social break
+  date: 20210607
+  time_start: "16:15"
+  time_end: "16:25"
+  platforms:
+  session: socialbreak
+- name: Active break
+  date: 20210607
+  time_start: "16:20"
+  time_end: "16:25"
+  session: activebreak
+  platforms:
+- name: Go to Crowdcast
+  date: 20210607
+  time_start: "16:25"
+  time_end: "16:30"
+  session: break
+- name: Panel discussion
+  date: 20210607
+  time_start: "16:30"
+  time_end: "17:15"
+  session: panel
+  platforms:
+    - YouTube+https://youtu.be/FIsNN2Fc1vc
+- name: Closing remarks
+  date: 20210607
+  time_start: "17:15"
+  time_end: "17:30"
+  platforms:
+    - YouTube+https://youtu.be/pkMXuO_tChY
+
+- name: Opening remarks
+  date: 20210608
+  time_start: "13:00"
+  time_end: "13:15"
+  platforms:
+- name: Round table
+  date: 20210608
+  time_start: "13:15"
+  time_end: "14:00"
+  session: roundtable
+  platforms:
+- name: Focused discussion
+  date: 20210608
+  time_start: "13:15"
+  time_end: "14:00"
+  session: discussion
+  platforms:
+- name: Social break
+  date: 20210608
+  time_start: "14:00"
+  time_end: "14:15"
+  platforms:
+  session: socialbreak
+- name: Workshop
+  date: 20210608
+  time_start: "14:15"
+  time_end: "15:00"
+  session: workshop
+  platforms:
+- name: Focused discussion
+  date: 20210608
+  time_start: "14:15"
+  time_end: "15:00"
+  session: discussion
+  platforms:
+- name: Social break
+  date: 20210608
+  time_start: "15:00"
+  time_end: "15:05"
+  platforms:
+  session: socialbreak
+- name: Active break
+  date: 20210608
+  time_start: "15:05"
+  time_end: "15:10"
+  session: activebreak
+  platforms:
+- name: Go to the next session
+  date: 20210608
+  time_start: "15:10"
+  time_end: "15:15"
+  session: break
+  platforms:
+- name: Workshop
+  date: 20210608
+  time_start: "15:15"
+  time_end: "16:00"
+  session: workshop
+  platforms:
+- name: Focused discussion
+  date: 20210608
+  time_start: "15:15"
+  time_end: "16:00"
+  session: discussion
+  platforms:
+- name: Closing remarks
+  date: 20210608
+  time_start: "16:00"
+  time_end: "16:15"
+  platforms:
+- name: Social + Talent Show
+  date: 20210608
+  time_start: "16:15"
+  time_end: "16:45"
+  platforms:

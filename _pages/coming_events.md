@@ -27,7 +27,9 @@ permalink: /comingevents
 </div>
 
 
+
 ## The program at a glance
+See the full <a href="/schedule.html">Program</a>.
 
 ### Day 1: Monday, 7 June 2021
 

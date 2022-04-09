@@ -7,6 +7,17 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Quebec (UNIQUE)
 ---
 
 <br>
+[UNIQUE (Unifying Neuroscience and Artificial Intelligence in Québec)](https://sites.google.com/view/unique-neuro-ai) is a research centre working at the intersection of neuroscience and artificial intelligence research. The main goal of UNIQUE is to promote and facilitate exchanges between research teams working at the intersection of artificial intelligence (AI) and
+neuroscience.
+
+# Never miss any of our Events
+Do you want to be informed about all UNIQUE Neuro-AI events, activities, and opportunities?
+<br>
+Subscribe to our [Mailing List](https://forms.gle/x5v8VQg4h1z7XRPu9)
+<br>
+Or follow us on [Twitter](https://twitter.com/ai_unique)
+
+
 <br>
 # The UNIQUE Student symposium is coming soon!
 
@@ -25,7 +36,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Quebec (UNIQUE)
 
     <div class="content">
         # UNIQUE Student Affairs
-        USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held **hybrid in Montreal**.  Dates will be announced soon!
+        USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held *hybrid in Montreal*.  Dates will be announced soon!
         <br>
         Learn more about
         <a href="/comingevents.html">USS2022</a>.
@@ -36,4 +47,4 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Quebec (UNIQUE)
 
 ## Contact
 
-If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. You may follow UNIQUE on [Twitter](https://twitter.com/ai_unique) for announcements.
+If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`.

@@ -21,7 +21,7 @@ permalink: /pastevents
       Watch the recordings on
       <a href="https://www.youtube.com/channel/UCOoOsSZfudHl5vcUnCE3jrA/live">YouTube</a>.
       <br>
-      <a href="/schedule.html">Program</a>.
+      <a href="/schedule_2021.html">Program</a>.
       <br>
       <a href="/team_2021.html">Team</a>.
       <br>
@@ -55,3 +55,11 @@ permalink: /pastevents
     </div>
   </div>
 </div>
+
+
+# Never miss any of our Events
+Do you want to be informed about all UNIQUE Neuro-AI events, activities, and opportunities?
+<br>
+Subscribe to our [Mailing List](https://forms.gle/x5v8VQg4h1z7XRPu9)
+<br>
+Or follow us on [Twitter](https://twitter.com/ai_unique)
