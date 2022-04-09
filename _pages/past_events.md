@@ -7,7 +7,7 @@ permalink: /pastevents
 <div class="card">
   <div class="card-image">
     <figure class="image is-5by2">
-      <img src="assets/img/banners/banner-1-v1.png" alt="{{'USS21'}}">
+      <img src="assets/img/USS2021/banner-1-v1.png" alt="{{'USS21'}}">
     </figure>
   </div>
   <div class="card-content">
