@@ -6,6 +6,7 @@ _site
 vendor
 .bundle
 .cemetery
+.ruby-version
 Gemfile.lock
 assets/img/team/*_orig*
 assets/img/speakers/*_orig*
