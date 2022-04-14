@@ -1,7 +1,7 @@
 ---
 title: USS 2022
 layout: page
-permalink: /uss2022
+permalink: /2022/uss
 ---
 
 <br>
@@ -10,7 +10,7 @@ permalink: /uss2022
 <div class="card">
   <div class="card-image">
     <figure class="image is-5by2">
-      <img src="assets/img/USS22_coming.jpg" alt="{{'USS22'}}">
+      <img src="/assets/img/USS22_coming.jpg" alt="{{'USS22'}}">
     </figure>
   </div>
   <div class="card-content">
@@ -21,7 +21,7 @@ permalink: /uss2022
     </div>
 
     <div class="content">
-      USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held **hybrid in Montreal**. Dates will be announced soon!
+      USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held <b>hybrid in Montreal</b>. Dates will be announced soon!
     </div>
   </div>
 </div>
@@ -30,7 +30,7 @@ permalink: /uss2022
 
 ## The program at a glance
 
-See the full <a href="/schedule.html">Program</a>.
+See the full <a href="/2022/schedule.html">Program</a>.
 
 ### Day 1: Thursday, 9 June 2022
 

@@ -9,11 +9,11 @@
     </tr>
   </thead>
   <tbody>
-    {% assign schedule = site.data.schedule | where: "date", include.date %}
+    {% assign schedule = include.schedule | where: "date", include.date %}
     {% assign schedule = schedule | sort: 'time_start' %}
     {% for event in schedule %}
       {% capture session %}{{ event.date }}{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}{{ event.session }}{% endcapture %}
-      {% assign speakers = site.data.speakers | sample: site.data.speakers.size | where: "sessions", session %}
+      {% assign speakers = include.speakers | sample: include.speakers.size | where: "sessions", session %}
       {% capture speakersnames %}
       {% for speaker in speakers | sample: speakers.size %}
         <a href="speakers#{{ speaker.photo | replace: ".jpg" "" }}">{{ speaker.fullname }}</a>

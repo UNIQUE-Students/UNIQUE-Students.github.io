@@ -24,8 +24,8 @@ description: USS (UNIQUE Student Symposium) is a student-oriented, student-organ
 author: UNIQUE Student Association
 #baseurl: ""
 #url: ""
-logo: assets/img/unique-logo-white-favicon.png
-favicon: assets/img/unique-logo-white-favicon.png
+logo: /assets/img/unique-logo-white-favicon.png
+favicon: /assets/img/unique-logo-white-favicon.png
 
 # Reading Files
 include:

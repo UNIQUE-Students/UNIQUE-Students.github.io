@@ -4,6 +4,7 @@ subtitle:
 layout: page
 permalink: /coc_fr
 ---
+
 <div class="box">
   <a href="/coc.html">Read in English</a>
 </div>
