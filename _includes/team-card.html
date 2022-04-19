@@ -22,7 +22,7 @@
         <div class="content">
           <p>{{ person.bio }}</p>
           {% if person.email != "none" %}
-            <a class="tag">{{ person.email }}</a>
+            <a class="tag" href="mailto:{{ person.email }}">{{ person.email }}</a>
           {% endif %}
           {% if person.website != "none" %}
             <a class="tag" href="{{ person.website }}">Website</a>
