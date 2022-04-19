@@ -13,7 +13,7 @@ neuroscience.
 # Never miss any of our Events
 Do you want to be informed about all UNIQUE Neuro-AI events, activities, and opportunities?
 <br>
-Subscribe to our [Mailing List](https://forms.gle/x5v8VQg4h1z7XRPu9)
+Subscribe to our [Mailing List](https://docs.google.com/forms/d/e/1FAIpQLSc4zY0T3-Y0XRSt4JbWza8eEUjqH9SVERaXyZwzOrcvEdp2bA/viewform)
 <br>
 Or follow us on [Twitter](https://twitter.com/ai_unique)
 
