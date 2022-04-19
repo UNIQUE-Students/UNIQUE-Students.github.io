@@ -27,18 +27,55 @@
   pronouns: he/him
   twitter: https://twitter.com/nandahkrishna
   website: https://nandahkrishna.com
-- affiliation: "Universit\xE9 de Montr\xE9al, CRIUGM, Projet Courtois NeuroMod"
-  bio: "I am a master student in psychology at Universit\xE9 de Montr\xE9al. Having\
-    \ backgrounds in both music composition and cognitive neurosciences, my research\
-    \ interests include auditory perception, music perception and creation, and noise\
-    \ pollution's effects on perception and health (physical and mental). I'm currently\
-    \ part of the auditory perception and protection branch of the Projet Courtois\
-    \ NeuroMod (CRIUGM)."
-  committee: Chair
-  email: eddy.fortier@umontreal.ca
-  fullname: Eddy Fortier
-  photo: eddy_fortier.jpg
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: "I am doing a research project in Karim Jerbi's lab, working on dynamic decision-making.\
+    \ My research involves comparing latent representations of artificial and biological\
+    \ neural networks while performing the same task. I am generally interested in the\
+    \ application of neural networks to complex systems in the real world."
+  committee: Education
+  email: None
+  fullname: Philipp Thölke 
+  photo: philipp.jpg
   alttext: none
   pronouns: he/him
   twitter: none
   website: none
+  - affiliation: "Universit\xE9 de Montr\xE9al and CHU Sainte-Justine "
+  bio: "I am a Postdoctoral fellow with Prof. Guillaume Dumas at Université de Montréal\
+  \ and CHU Sainte-Justine. I study the neural dynamics of social interactions\
+  \ combining EEG and stimulation techniques."
+  committee: Communication
+  email: None
+  fullname: Quentin Moreau  
+  photo: quentin.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: none
+  - affiliation: "Laval Universit\xE9 "
+  bio: "I am a Postdoctoral Fellow working with Prof. Flavie Lavoie-Cardianl and\
+  \ Prof. Christian Gagné at Laval University, Quebec City. I am interested in\
+  \ the development of multimodal super-resolution imaging for live-cell imaging\
+  \ using machine learning. I am addicted to reading and love scientific discussions."
+  committee: Communication
+  email: theresa.wiesner.1@ulaval.ca
+  fullname: Theresa Wiesner
+  photo: theresa.jpg
+  alttext: none
+  pronouns: she/her
+  twitter: https://twitter.com/terrymosoly
+  website: wiesnertheresa.github.io
+  - affiliation: "Universit\xE9 de Montr\xE9al and Mila"
+  bio: "I’m a PhD student in applied mathematics at the University of Montreal and Mila,\
+  \ the Quebec AI institute. My interests revolve around the application of methods\
+  \ from probability and dynamical systems theory to develop normative theories of computation\
+  \ in biological and artificial recurrentneural networks."
+  committee: Program
+  email: none
+  fullname: Ezekiel Williams
+  photo: ezekiel_williams.jpeg
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: none
+
