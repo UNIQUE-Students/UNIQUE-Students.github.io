@@ -1,5 +1,6 @@
 ---
 title: USS 2022
+subtitle: Dynamics of Learning and Optimization in Brains and Machines
 layout: page
 permalink: /2022/uss
 ---
@@ -10,18 +11,18 @@ permalink: /2022/uss
 <div class="card">
   <div class="card-image">
     <figure class="image is-5by2">
-      <img src="/assets/img/USS22_coming.jpg" alt="{{'USS22'}}">
+      <img src="/assets/img/USS2022/banner.png" alt="USS 2022">
     </figure>
   </div>
   <div class="card-content">
     <div class="media">
       <div class="media-content">
-        <p class="title is-4">UNIQUE Student Symposium 2022</p>
+        <p class="title is-4">UNIQUE Student Symposium 2022: Dynamics of Learning and Optimization in Brains and Machines</p>
       </div>
     </div>
 
     <div class="content">
-      USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held <b>hybrid in Montreal</b>. Dates will be announced soon!
+      USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held <b>hybrid in Montreal</b> on June 9th and 10th!
     </div>
   </div>
 </div>

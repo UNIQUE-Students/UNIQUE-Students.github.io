@@ -10,21 +10,21 @@ permalink: /2022/schedule
 <section class="hero is-primary">
   <div class="hero-body">
     <figure class="image is-5by2">
-      <img src="/assets/img/USS2021/banner-1-v1.png" alt="{{'USS21'}}">
+      <img src="/assets/img/USS2022/banner.png" alt="USS 2022">
     </figure>
   </div>
 </section>
 
 
-The times are Eastern Daylight Time (Quebec local time, UTC-4). Click on the times to check your local time.
+The times are Eastern Daylight Time (Québec local time, UTC-4). Click on the times to check your local time.
 
-## Thursday, 9 June
+## Thursday, 9th June
 
 TBA
 
 {% include table-schedule.html schedule=site.data.schedule_2022 speakers=site.data.speakers_2022 date="20210607" people="Speaker(s)" %}
 
-## Friday, 10 June
+## Friday, 10th June
 
 TBA
 
