@@ -27,26 +27,21 @@ permalink: /2022/uss
   </div>
 </div>
 
+---
 
+## This years topic: Dynamics of Learning and Optimization in Brains and Machines
 
-## The program at a glance
+##### The full program will be announced soon  
+##### Day 1: Thursday, 9 June 2022
+##### Day 2: Friday, 10 June 2022
 
-See the full <a href="/2022/schedule.html">Program</a>.
-
-### Day 1: Thursday, 9 June 2022
-
-TBA
-
-### Day 2: Friday, 10 June 2022
-
-TBA
 
 ---
 
 ## Important dates
 
-* Registration due: TBA
-* Posters and Lightning Talks Registration due: TBA
+* Registration will open soon
+* Posters and Lightning Talks Registration due: <b>Monday, May 12th, 2022 (anywhere on earth)</b>
 
 ---
 
@@ -54,7 +49,8 @@ TBA
 
 We warmly invite you to join us for this year’s edition of the UNIQUE Student Symposium.
 
-{% include registration-message.html title="Registration" message="You can now register to USS 2022 using the link below!" button="Registration form" link="#" %}
+<!--- {% include registration-message.html title="Registration" message="Registration will open soon !" button="Registration form" link="#" %}
+-->
 
 ---
 
@@ -62,7 +58,7 @@ We warmly invite you to join us for this year’s edition of the UNIQUE Student 
 
 On the first day of the symposium, [Thursday June 9](schedule), we will have an in-person _poster session_ and a virtual _lightning talks session_. If you are interested in participating in these sessions, please fill out the form below.
 
-{% include registration-message.html title="Lightning talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. You will receive a notice on (TBD) if you are selected and will then be asked to submit a digital version of your poster or a 3-minute video to present at the event." button="Application form" link="https://forms.gle/WLjjGrY18ZFRjDGh9" %}
+{% include registration-message.html title="Lightning talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. You will receive a notice on (TBD) if you are selected and will then be asked to submit a digital version of your poster or a 3-minute video to present at the event." button="Application form" link="https://forms.gle/yN41jojdiq98jePs5" %}
 
 ---
 
