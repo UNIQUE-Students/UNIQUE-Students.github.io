@@ -58,7 +58,7 @@ We warmly invite you to join us for this year’s edition of the UNIQUE Student 
 
 On the first day of the symposium, we will have an <b> in-person _poster session_ </b> and a <b> virtual _lightning talks session_</b>. If you are interested in participating in these sessions, please fill out the form below.
 
-{% include registration-message.html title="Lightning talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. After your abstract has been accepted, you will be asked to submit a digital version of your poster or a 3-minute video to present at the event." button="Application form" link="https://forms.gle/yN41jojdiq98jePs5" %}
+{% include registration-message.html title="Poster and Lightning Talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. After your abstract has been accepted, you will be asked to submit a digital version of your poster or a 3-minute video to present at the event." button="Application form" link="https://forms.gle/yN41jojdiq98jePs5" %}
 
 ---
 
