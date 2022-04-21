@@ -52,8 +52,8 @@
   pronouns: he/him
   twitter: https://twitter.com/quentin_moreau
   website: https://scholar.google.com/citations?user=745WRukAAAAJ&hl=fr
-- affiliation: "Laval Universit\xE9 "
-  bio: "I am a Postdoctoral Fellow working with Prof. Flavie Lavoie-Cardianl and\
+- affiliation: "Universit\xE9 Laval"
+  bio: "I am a Postdoctoral Fellow working with Prof. Flavie Lavoie-Cardinal and\
   \ Prof. Christian Gagné at Laval University, Quebec City. I am interested in\
   \ the development of multimodal super-resolution imaging for live-cell imaging\
   \ using machine learning. I am addicted to reading and love scientific discussions."
@@ -69,7 +69,7 @@
   bio: "I’m a PhD student in applied mathematics at the University of Montreal and Mila,\
   \ the Quebec AI institute. My interests revolve around the application of methods\
   \ from probability and dynamical systems theory to develop normative theories of computation\
-  \ in biological and artificial recurrentneural networks."
+  \ in biological and artificial recurrent neural networks."
   committee: Program
   email: ezekiel.williams@mila.quebec
   fullname: Ezekiel Williams
@@ -78,4 +78,20 @@
   pronouns: he/him
   twitter: https://twitter.com/zek3r
   website: https://computationalcognition.ca
+  
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: "I am a master’s student in neuroscience at Université de Montréal and\
+  \ Cisek’s lab, with having backgrounds in mathematics and engineering. I am\
+  \ interested in computational neuroscience, how information is represented\
+  \ in the brain, and how neural circuits are connected together. Currently,\
+  \ I am working on the computational model of the brain circuits during\
+  \ decision making, specifically during action specification and selection."
+  committee: Program
+  email: poune.mirzazadeh@umontreal.ca
+  fullname: Poune Mirzazadeh
+  photo: poune_mirzazadeh.png
+  alttext: none
+  pronouns: she/her
+  twitter: https://twitter.com/MirzazadehPoune
+  website: none
 
