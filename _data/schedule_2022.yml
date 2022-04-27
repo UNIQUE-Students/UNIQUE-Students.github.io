@@ -1,16 +1,16 @@
 - name: Breakfast
   date: 20220609
-  time_start: "8:45"
-  time_end: "9:15"
+  time_start: "08:45"
+  time_end: "09:15"
   platforms:
 - name: Pre-workshop remarks
   date: 20220609
-  time_start: "9:15"
-  time_end: "9:25"
+  time_start: "09:15"
+  time_end: "09:25"
   platforms:
 - name: Workshop 1
   date: 20220609
-  time_start: "9:25"
+  time_start: "09:25"
   time_end: "10:50"
   platforms:
 - name: Break
@@ -62,17 +62,17 @@
 
 - name: Breakfast
   date: 20220610
-  time_start: "8:45"
-  time_end: "9:15"
+  time_start: "08:45"
+  time_end: "09:15"
   platforms:
 - name: Pre-workshop remarks
   date: 20220610
-  time_start: "9:15"
-  time_end: "9:25"
+  time_start: "09:15"
+  time_end: "09:25"
   platforms:
 - name: Workshop 2
   date: 20220610
-  time_start: "9:25"
+  time_start: "09:25"
   time_end: "10:50"
   platforms:
 - name: Break
@@ -118,6 +118,6 @@
   platforms:
 - name: Social !
   date: 20220610
-  time_start: 
+  time_start: "15:45"
   time_end:
   platforms:

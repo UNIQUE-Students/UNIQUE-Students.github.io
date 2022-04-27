@@ -31,7 +31,7 @@ permalink: /2022/uss
 
 ## Dynamics of Learning and Optimization in Brains and Machines
 
-##### The full program will be announced soon  
+##### See the full schedule [here](schedule).
 ##### Day 1: Thursday, 9 June 2022
 ##### Day 2: Friday, 10 June 2022
 
