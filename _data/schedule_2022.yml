@@ -80,7 +80,7 @@
   time_start: "10:50"
   time_end: "11:20"
   platforms:
-- name: Opening remarks +  Poster Awards
+- name: Opening remarks 
   date: 20220610
   time_start: "11:20"
   time_end: "11:30"
