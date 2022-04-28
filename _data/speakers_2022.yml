@@ -18,31 +18,27 @@
     - name: Relevant paper
       link: https://arxiv.org/pdf/2106.03696.pdf
     - name: Website
-      link: https://cypaquette.github.io/
-#     - name: Twitter
-#       link: https://twitter.com/meganakpeters
-      
-- fullname: Pim Haselager
+      link: https://cypaquette.github.io
+- fullname: Guillaume Hennequin
   affiliations: 
-  - Donders Institute for Brain, Cognition and Behaviour
-  - Department of Artificial Intelligence, Radboud University, Nijmegen
+  - University of Cambridge
   nametitle: Dr.
-  position: Associate Professor
-  bio: "I obtained master degrees in philosophy and psychology, and received my PhD in 1995 at the Free University of Amsterdam, the Netherlands. Currently I am associate professor (Theoretical Cognitive Science) at the Donders Institute for Brain, Cognition and Behaviour, at the Radboud University Nijmegen. My research focuses on the implications of Cognitive neuroscience and Artificial Intelligence for society and human self-understanding. I investigate the ethical and societal implications of research in, and the ensuing technologies of, CNS and AI, such as Robotics, Brain-Computer Interfacing, and Deep Brain Stimulation. I am particularly interested in the integration of empirical work (i.e. experimentation, computational modeling, and robotics) with philosophical issues regarding knowledge, identity, agency, responsibility and intelligent behavior. I have published in journals such as Nature: Biotechnology, Science and Engineering Ethics, American Journal of Bioethics, Neuroethics, Journal of Cognitive Neuroscience and Journal of Social Robotics."
-  photo: pim_haselager.jpg
-  alttext: W.F.G. Haselager (Pim)
-  title: "Unifying AI & Neuroscience: A great idea! But to what purpose?"
-  abstract: "The combination of Artificial Intelligence (AI) and Neuroscience (NS) has great promise. It can lead to various practical applications in a wide variety of fields, ranging from micro-targeted marketing to clinical therapy and law. At the same time, the combined power of AI and NS leads to serious questions about what it is that we would like to achieve and why. It also leads to questions about how we can exert meaningful human control over the ensuing technologies. This is especially urgent given the many challenges humanity is facing this century, from inequity to ecology. It seems fair to say that our current ways to address these challenges have not been, to put it mildly, particularly successful. AI and NS enable us to see our human strengths and weaknesses with greater clarity, and build more effective technology accordingly. But the potentially exploitative power of this combination of sciences does present us with the challenge to apply it wisely. I will suggest that we are in need of a more profound reflection on what our sciences show us about ourselves, what our technology enables us to do with that, and what, apparently, we aim to do with those insights and applications."
+  position: Lecturer
+  bio: "Guillaume Hennequin is a University Lecturer in Computational Neuroscience. Previously, he did his PhD in Wulfram Gerstner’s group at EPFL, Switzerland, followed by a postdoc with Máté Lengyel at CBL."
+#   photo: pim_haselager.jpg
+  alttext: Guillaume Hennequin
+  title: "TBA"
+  abstract: " TBA"
   sessions: 
-  - "202106071315"
-  - "202106071630panel"
+  - "20220609"
+  - "20220609"
   tags:
     - name: Relevant paper
-      link: https://www.tandfonline.com/doi/full/10.1080/21507740.2020.1740353
+      link: https://www.biorxiv.org/content/10.1101/2021.10.07.463540v1
     - name: Website
-      link: http://www.socsci.ru.nl/haselag/index.html
+      link: https://www.cbl-cambridge.org/hennequin
     - name: Twitter
-      link: https://twitter.com/Pim_Haselager
+      link: https://twitter.com/GJEHennequin
 - fullname: Stefanie Blain-Moraes
   affiliations: 
   - McGill University, School of Physical & Occupational Therapy
