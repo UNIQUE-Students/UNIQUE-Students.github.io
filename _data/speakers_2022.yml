@@ -7,7 +7,7 @@
   nametitle: Ph.D.
   bio: Courtney Paquette is an assistant professor at McGill University and a CIFAR Canada AI chair, MILA. Paquette’s research broadly focuses on designing and analyzing algorithms for large-scale optimization problems, motivated by applications in data science. She received her PhD from the mathematics department at the University of Washington (2017), held postdoctoral positions at Lehigh University (2017-2018) and University of Waterloo (NSF postdoctoral fellowship, 2018-2019), and was a research scientist at Google Research, Brain Montreal (2019-2020).
   position: Assistant Professor
-#   photo: megan_peters.jpg
+  #   photo: megan_peters.jpg
   alttext: Courtney Paquette
   title: Optimization Algorithms in the Large: Exact Dynamics, Average-case Analysis, and Stepsize Criticality
   abstract: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of optimization algorithms (e.g., 1st-order methods, stochastic gradient descent (SGD), and momentum) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit. In particular, the limiting dynamics for stochastic algorithms are governed by a Volterra integral equation. This model predicts that SGD undergoes a phase transition at an explicitly given critical stepsize that ultimately affects its convergence rate, which we also verify experimentally. Finally, when input data is isotropic, we provide explicit expressions for the dynamics and average-case convergence rates. These rates show significant improvement over the worst-case complexities.
@@ -25,7 +25,7 @@
   nametitle: Dr.
   position: Lecturer
   bio: "Guillaume Hennequin is a University Lecturer in Computational Neuroscience. Previously, he did his PhD in Wulfram Gerstner’s group at EPFL, Switzerland, followed by a postdoc with Máté Lengyel at CBL."
-#   photo: pim_haselager.jpg
+  #   photo: pim_haselager.jpg
   alttext: Guillaume Hennequin
   title: "TBA"
   abstract: " TBA"
@@ -39,169 +39,21 @@
       link: https://www.cbl-cambridge.org/hennequin
     - name: Twitter
       link: https://twitter.com/GJEHennequin
-- fullname: Stefanie Blain-Moraes
+- fullname: Anna Levina
   affiliations: 
-  - McGill University, School of Physical & Occupational Therapy
-  bio: "Dr. Blain-Moraes runs the Biosignal Interaction and Personhood Technology (BIAPT) lab at McGill.  Her lab applies physiological signal processing techniques and assistive technology design principles to address the needs of non-communicative individuals and their care providers."
-  position: Assistant Professor
-  photo: stefanie_blain-moraes.jpg
-  alttext: Stefanie Blain-Moraes
-  title: Panel Discussion
+  - University of Tübingen
+  #   bio: "Dr. Blain-Moraes runs the Biosignal Interaction and Personhood Technology (BIAPT) lab at McGill.  Her lab applies physiological signal processing techniques and assistive technology design principles to address the needs of non-communicative individuals and their care providers."
+  position: Research Group Leader
+  #   photo: stefanie_blain-moraes.jpg
+  alttext: Anna Levina
+  title: "TBA"
+  abstract: " TBA"
   sessions: 
-  - "202106071630panel"
+  - "20220610"
   tags:
+    - name: Relevant paper
+      link: https://www.biorxiv.org/content/10.1101/2020.08.11.245944v2
     - name: Website
-      link: https://www.mcgill.ca/spot/stefanie-blain-moraes
-- fullname: Irina Rish
-  affiliations: 
-  - Université de Montréal
-  - Mila, Québec AI Institute
-  - Canada AI Chair
-  bio: "Irina Rish is an Associate Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM) and a core faculty member of MILA - Quebec AI Institute. She holds Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. She received her MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute. Dr. Rish's research focus is on machine learning, neural data analysis and neuroscience-inspired AI."
-  position: Associate Professor
-  photo: irina_rish.jpg
-  alttext: Irina Rish
-  title: Panel Discussion
-  sessions: 
-  - "202106071630panel"
-  tags:
-    - name: Website
-      link: https://sites.google.com/site/irinarish/
+      link: https://uni-tuebingen.de/index.php?id=161236
     - name: Twitter
-      link: https://twitter.com/irinarish
-- fullname: Guillaume Lajoie
-  affiliations: 
-  - Dept. de Mathématiques et Statistiques, Université de Montréal
-  - Mila, Québec AI Institute
-  - Canada CIFAR AI Chair
-  position: Assistant Professor
-  photo: guillaume_lajoie.jpg
-  alttext: Guillaume Lajoie
-  title: Machine learning and Neuroscience
-  abstract: "A panel discussion with Dr. Pouya Bashinvan, Dr. Irina Rish and Dr. Danilo Bzdok about (1) deep network models of neural circuits (2) ML for large data analysis and (3) ANN to explore neuroscience ideas unattainable by experiments."
-  sessions: 
-  - "202106081315discussion"
-  tags:
-    - name: Website
-      link: https://www.guillaumelajoie.com/
-    - name: Twitter
-      link: https://twitter.com/g_lajoie_
-- fullname: Paul Cisek
-  nametitle: Ph.D.
-  affiliations: 
-  - Department of Neuroscience, Université de Montréal
-  position: Professor
-  photo: paul_cisek.jpg
-  alttext: Paul Cisek
-  title: Decision Making
-  sessions: 
-  - "202106081515discussion"
-  tags: 
-    - name: Website
-      link: http://www.cisek.org/pavel/
-- fullname: Thomas R. Shultz
-  nametitle: Ph.D.
-  position: Professor
-  affiliations: 
-  - Department of Psychology, McGill University
-  photo: thomas_shultz.jpg
-  alttext: Thomas Shultz
-  title: Memory and Learning
-  sessions: 
-  - "202106081415discussion"
-  tags:
-    - name: Website
-      link: https://www.tomshultz.net/
-- fullname: Robin Renault
-  position: Doctoral student
-  affiliations: 
-  - Université de Montréal
-  photo: robin_renault.jpg
-  alttext: Robin Renault
-  bio: "Currently doctoral student in clinical psychology, I am particularly interested in ways of fostering awareness, presence, and well-being through the practice of mindfulness. I have been practicing meditation for almost ten years now, in addition to yoga and different breathing techniques, all of which helped me going through anxiety and depression some years ago. As my doctoral thesis, I am now studying the effects of mindfulness practice by therapists on the efficacy of therapy. My hope is to encourage people develop more awareness to their inner world, as well as to find more peace and balance in their life."
-  title: Round table on mental health
-  sessions: 
-  - "202106081315roundtable"
-- fullname: Marie-Ève Vautrin-Nadeau
-  position: PhD candidate
-  affiliations: 
-  - Université de Montréal
-  photo: marie-eve_vautrin_nadeau.jpg
-  alttext: Marie-Ève Vautrin-Nadeau
-  bio: "Marie-Ève Vautrin-Nadeau is a PhD candidate in Communication Studies working under the supervision of Line Grenier and Stephanie Fox. She is interested in health communication – mainly in social care settings, and in relation to illness trajectories –, and in empowerment-oriented mental health practices.  Working mainly with qualitative methods, she has become a mental health peer worker after struggling with illness in her adolescence and her twenties. Marie-Ève strongly believes in the power of service users’ experiential knowledge, as she embraces a mental health as a journey perspective."
-  title: Round table on mental health
-  sessions: 
-  - "202106081315roundtable"
-- fullname: Aislinn Sandre
-  position: PhD student
-  affiliations: 
-  - McGill University
-  photo: aislinn_sandre.jpg
-  alttext: Aislinn Sandre
-  bio: "Aislinn Sandre is a PhD candidate in Clinical Psychology at McGill University. Her research focuses on understanding how stress affects the brain to increase risk for depression and anxiety. Specifically, she examines whether exposure to stress early in life, such as harsh parenting, abuse, neglect, or peer victimization, alters brain responses to rewards and threats, and whether these brain alterations make it more likely that people will develop depression and/or anxiety later on in life. In her work, Aislinn primarily uses electroencephalography (EEG) to measure brain activity during sensitive periods of neurodevelopment, such as infancy, adolescence, and young adulthood. Aislinn has worked as an intern in hospitals and schools in Montreal to provide assessment and psychotherapy for stress- and trauma-related disorders. She has developed and presented several workshops designed to help people reduce stress and improve mental health. Currently, she is training healthcare workers to provide supportive interventions to their colleagues in order to improve coping in response to COVID-19-related stress."
-  title: Round table on mental health
-  sessions: 
-  - "202106081315roundtable"
-- fullname: Samuel Guay
-  position: PhD student
-  affiliations: 
-  - Université de Montréal
-  photo: samuel_guay.jpg
-  alttext: Samuel Guay
-  title: First steps into Open Science
-  bio: "Samuel Guay is a PhD candidate in Cognitive Neuroscience - Psychology at the University of Montreal and a member of the Sport & Trauma Applied Research Lab at CIUSSS NÎM Research Center under the supervision of Louis De Beaumont. His research focuses on using multimodal neuroimaging techniques to study the short- and long-term effects of repetitive hits to the head in both active and retired athletes. He is actively involved in grassroots initiatives that promote open science, best research practices, and collaboration such as Open Science UMontreal that he co-founded in 2019, the Brainhack, and the FORRT communities."
-  abstract: "This workshop aims to introduce the broad concept that is open science from a global perspective. We will touch on three core aspects that open science is based on, namely processes (e.g., collaboration, reproducibility), Products (e.g., Open Data, Open Materials), and Values (e.g., freedom, equity). We will then showcase some tools and state-of-the-art examples of openness from the Neuro-AI field. If time permits, we will end the workshop by collaboratively (yes, all of us!) creating a Neuro-AI open science student guide."
-  sessions: 
-  - "202106081415workshop"
-  tags: 
-    - name: Open Science UMontréal
-      link: https://osumontreal.ca/
-    - name: Slides
-      link: https://osf.io/b52mg/
-- fullname: Andréanne Proulx
-  position: Master student
-  affiliations: 
-  - Université de Montréal
-  photo: andreanne_proulx.jpg
-  alttext: Andréanne Proulx
-  title: First steps into Open Science
-  bio: "I am a master's student in Psychology at the University of Montreal researching the effects of genetic mutations on functional brain phenotypes. I am a contributor to the Neuro-AI student community as a member of UNIQUE Student Affairs Committee (SAC), and advocate for open science through the student initiative Open Science UMontreal (OSUM)."
-  abstract: "This workshop aims to introduce the broad concept that is open science from a global perspective. We will touch on three core aspects that open science is based on, namely processes (e.g., collaboration, reproducibility), Products (e.g., Open Data, Open Materials), and Values (e.g., freedom, equity). We will then showcase some tools and state-of-the-art examples of openness from the Neuro-AI field. If time permits, we will end the workshop by collaboratively (yes, all of us!) creating a Neuro-AI open science student guide."
-  sessions: 
-  - "202106081415workshop"
-  tags: 
-    - name: Open Science UMontréal
-      link: https://osumontreal.ca/
-    - name: Slides
-      link: https://osf.io/b52mg/
-- fullname: Madeleine Elise Nadler
-  alttext: Madeleine Elise Nadler
-  pronouns: "she/her"
-  position: Recent BA Graduate
-  affiliations: 
-  - Concordia, Interdisciplinary Studies in Sexuality, Women's Studies, and Religions and Cultures
-  photo: madeleine_elise_nadler.jpg
-  title: "Developing, Disseminating, and Diversifying Knowledge: An Introduction to Equity, Diversity, and Inclusion (EDI) in Academia"
-  abstract: "This workshop is designed for new students as well as those with no background in Equity, Diversity, and Inclusion (EDI). The workshop aims to help develop awareness of EDI concepts and issues in Academia. Participants will be introduced to basics of EDI in both theory and reality with relation to data-driven research as well as current events."
-  sessions: 
-  - "202106081515workshop"
-  tags: 
-    - name: Slides
-      link: /assets/pdf/madeleine_elise_nadler.pdf
-- fullname: Caelan Taylor
-  alttext: Caelan Taylor
-  sessions: 
-  - "202106071505activebreak"
-  - "202106071620activebreak"
-  - "202106081505activebreak"
-  affiliations:
-  - Department of Health, Kinesiology and Clinical Exercise Physiology at Concordia University
-  photo: caelan_taylor.jpg
-  bio: "Caelan is a student at Concordia with the hopes of becoming an Athletic Therapist one day. He loves to share his passion of health and wellness with others through physical activity and manual therapy where he does his best to get people to feel and perform at their best."
-  position: Student at Concordia, Personal trainer, and massage therapist
-  tags:
-    - name: Facebook
-      link: https://www.facebook.com/TaylorTrainer20
-    - name: Instagram
-      link: https://www.instagram.com/TaylorTrainer20/
-
+      link: https://twitter.com/SelfOrgAnna
