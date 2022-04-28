@@ -1,26 +1,27 @@
-- fullname: Megan Peters
+- fullname: Courtney Paquette
   pronouns: "she/her"
   affiliations: 
-  - Cognitive Sciences, UC Irvine
-  - CIFAR Global Scholar
-  - Azrieli Program in Brain, Mind, & Consciousness
+  - McGill University
+  - CIFAR Canada AI chair
+  - MILA
   nametitle: Ph.D.
-  bio: I am an Assistant professor at the UC Irvine Department of Cognitive Sciences. I'm also a Cooperating Researcher in the Department of Decoded Neurofeedback at Advanced Telecommunications Research Institute International in Kyoto, Japan. Prior to joining UCI I was on the faculty at UC Riverside in the Department of Bioengineering. I received my Ph.D. in computational cognitive neuroscience (psychology) from UCLA and then was a postdoc there as well. My research aims to reveal how the brain represents and uses uncertainty, and performs adaptive computations based on noisy, incomplete information. I specifically focus on how these abilities support metacognitive evaluations of the quality of (mostly perceptual) decisions, and how these processes might relate to phenomenology and conscious awareness. I use neuroimaging, computational modeling, machine learning and neural stimulation techniques to study these topics.
+  bio: Courtney Paquette is an assistant professor at McGill University and a CIFAR Canada AI chair, MILA. Paquette’s research broadly focuses on designing and analyzing algorithms for large-scale optimization problems, motivated by applications in data science. She received her PhD from the mathematics department at the University of Washington (2017), held postdoctoral positions at Lehigh University (2017-2018) and University of Waterloo (NSF postdoctoral fellowship, 2018-2019), and was a research scientist at Google Research, Brain Montreal (2019-2020).
   position: Assistant Professor
-  photo: megan_peters.jpg
-  alttext: Megan Peters
-  title: Linking metacognition and consciousness with computational models
-  abstract: Few people tackle the neural or computational basis of qualitative experience (Frith, 2019). Why? One major reason is that science and philosophy have both struggled to propose how we might even begin to start studying it. Here I propose that metacognitive computations, and the subjective feelings that go along with them, give us a solid starting point. Specifically, perceptual metacognition possesses unique properties that provide a powerful and unique opportunity for studying the neural and computational correlates of subjective experience. I will describe these properties, and discuss how computational models of metacognition can be used to an empirically-tractable early step in identifying the generative process that constructs qualitative experience, drawing on empirical data. By applying decades of developments in computational cognitive science and formal computational model comparisons to the specific properties of perceptual metacognition, we may reveal new and exciting insights about how the brain constructs subjective conscious experiences and the nature of those experiences themselves.
+#   photo: megan_peters.jpg
+  alttext: Courtney Paquette
+  title: Optimization Algorithms in the Large: Exact Dynamics, Average-case Analysis, and Stepsize Criticality
+  abstract: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of optimization algorithms (e.g., 1st-order methods, stochastic gradient descent (SGD), and momentum) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit. In particular, the limiting dynamics for stochastic algorithms are governed by a Volterra integral equation. This model predicts that SGD undergoes a phase transition at an explicitly given critical stepsize that ultimately affects its convergence rate, which we also verify experimentally. Finally, when input data is isotropic, we provide explicit expressions for the dynamics and average-case convergence rates. These rates show significant improvement over the worst-case complexities.
   sessions: 
-  - "202106071515"
-  - "202106071630panel"
+  - "20220609"
+  - "20220609"
   tags:
     - name: Relevant paper
-      link: https://psyarxiv.com/bqfr6/
+      link: https://arxiv.org/pdf/2106.03696.pdf
     - name: Website
-      link: https://faculty.sites.uci.edu/cnclab/
-    - name: Twitter
-      link: https://twitter.com/meganakpeters
+      link: https://cypaquette.github.io/
+#     - name: Twitter
+#       link: https://twitter.com/meganakpeters
+      
 - fullname: Pim Haselager
   affiliations: 
   - Donders Institute for Brain, Cognition and Behaviour
