@@ -34,6 +34,7 @@ permalink: /2022/uss
 ##### See the full schedule [here](schedule).
 ##### Day 1: Thursday, 9 June 2022
 ##### Day 2: Friday, 10 June 2022
+##### See the speakers [here](speakers).
 
 
 ---
@@ -41,7 +42,7 @@ permalink: /2022/uss
 ## Important dates
 
 * Posters and Lightning Talks Registration due: <b>Monday, May 12th, 2022 (anywhere on earth)</b>
-* Registration will open soon
+* Registration is open soon
 
 ---
 <!---

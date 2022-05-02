@@ -9,10 +9,9 @@
   position: Assistant Professor
   #   photo: megan_peters.jpg
   alttext: Courtney Paquette
-  title: Optimization Algorithms in the Large: Exact Dynamics, Average-case Analysis, and Stepsize Criticality
+  title: "Optimization Algorithms in the Large: Exact Dynamics, Average-case Analysis, and Stepsize Criticality"
   abstract: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of optimization algorithms (e.g., 1st-order methods, stochastic gradient descent (SGD), and momentum) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit. In particular, the limiting dynamics for stochastic algorithms are governed by a Volterra integral equation. This model predicts that SGD undergoes a phase transition at an explicitly given critical stepsize that ultimately affects its convergence rate, which we also verify experimentally. Finally, when input data is isotropic, we provide explicit expressions for the dynamics and average-case convergence rates. These rates show significant improvement over the worst-case complexities.
   sessions: 
-  - "20220609"
   - "20220609"
   tags:
     - name: Relevant paper
@@ -31,7 +30,6 @@
   abstract: " TBA"
   sessions: 
   - "20220609"
-  - "20220609"
   tags:
     - name: Relevant paper
       link: https://www.biorxiv.org/content/10.1101/2021.10.07.463540v1
@@ -42,12 +40,11 @@
 - fullname: Anna Levina
   affiliations: 
   - University of Tübingen
-  #   bio: "Dr. Blain-Moraes runs the Biosignal Interaction and Personhood Technology (BIAPT) lab at McGill.  Her lab applies physiological signal processing techniques and assistive technology design principles to address the needs of non-communicative individuals and their care providers."
   position: Research Group Leader
-  #   photo: stefanie_blain-moraes.jpg
+  #   photo: megan_peters.jpg
   alttext: Anna Levina
   title: "TBA"
-  abstract: " TBA"
+  abstract: TBA
   sessions: 
   - "20220610"
   tags:
