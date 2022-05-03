@@ -41,7 +41,7 @@ permalink: /2022/uss
 
 ## Important dates
 
-* Posters and Lightning Talks Registration due: <b>Monday, May 12th, 2022 (anywhere on earth)</b>
+* Posters and Lightning Talks Registration due: <b>Sunday, May 15th, 2022 (anywhere on earth)</b>
 * Registration is open soon
 
 ---
