@@ -45,13 +45,14 @@ permalink: /2022/uss
 * Registration is open soon
 
 ---
-<!---
+
 ## Registration
 
 We warmly invite you to join us for this year’s edition of the UNIQUE Student Symposium.
 
- {% include registration-message.html title="Registration" message="Registration will open soon !" button="Registration form" link="#" %}
--->
+ {% include registration-message.html title="Registration" message="Registration is now open !" button="Registration form" link="https://forms.gle/o6AA5iuCt7NFzXPN7" %}
+
+ {% include registration-message.html title="Inscription" message="Les inscriptions sont maintenant ouvertes !" button="Formulaire d'inscription" link="https://forms.gle/JQ3ANrNnE6QqJwNy8" %}
 
 ---
 
@@ -62,6 +63,7 @@ On the first day of the symposium, we will have an <b> in-person _poster session
 {% include registration-message.html title="Poster and Lightning Talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. After your abstract has been accepted, you will be asked to submit a digital version of your poster or a 3-minute video to present at the event." button="Application form" link="https://forms.gle/yN41jojdiq98jePs5" %}
 
 ---
+
 
 ## Accessibility and Code of Conduct
 
