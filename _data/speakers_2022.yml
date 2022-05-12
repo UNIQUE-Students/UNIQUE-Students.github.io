@@ -40,7 +40,8 @@
 - fullname: Anna Levina
   affiliations: 
   - University of Tübingen
-  position: Research Group Leader
+  position: Assistant Professor for Computational Neuroscience
+  bio: "Anna Levina is an Assistant Professor for Computational Neuroscience at the University of Tübingen. Her main research interests include self-organization of neuronal activity, critical dynamics in neuronal networks and the mathematics of criticality among others. She received her Ph.D in Mathematics (2008) at the University of Göttingen. Previously, she was affiliated with the Max Plank Institute for Dynamics and Self-Organization Göttingen (2008-11), the Bernstein Center for Computational Neuroscience (2011-15), the Max Plank Institute for Mathematics in the Sciences (2011-15) and the Institute of Science and Technology Austria (2015-17)."
   photo: Levina_A.jpeg
   alttext: Anna Levina
   title: "TBA"
@@ -54,3 +55,36 @@
       link: https://uni-tuebingen.de/index.php?id=161236
     - name: Twitter
       link: https://twitter.com/SelfOrgAnna
+- fullname: Patrick Desrosiers
+  affiliations:
+  - CERVO Brain Research Center
+  - Université Laval
+  position: Researcher and Affiliated Professor in Physics
+  bio: "Patrick Desrosiers is a Researcher in Network Science and Computational Neuroscience at the CERVO Brain Research Center and an Affiliated Professor in Physics at Universit\xE9 Laval. He received his Ph.D in Theoretical Physics (2004) at Universit\xE9 Laval. He spent time at Universit\xE9 de Montr\xE9al (2006) as a postdoctoral fellow, Institut de Physique Th\xE9orique (IPhT) (2007-2008), and the Institute of Mathematics and Physics (IMAFI), Talca, Chile (2008-2014) as an associate professor."
+  photo: pdesrosiers.jpeg
+  alttext: Patrick Desrosiers
+  title: "TBA"
+  abstract: TBA
+  sessions: 
+  - "202206101320"
+  tags:
+    - name: Group Website
+      link: https://dynamicalab.github.io/
+    - name: Google Scholar
+      link: https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao
+- fullname: Alex Hernandez-Garcia
+  pronouns: "he/him/\xE9l"
+  affiliations: 
+  - "Mila, Universit\xE9 de Montr\xE9al"
+  nametitle: Postdoctoral Fellow
+  bio: "I am a postdoc at Mila. I am interested in the fundamental aspects of learning both in brains and machines. I currently work also on applications of machine learning to fight climate change."
+  position: Postdoctoral Fellow
+  photo: alex_hernandez-garcia.jpg
+  alttext: Alex Hernandez-Garcia
+  sessions: 
+  - "202206101425"
+  tags:
+    - name: Twitter
+      link: https://twitter.com/alexhdezgcia
+    - name: Website
+      link: alexhernandezgarcia.github.io
