@@ -12,6 +12,7 @@
   date: 20220609
   time_start: "09:25"
   time_end: "10:50"
+  session: workshop
   platforms:
 - name: Break
   date: 20220609
@@ -74,6 +75,7 @@
   date: 20220610
   time_start: "09:25"
   time_end: "10:50"
+  session: workshop
   platforms:
 - name: Break
   date: 20220610
