@@ -88,3 +88,17 @@
       link: https://twitter.com/alexhdezgcia
     - name: Website
       link: alexhernandezgarcia.github.io
+- fullname: François Paugam
+  affiliations: 
+  - "Mila, Universit\xE9 de Montr\xE9al"
+  nametitle: PhD student
+  bio: "I am a PhD student in Computer Science at the University of Montreal and Mila. In my research, I attempt to leverage functional brain data to produce supposedly more robust and human-like AI agents. I am interested in the interplay between neuroscience and AI, in particular how both fields can benefit from each other’s advances."
+  position: PhD student
+  photo: francois_paugam.jpg
+  alttext: François Paugam
+  abstract: "This workshop aims to provide programming tips and insight on how to deal with error messages and debugging code. The workshop will be conducted in French."
+  sessions: 
+  - "202206090925workshop"
+  tags:
+    - name: GitHub
+      link: https://github.com/FrancoisPgm

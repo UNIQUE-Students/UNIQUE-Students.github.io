@@ -24,4 +24,4 @@ The times are Eastern Daylight Time (Québec local time, UTC-4). Click on the ti
 
 ## Friday, 10th June
 
-{% include table-schedule.html schedule=site.data.schedule_2022 speakers=site.data.speakers_2022 date="20220610" people="Mentor(s)" %}
+{% include table-schedule.html schedule=site.data.schedule_2022 speakers=site.data.speakers_2022 date="20220610" people="Speaker(s)" %}
