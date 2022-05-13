@@ -96,6 +96,7 @@
   position: PhD student
   photo: francois_paugam.jpg
   alttext: François Paugam
+  title: Dealing with Debugging and Error Messages
   abstract: "This workshop aims to provide programming tips and insight on how to deal with error messages and debugging code. The workshop will be conducted in French."
   sessions: 
   - "202206090925workshop"
