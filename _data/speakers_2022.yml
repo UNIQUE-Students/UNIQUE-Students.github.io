@@ -23,16 +23,17 @@
   - University of Cambridge
   nametitle: Dr.
   position: Lecturer
-  bio: "Guillaume Hennequin is a University Lecturer in Computational Neuroscience. Previously, he did his PhD in Wulfram Gerstner’s group at EPFL, Switzerland, followed by a postdoc with Máté Lengyel at CBL."
+  bio: "I studied electrical engineering and computer science at Supélec (France), and a Masters in theoretical neuroscience in Edinburgh (UK). I then spent several happy years as a PhD student in Wulfram Gerstner's lab at EPFL (Switzerland), and yet happier years as a postdoc with Máté Lengyel's in Cambridge (UK). By a twist of fate which the best scientists can't explain, I was later offered to stay as faculty in the Computational and Biological Learning lab (Engineering Department, University of Cambridge). My group is broadly interested in the principles that govern the plasticity and dynamics of cortical networks, and their role in probabilistic computations such as perception and motor control.  We maintain an active interest in machine learning, both in developing new tools for the analysis of neural data, but also in studying deep networks, their optimization, and what they might tell us about the brain."
   photo: Hennequin_G.jpg
   alttext: Guillaume Hennequin
-  title: "TBA"
-  abstract: " TBA"
+  title: "V1 be one: unifying phenomenology and function in a network model of cortical variability"
+  abstract: " Cortical responses to visual stimuli have a rich phenomenology, with well-documented nonlinearities, transients, oscillations, and stimulus-dependent patterns of across-trial variability. What principles of network dynamics underlie these features, and what function(s) do they serve? I will present our recent efforts to address these questions and unify previously disparate bottom-up and top-down models of V1. First, I will show that several key properties of V1 responses are difficult to reconcile with the classical theory of tightly balanced E/I networks; on the contrary, a regime of loose E/I balance accomodates these properties robustly (Hennequin et al., Neuron (2018)). Second, building up on this, I will show that yet more properties of V1 dynamics emerge in a loosely-balanced network model trained to perform sampling-based Bayesian inference (Echeveste et al., Nat. Neurosci. (2020))."
   sessions: 
   - "202206091130"
   tags:
     - name: Relevant paper
-      link: https://www.biorxiv.org/content/10.1101/2021.10.07.463540v1
+      link: https://www.nature.com/articles/s41593-020-0671-1
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5971207/
     - name: Website
       link: https://www.cbl-cambridge.org/hennequin
     - name: Twitter
