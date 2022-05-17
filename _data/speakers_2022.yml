@@ -41,11 +41,11 @@
   affiliations: 
   - University of Tübingen
   position: Assistant Professor for Computational Neuroscience
-  bio: "Anna Levina is an Assistant Professor for Computational Neuroscience at the University of Tübingen. Her main research interests include self-organization of neuronal activity, critical dynamics in neuronal networks and the mathematics of criticality among others. She received her Ph.D in Mathematics (2008) at the University of Göttingen. Previously, she was affiliated with the Max Plank Institute for Dynamics and Self-Organization Göttingen (2008-11), the Bernstein Center for Computational Neuroscience (2011-15), the Max Plank Institute for Mathematics in the Sciences (2011-15) and the Institute of Science and Technology Austria (2015-17)."
+  bio: "Anna Levina is an assistant professor at the University of Tübingen, Germany, where she leads a group on "Self-organization and optimality in neuronal networks" funded by the Sofja Kovalevskaja Award of the Humboldt Foundation. Previously she was an independent research fellow at IST Austria and a Postdoctoral Researcher at the Max Planck Institute for Mathematics in the Sciences. Her studies and Ph.D. were in Mathematics from Saint-Petersburg State University and Göttingen University, Germany, respectively."
   photo: Levina_A.jpeg
   alttext: Anna Levina
-  title: "TBA"
-  abstract: TBA
+  title: "Maintenance of neuronal states powered by the self-organization"
+  abstract: "It is widely believed that some neuronal states are better suited for computations than others. For example, closeness to the critical state at the second-order phase transition was shown to be particularly suitable for computations in artificial systems. Alternatively, the balance of excitation and inhibition was also associated, i.e., with optimized information encoding. But, in the everchanging and dynamic neuronal populations, how can these states be reached and maintained? I believe the only possible solution is to harness the mechanisms of self-organization. In my talk, I will show examples of self-organization to particular states from neuronal data and propose how synaptic plasticity and adaptation can help maintain them."
   sessions: 
   - "202206101130"
   tags:
