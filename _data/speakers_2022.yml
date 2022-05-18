@@ -103,3 +103,18 @@
   tags:
     - name: GitHub
       link: https://github.com/FrancoisPgm
+- fullname: Sangnie Bhardwaj
+  affiliations:
+  - "Mila, Universit\xE9 de Montr\xE9al"
+  nametitle: PhD student
+  bio: "I’m a PhD student at Mila, supervised by Guillaume Lajoie and Hugo Larochelle. I am also a researcher at Google Montreal, where I work on building robust and generalizable image representations. I am interested in achieving this by incorporating principles inspired by visual learning in human brains."
+  position: PhD student
+  photo: sangnie_bhardwaj.jpg
+  alttext: Sangnie Bhardwaj
+  title: Studying Neural Networks through the lens of Dynamical Systems
+  abstract: "This hands-on workshop will introduce participants to dynamical systems tools for the analysis of neural networks."
+  sessions:
+  - "202206100925workshop"
+  tags:
+    - name: Website
+      link: https://sangnie.github.io
