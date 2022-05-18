@@ -27,7 +27,7 @@
   photo: Hennequin_G.jpg
   alttext: Guillaume Hennequin
   title: "V1 be one: unifying phenomenology and function in a network model of cortical variability"
-  abstract: " Cortical responses to visual stimuli have a rich phenomenology, with well-documented nonlinearities, transients, oscillations, and stimulus-dependent patterns of across-trial variability. What principles of network dynamics underlie these features, and what function(s) do they serve? I will present our recent efforts to address these questions and unify previously disparate bottom-up and top-down models of V1. First, I will show that several key properties of V1 responses are difficult to reconcile with the classical theory of tightly balanced E/I networks; on the contrary, a regime of loose E/I balance accomodates these properties robustly (Hennequin et al., Neuron (2018)). Second, building up on this, I will show that yet more properties of V1 dynamics emerge in a loosely-balanced network model trained to perform sampling-based Bayesian inference (Echeveste et al., Nat. Neurosci. (2020))."
+  abstract: "Cortical responses to visual stimuli have a rich phenomenology, with well-documented nonlinearities, transients, oscillations, and stimulus-dependent patterns of across-trial variability. What principles of network dynamics underlie these features, and what function(s) do they serve? I will present our recent efforts to address these questions and unify previously disparate bottom-up and top-down models of V1. First, I will show that several key properties of V1 responses are difficult to reconcile with the classical theory of tightly balanced E/I networks; on the contrary, a regime of loose E/I balance accomodates these properties robustly (Hennequin et al., Neuron (2018)). Second, building up on this, I will show that yet more properties of V1 dynamics emerge in a loosely-balanced network model trained to perform sampling-based Bayesian inference (Echeveste et al., Nat. Neurosci. (2020))."
   sessions: 
   - "202206091130"
   tags:
@@ -41,7 +41,7 @@
   affiliations: 
   - University of Tübingen
   position: Assistant Professor for Computational Neuroscience
-  bio: "Anna Levina is an assistant professor at the University of Tübingen, Germany, where she leads a group on "Self-organization and optimality in neuronal networks" funded by the Sofja Kovalevskaja Award of the Humboldt Foundation. Previously she was an independent research fellow at IST Austria and a Postdoctoral Researcher at the Max Planck Institute for Mathematics in the Sciences. Her studies and Ph.D. were in Mathematics from Saint-Petersburg State University and Göttingen University, Germany, respectively."
+  bio: "Anna Levina is an assistant professor at the University of Tübingen, Germany, where she leads a group on self-organization and optimality in neuronal networks, funded by the Sofja Kovalevskaja Award of the Humboldt Foundation. Previously she was an independent research fellow at IST Austria and a Postdoctoral Researcher at the Max Planck Institute for Mathematics in the Sciences. Her studies and Ph.D. were in Mathematics from Saint-Petersburg State University and Göttingen University, Germany, respectively."
   photo: Levina_A.jpeg
   alttext: Anna Levina
   title: "Maintenance of neuronal states powered by the self-organization"
