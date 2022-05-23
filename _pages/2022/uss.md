@@ -55,6 +55,16 @@ We warmly invite you to join us for this year’s edition of the UNIQUE Student 
  {% include registration-message.html title="Inscription" message="Les inscriptions sont maintenant ouvertes !" button="Formulaire d'inscription" link="https://forms.gle/JQ3ANrNnE6QqJwNy8" %}
 
 ---
+## In-person attendance tickets 
+
+Join us in-person for this year’s edition of the UNIQUE Student Symposium!
+
+ {% include registration-message.html title="In-person attendance tickets" message="In-person attendance tickets are now available ! Tickets are non-refundable.
+The price is 20$ taxes included. " button="Registration form" link="https://www.eventbrite.ca/e/unique-student-symposium-2022-tickets-344824177397" %}
+
+ 
+
+---
 
 ## Call for Poster and Lightning Talk Submissions
 
