@@ -33,7 +33,7 @@ permalink: /2022/speakers
     {% endif %}
 {% endfor %}
 
-# Thursday June 10th
+# Friday June 10th
 
 {% assign people = site.data.speakers_2022 %}
 {% for person in people %}
