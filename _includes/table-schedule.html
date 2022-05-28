@@ -31,7 +31,7 @@
             {% endif %}
           {% endfor %}
         {% endcapture %}
-        {% if event.session contains "panel" %}Present and future of consciousness research: an interdisciplinary discussion{% break %}{% endif %}
+        <!-- {% if event.session contains "panel" %}Present and future of consciousness research: an interdisciplinary discussion{% break %}{% endif %} -->
           {% if speaker.abstract %}
           <details>
             <summary>{{ speaker.title }} {{ slides }}</summary>
@@ -51,7 +51,11 @@
 						<td>{{ event.name }}</td>
           {% endunless %}
           <td>{{ speakersnames }}</td>
+          {% unless event.session contains "panel" %}
           <td>{{ eventtitle }}</td>
+          {% else %}
+						<td>{{ event.title }}</td>
+          {% endunless %}
           {% capture platforms %}
             {% for platform in event.platforms %}
               <a href="{{ platform | split: "+" | last }}">{{ platform | split: "+" | first }}</a>
