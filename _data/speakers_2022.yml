@@ -94,6 +94,7 @@
   - Mila, Québec AI Institute
   - Canada CIFAR AI Chair
   position: Assistant Professor
+  bio: "Dr. Guillaume Lajoie is an Assistant Professor at the Department of Mathematics and Statistics at the Université de Montréal (UdeM) since 2018, and Core Faculty Member at Mila, the Québec Artificial Intelligence Institute. His research group pursues research questions at the intersection of neuroscience, AI and applied mathematics, with an emphasis on interactions between artificial and biological neural dynamics. He was named FRQS research scholar in 2018, CIFAR Canada AI Chair in 2020, and Canada Research Chair (CIHR) in Neural Computation and Interfacing in 2022. Before starting his independent research group, Dr. Lajoie was named Bernstien Fellow in Computational Neuroscience in 2014, and Washington Research Foundation Innovation Fellow in 2015, where he developed computational neuroscience tools for Brain Computer Interfaces (BCI) in the laboratories of Dr. Eberhard Fetz and Dr. Adrienne Fairhall at the University of Washington’s Institute for Neuroengineering (UWIN). A major thrust in Dr. Lajoie’s research program is dedicated to understand how neural dynamics across scales interact to support learning and computations. Crucially, these questions aim to uncover common principles to learning in brain neural circuits, and optimization in artificial neural networks."
   photo: guillaume_lajoie.jpg
   alttext: Guillaume Lajoie
   title: Panel: Dynamics and Optimization in Neuro-AI
