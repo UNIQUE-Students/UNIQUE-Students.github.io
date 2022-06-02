@@ -96,7 +96,7 @@
   position: Assistant Professor
   photo: guillaume_lajoie.jpg
   alttext: Guillaume Lajoie
-  title: Machine learning and Neuroscience
+  title: Panel: Dynamics and Optimization in Neuro-AI
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, David Kanaa and Dr. Parikshat Sirpal."
   sessions: 
   - "202206091430panel"
@@ -104,7 +104,22 @@
     - name: Website
       link: https://www.guillaumelajoie.com/
     - name: Twitter
-      link: https://twitter.com/g_lajoie_      
+      link: https://twitter.com/g_lajoie_    
+- fullname: Anne Pasek
+  affiliations: 
+  - Trent University
+  position: Assistant Professor
+  bio: "Anne Pasek is an Assistant Professor and the Canada Research Chair in Media, Culture, and the Environment at Trent University. Her research explores the cultural politics of climate change, with a particular emphasis on the social and technical means through which carbon is enumerated and mobilized within diverse social formations, including climate denialism, the tech sector, and the arts. She is also the director of the Low-Carbon Research Methods Group, a network of scholars examining the climate and equity impacts of decarbonizing academic work, and the Experimental Methods & Media Lab, a hub for research-creation and critical making at Trent with a particular focus on emerging climate tech."
+  photo: Anne_Pasek.jpg
+  title: Panel: The future of Neuro-AI: Climate change
+  abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Luz Gomez-Vallejo, Mélisande Teng and Dr. Alex Hernandez-Garcia."
+  sessions: 
+  - "202206101425panel"
+  tags:
+    - name: Website
+      link: https://www.annepasek.com/
+    - name: Twitter
+      link: https://twitter.com/aepasek    
 - fullname: François Paugam
   affiliations: 
   - "Mila, Universit\xE9 de Montr\xE9al"
