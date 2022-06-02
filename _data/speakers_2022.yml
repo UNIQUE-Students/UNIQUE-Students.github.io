@@ -106,6 +106,17 @@
       link: https://www.guillaumelajoie.com/
     - name: Twitter
       link: https://twitter.com/g_lajoie_    
+- fullname: Parikshat Sirpal
+  affiliations: 
+  - Université de Montréal
+  position: Postdoctoral Fellow
+  bio: "I am interested in the neurobiology of motor recovery and intra-cortical interactions for complex motor control. I utilize traditional signal processing and machine learning techniques to study questions related to the mechanisms involved in the control of movement, the plasticity supporting motor recovery post brain injury and the impact of neuromodulatory approaches on the brain."
+  photo: Parikshat_Sirpal.jpeg
+  alttext: Parikshat Sirpal
+  title: Panel: Dynamics and Optimization in Neuro-AI
+  abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, David Kanaa and Dr. Guillaume Lajoie."
+  sessions: 
+  - "202206091430panel"
 - fullname: Anne Pasek
   affiliations: 
   - Trent University
