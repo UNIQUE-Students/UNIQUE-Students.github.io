@@ -88,6 +88,23 @@
       link: https://twitter.com/alexhdezgcia
     - name: Website
       link: alexhernandezgarcia.github.io
+- fullname: Guillaume Lajoie
+  affiliations: 
+  - Dept. de Mathématiques et Statistiques, Université de Montréal
+  - Mila, Québec AI Institute
+  - Canada CIFAR AI Chair
+  position: Assistant Professor
+  photo: guillaume_lajoie.jpg
+  alttext: Guillaume Lajoie
+  title: Machine learning and Neuroscience
+  abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, David Kanaa and Dr. Parikshat Sirpal."
+  sessions: 
+  - "202206091430panel"
+  tags:
+    - name: Website
+      link: https://www.guillaumelajoie.com/
+    - name: Twitter
+      link: https://twitter.com/g_lajoie_      
 - fullname: François Paugam
   affiliations: 
   - "Mila, Universit\xE9 de Montr\xE9al"
