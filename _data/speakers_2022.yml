@@ -97,7 +97,7 @@
   bio: "Dr. Guillaume Lajoie is an Assistant Professor at the Department of Mathematics and Statistics at the Université de Montréal (UdeM) since 2018, and Core Faculty Member at Mila, the Québec Artificial Intelligence Institute. His research group pursues research questions at the intersection of neuroscience, AI and applied mathematics, with an emphasis on interactions between artificial and biological neural dynamics. He was named FRQS research scholar in 2018, CIFAR Canada AI Chair in 2020, and Canada Research Chair (CIHR) in Neural Computation and Interfacing in 2022. Before starting his independent research group, Dr. Lajoie was named Bernstien Fellow in Computational Neuroscience in 2014, and Washington Research Foundation Innovation Fellow in 2015, where he developed computational neuroscience tools for Brain Computer Interfaces (BCI) in the laboratories of Dr. Eberhard Fetz and Dr. Adrienne Fairhall at the University of Washington’s Institute for Neuroengineering (UWIN). A major thrust in Dr. Lajoie’s research program is dedicated to understand how neural dynamics across scales interact to support learning and computations. Crucially, these questions aim to uncover common principles to learning in brain neural circuits, and optimization in artificial neural networks."
   photo: guillaume_lajoie.jpg
   alttext: Guillaume Lajoie
-  title: Panel: Dynamics and Optimization in Neuro-AI
+  title: "Panel: Dynamics and Optimization in Neuro-AI"
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, David Kanaa and Dr. Parikshat Sirpal."
   sessions: 
   - "202206091430panel"
@@ -113,7 +113,7 @@
   bio: "I am interested in the neurobiology of motor recovery and intra-cortical interactions for complex motor control. I utilize traditional signal processing and machine learning techniques to study questions related to the mechanisms involved in the control of movement, the plasticity supporting motor recovery post brain injury and the impact of neuromodulatory approaches on the brain."
   photo: Parikshat_Sirpal.jpeg
   alttext: Parikshat Sirpal
-  title: Panel: Dynamics and Optimization in Neuro-AI
+  title: "Panel: Dynamics and Optimization in Neuro-AI"
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, David Kanaa and Dr. Guillaume Lajoie."
   sessions: 
   - "202206091430panel"
@@ -125,7 +125,7 @@
   bio: "David Kanaa did his Bachelor and Master degree at Mila. He formerly worked at UNBISOFTLaForge. Currently he is a PhD candidate and research assistant."
   photo: David_Kanaa.jpeg
   alttext: David Kanaa
-  title: Panel: Dynamics and Optimization in Neuro-AI
+  title: "Panel: Dynamics and Optimization in Neuro-AI"
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, Dr. Parikshat Sirpal and Dr. Guillaume Lajoie."
   sessions: 
   - "202206091430panel"
@@ -138,7 +138,7 @@
   position: Assistant Professor
   bio: "Anne Pasek is an Assistant Professor and the Canada Research Chair in Media, Culture, and the Environment at Trent University. Her research explores the cultural politics of climate change, with a particular emphasis on the social and technical means through which carbon is enumerated and mobilized within diverse social formations, including climate denialism, the tech sector, and the arts. She is also the director of the Low-Carbon Research Methods Group, a network of scholars examining the climate and equity impacts of decarbonizing academic work, and the Experimental Methods & Media Lab, a hub for research-creation and critical making at Trent with a particular focus on emerging climate tech."
   photo: Anne_Pasek.jpg
-  title: Panel: The future of Neuro-AI: Climate change
+  title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Luz Gomez-Vallejo, Mélisande Teng and Dr. Alex Hernandez-Garcia."
   sessions: 
   - "202206101425panel"
@@ -153,7 +153,7 @@
   position: Master student
   bio: "I am using machine learning and computational statistics for climate science and earth modeling. Currently, I am doing my M.Sc. in Computer Science at the McGill University and at Mila under the supervision of Prof. Dr. David Rolnick. Previously, I have been an intern at the CliMA Team at Caltech supervised by Lenka Novak, where I worked on optimizing the tracking and prediction of extratropical cyclones. I also gained experience in using machine learning for snow physics during my bachelor thesis. Together with Viviane Clay, Dr. Martin Schneebeli and Amy Macfarlane I worked on automatic snow classification at the WSL Institute for Snow and Avalanche Research SLF in Switzerland. I obtained my B.Sc. Cognitive Science at the Osnabrück University."
   photo: JULIA KALTENBORN.jpeg
-  title: Panel: The future of Neuro-AI: Climate change
+  title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Dr. Anne Pasek, Luz Gomez-Vallejo, Mélisande Teng and Dr. Alex Hernandez-Garcia."
   sessions: 
   - "202206101425panel"
@@ -166,7 +166,7 @@
   position: Regulatory Information Analyst at Nimonik
   bio: "Luz Gomez Vallejo obtained her Master of Environment at Concordia Univeristy in 2020. She worked on canadian environmental issues and was an environment intern at the City of Westmount. She was the vice-represident and recently became the president at Net Impact Montreal."
   photo: Luz-Gomez-Vallejo.jpeg
-  title: Panel: The future of Neuro-AI: Climate change
+  title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Dr. Anne Pasek, Mélisande Teng and Dr. Alex Hernandez-Garcia."
   sessions: 
   - "202206101425panel"
@@ -179,7 +179,7 @@
   position: PhD Candidate
   bio: "I am a second-year PhD co-supervised by Prof. Yoshua Bengio and Prof. Hugo Larochelle, and I am interested in environmental applications of AI. Prior to that, I was a Visiting Research Intern in the Climate Change AI team, supervised by Prof. Yoshua Bengio and Dr. Sasha Luccioni for a year. We are building an educational tool to raise awareness on climate change so that people can visualize its impact. We aim at showing how houses could look like by 2050  under the effect of climate change, with an emphasis on flood events. I am currently focusing on estimating the metric height of objects in Street View like images, using depth estimation and 3D object detection techniques. I earned a Master’s degree in Applied Mathematics, Computer Vision and Machine Learning (MVA) from Ecole Normale Supérieure Paris-Saclay, and also completed a double degree (MSc in Engineering and Applied Mathematics / MSc in Management and Social Entrepreneurship) at Ecole Centrale Paris and ESSEC Business School. I am passionate about using artificial intelligence as a tool to tackle societal challenges and was a 2018 Data Science for Social Good fellow and a 2019 Voting Rights Data Institute fellow."
   photo: MÉLISANDE TENG.png
-  title: Panel: The future of Neuro-AI: Climate change
+  title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Dr. Anne Pasek, Luz Gomez Vallejo and Dr. Alex Hernandez-Garcia."
   sessions: 
   - "202206101425panel"
