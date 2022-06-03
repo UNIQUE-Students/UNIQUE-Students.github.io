@@ -173,6 +173,19 @@
   tags:
     - name: Twitter
       link: https://twitter.com/LuzaGomez
+- fullname: Mélisande Teng
+  affiliations: 
+  - Mila, Québec AI Institute
+  position: PhD Candidate
+  bio: "I am a second-year PhD co-supervised by Prof. Yoshua Bengio and Prof. Hugo Larochelle, and I am interested in environmental applications of AI. Prior to that, I was a Visiting Research Intern in the Climate Change AI team, supervised by Prof. Yoshua Bengio and Dr. Sasha Luccioni for a year. We are building an educational tool to raise awareness on climate change so that people can visualize its impact. We aim at showing how houses could look like by 2050  under the effect of climate change, with an emphasis on flood events. I am currently focusing on estimating the metric height of objects in Street View like images, using depth estimation and 3D object detection techniques. I earned a Master’s degree in Applied Mathematics, Computer Vision and Machine Learning (MVA) from Ecole Normale Supérieure Paris-Saclay, and also completed a double degree (MSc in Engineering and Applied Mathematics / MSc in Management and Social Entrepreneurship) at Ecole Centrale Paris and ESSEC Business School. I am passionate about using artificial intelligence as a tool to tackle societal challenges and was a 2018 Data Science for Social Good fellow and a 2019 Voting Rights Data Institute fellow."
+  photo: MÉLISANDE TENG.png
+  title: Panel: The future of Neuro-AI: Climate change
+  abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Dr. Anne Pasek, Luz Gomez Vallejo and Dr. Alex Hernandez-Garcia."
+  sessions: 
+  - "202206101425panel"
+  tags:
+    - name: Twitter
+      link: https://twitter.com/melisandeteng
 - fullname: François Paugam
   affiliations: 
   - "Mila, Universit\xE9 de Montr\xE9al"
