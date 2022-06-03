@@ -129,6 +129,9 @@
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, Dr. Parikshat Sirpal and Dr. Guillaume Lajoie."
   sessions: 
   - "202206091430panel"
+  tags:
+    - name: Twitter
+      link: https://twitter.com/davidkanaa
 - fullname: Anne Pasek
   affiliations: 
   - Trent University
@@ -143,7 +146,20 @@
     - name: Website
       link: https://www.annepasek.com/
     - name: Twitter
-      link: https://twitter.com/aepasek    
+      link: https://twitter.com/aepasek  
+- fullname: Julia Kaltenborn
+  affiliations: 
+  - McGill University
+  position: Master student
+  bio: "I am using machine learning and computational statistics for climate science and earth modeling. Currently, I am doing my M.Sc. in Computer Science at the McGill University and at Mila under the supervision of Prof. Dr. David Rolnick. Previously, I have been an intern at the CliMA Team at Caltech supervised by Lenka Novak, where I worked on optimizing the tracking and prediction of extratropical cyclones. I also gained experience in using machine learning for snow physics during my bachelor thesis. Together with Viviane Clay, Dr. Martin Schneebeli and Amy Macfarlane I worked on automatic snow classification at the WSL Institute for Snow and Avalanche Research SLF in Switzerland. I obtained my B.Sc. Cognitive Science at the Osnabrück University."
+  photo: JULIA KALTENBORN.jpeg
+  title: Panel: The future of Neuro-AI: Climate change
+  abstract: "A panel discussion about The future of Neuro-AI: Climate change with Dr. Anne Pasek, Luz Gomez-Vallejo, Mélisande Teng and Dr. Alex Hernandez-Garcia."
+  sessions: 
+  - "202206101425panel"
+  tags:
+    - name: Website
+      link: https://liellnima.github.io/index.html
 - fullname: François Paugam
   affiliations: 
   - "Mila, Universit\xE9 de Montr\xE9al"
