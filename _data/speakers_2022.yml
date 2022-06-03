@@ -160,6 +160,19 @@
   tags:
     - name: Website
       link: https://liellnima.github.io/index.html
+- fullname: Luz Gomez Vallejo
+  affiliations: 
+  - Nimonik
+  position: Regulatory Information Analyst at Nimonik
+  bio: "Luz Gomez Vallejo obtained her Master of Environment at Concordia Univeristy in 2020. She worked on canadian environmental issues and was an environment intern at the City of Westmount. She was the vice-represident and recently became the president at Net Impact Montreal."
+  photo: Luz-Gomez-Vallejo.jpeg
+  title: Panel: The future of Neuro-AI: Climate change
+  abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Dr. Anne Pasek, Mélisande Teng and Dr. Alex Hernandez-Garcia."
+  sessions: 
+  - "202206101425panel"
+  tags:
+    - name: Twitter
+      link: https://twitter.com/LuzaGomez
 - fullname: François Paugam
   affiliations: 
   - "Mila, Universit\xE9 de Montr\xE9al"
