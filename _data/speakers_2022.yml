@@ -117,6 +117,18 @@
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, David Kanaa and Dr. Guillaume Lajoie."
   sessions: 
   - "202206091430panel"
+- fullname: David Kanaa
+  affiliations: 
+  - Université de Montréal
+  - Mila, Québec AI Institute
+  position: PhD Candidate
+  bio: "David Kanaa did his Bachelor and Master degree at Mila. He formerly worked at UNBISOFTLaForge. Currently he is a PhD candidate and research assistant."
+  photo: David_Kanaa.jpeg
+  alttext: David Kanaa
+  title: Panel: Dynamics and Optimization in Neuro-AI
+  abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, Dr. Parikshat Sirpal and Dr. Guillaume Lajoie."
+  sessions: 
+  - "202206091430panel"
 - fullname: Anne Pasek
   affiliations: 
   - Trent University
