@@ -64,8 +64,8 @@
   bio: "Patrick Desrosiers is a Researcher in Network Science and Computational Neuroscience at the CERVO Brain Research Center and an Affiliated Professor in Physics at Universit\xE9 Laval. He received his Ph.D in Theoretical Physics (2004) at Universit\xE9 Laval. He spent time at Universit\xE9 de Montr\xE9al (2006) as a postdoctoral fellow, Institut de Physique Th\xE9orique (IPhT) (2007-2008), and the Institute of Mathematics and Physics (IMAFI), Talca, Chile (2008-2014) as an associate professor."
   photo: pdesrosiers.jpeg
   alttext: Patrick Desrosiers
-  title: "TBA"
-  abstract: TBA
+  title: "The hidden low-dimensional dynamics of large neuronal networks "
+  abstract: "Recent experimental studies have shown that the evoked activity of large populations of neurons in living animals is high-dimensional. Yet, neuroscientists often observe that when animals are submitted to simple stimuli, a much smaller number of dimensions than the number of neurons is sufficient to explain a large amount of the variance in the neuronal activity. In this talk, I will attempt to reconcile these two types of observations and to disambiguate the concept of dimensionality through the lens of complex system theory.  First, several empirical connectomes will be analyzed to prove that real neuronal networks exhibit a very special mathematical property: their structure has a low effective rank. I will then use this property to prove that the large-scale activity of neural networks is always well approximated by a small dynamical system. Finally, I will exploit this dimension reduction phenomenon to justify the use of PCA in neuroscience and to study the resilience of large neuronal networks. "
   sessions: 
   - "202206101320"
   tags:
