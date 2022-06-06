@@ -94,7 +94,13 @@
   twitter: https://twitter.com/MirzazadehPoune
   website: none
 - affiliation: "Universit\xE9 de Montr\xE9al"
-  bio: "I am a first-year Ph.D.  student in Ebitz’s lab at the University of Montreal’s department of neuroscience. My background is a combination of engineering and cognitive psychology. My current interest lies in studying mechanisms of decision-making with help of psychophysics and computational modeling with an emphasis on explore-exploit dilemmas. I enjoy spending time with friends and going for walks when I have some free time."
+  bio: "I am a first-year Ph.D. student in Ebitz’s lab at the University of\
+  \ Montreal’s department of neuroscience. My background is a combination of\
+  \ engineering and cognitive psychology. My current interest lies in\
+  \ studying mechanisms of decision-making with help of psychophysics and\
+  \ computational modeling with an emphasis on explore-exploit dilemmas. I\
+  \ enjoy spending time with friends and going for walks when I have some\
+  \ free time."
   committee: Logistics
   email: akram.shourkeshti@umontreal.ca
   fullname: Akram Shourkeshti
@@ -103,4 +109,22 @@
   pronouns: she/her
   twitter: https://twitter.com/akramcogsci
   website: none
-
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: "I am a Master’s student in neuroscience at Université de Montréal\
+  \ cosupervised by Dr Dancause in the neuroscience department and Guillaume\
+  \ Lajoie from the Mathematics department. I am interested in brain-machine\
+  \ interfaces, neural dynamics and motor control. My main project aims at\
+  \ optimizing parameters in the context of neurostimulation in preclinical\
+  \ animal models and this implies acquiring both experimental and\
+  \ computational modeling skills. In this context, questions of interest\
+  \ are : Does external electric stimulation of a network keep the neural\
+  \ dynamics in a physiological regime? Can we drive high dimensional neural\
+  \ activity in useful ways using only a small number of input nodes?"
+  committee: Logistics
+  email: none
+  fullname: Léo Choinière
+  photo: none
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: none
