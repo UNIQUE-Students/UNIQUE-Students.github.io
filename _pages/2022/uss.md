@@ -36,14 +36,19 @@ permalink: /2022/uss
 ##### Day 2: Friday, 10 June 2022
 ##### See the speakers [here](speakers).
 
-
 ---
 
 ## Important dates
 
-* Posters and Lightning Talks Registration due: <b>Friday, May 27 th, 2022 (anywhere on earth)</b>
-* Online registration is still open
-* In-person ticket sale is closed
+* Posters and Lightning Talks Registration due: <b>Friday, May 27th, 2022 (anywhere on Earth)</b>
+* Online registration is still open!
+* In-person ticket sale is closed.
+
+---
+
+## Accepted Posters and Lightning Talks
+
+Accepted submissions can be accessed <a href="">here</a> after June 9th, 2022.
 
 ---
 
@@ -51,19 +56,17 @@ permalink: /2022/uss
 
 We warmly invite you to join us for this year’s edition of the UNIQUE Student Symposium.
 
- {% include registration-message.html title="Registration" message="Registration is now open !" button="Registration form" link="https://forms.gle/o6AA5iuCt7NFzXPN7" %}
+ {% include registration-message.html title="Registration" message="Registration is now open!" button="Registration form" link="https://forms.gle/o6AA5iuCt7NFzXPN7" %}
 
  {% include registration-message.html title="Inscription" message="Les inscriptions sont maintenant ouvertes !" button="Formulaire d'inscription" link="https://forms.gle/JQ3ANrNnE6QqJwNy8" %}
 
 ---
-## In-person attendance tickets
+
+## In-person attendance tickets 
 
 Join us in-person for this year’s edition of the UNIQUE Student Symposium!
 
- {% include registration-message.html title="In-person attendance tickets" message="In-person attendance tickets are now available ! Tickets are non-refundable.
-The price is 20$ taxes included. " button="Registration form" link="https://www.eventbrite.ca/e/unique-student-symposium-2022-tickets-344824177397" %}
-
-
+ {% include registration-message.html title="In-person attendance tickets" message="In-person attendance tickets are now available! Tickets are non-refundable. The price is $20 (taxes included)." button="Registration form" link="https://www.eventbrite.ca/e/unique-student-symposium-2022-tickets-344824177397" %}
 
 ---
 
@@ -74,7 +77,6 @@ On the first day of the symposium, we will have an <b> in-person _poster session
 {% include registration-message.html title="Poster and Lightning Talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. After your abstract has been accepted, you will be asked to submit a digital version of your poster or a 3-minute video to present at the event." button="Application form" link="https://forms.gle/yN41jojdiq98jePs5" %}
 
 ---
-
 
 ## Accessibility and Code of Conduct
 

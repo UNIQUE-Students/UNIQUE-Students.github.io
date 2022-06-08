@@ -1,0 +1,29 @@
+
+<div class="columns container">
+  <div class="column is-10 is-offset-1">
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-4">{{ submission.title }}</p>
+        <p class="subtitle is-6">{{ submission.authors }}</p>
+        {% if submission.email %}
+          <p class="subtitle is-7">(Presented by <a href="mailto:{{ submission.email }}">{{ submission.presenter }})</a></p>
+        {% elsif submission.contact %}
+          <p class="subtitle is-7">(Presented by <a href="{{ submission.contact }}">{{ submission.presenter }})</a></p>
+        {% else %}
+          <p class="subtitle is-7">(Presented by {{ submission.presenter }})</p>
+        {% endif %}
+        <p>
+          {% if submission.poster %}
+            <a href="{{ submission.poster }}"><button class="button is-primary">Poster</button></a>
+          {% endif %}
+          {% if submission.talk %}
+            <a href="{{ submission.talk }}"><button class="button is-primary">Lightning Talk</button></a>
+          {% endif %}
+        </p>
+        <div class="content">
+          <p>{{ submission.abstract }}</p>
+        </div>
+      </div>
+    </div>
+	</div>
+</div>
