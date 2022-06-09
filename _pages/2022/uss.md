@@ -48,7 +48,7 @@ permalink: /2022/uss
 
 ## Accepted Posters and Lightning Talks
 
-Accepted submissions can be accessed <a href="">here</a> after June 9th, 2022.
+Accepted submissions can be accessed <a href="/2022/posters-talks.html">here</a> after June 9th, 2022.
 
 ---
 
