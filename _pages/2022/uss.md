@@ -6,7 +6,7 @@ permalink: /2022/uss
 ---
 
 <br>
-# The UNIQUE Student Symposium 2022 is coming soon!
+# The UNIQUE Student Symposium 2022 is happening today!
 
 <div class="card">
   <div class="card-image">
