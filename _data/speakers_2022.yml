@@ -198,7 +198,7 @@
   photo: francois_paugam.jpg
   alttext: François Paugam
   title: "Gérer le débuggage et les messages d'erreur en langage Python"
-  abstract: "L'objectif de ce workshop est de fournir des conseils de programmation et un aperçu de la gestion des messages d'erreur et du débogage pour les débutants en programmation Python. Le workshop se déroulera en français. Le materiel peut être téléchargé [ici](https://github.com/UNIQUE-Students/python_erreurs_deboggage)"
+  abstract: "L'objectif de ce workshop est de fournir des conseils de programmation et un aperçu de la gestion des messages d'erreur et du débogage pour les débutants en programmation Python. Le workshop se déroulera en français. Le materiel peut être téléchargé ici: https://github.com/UNIQUE-Students/python_erreurs_deboggage"
   sessions:
   - "202206090925workshop"
   tags:
