@@ -8,16 +8,16 @@
         {% if submission.email %}
           <p class="subtitle is-7">(Presented by <a href="mailto:{{ submission.email }}">{{ submission.presenter }})</a></p>
         {% elsif submission.contact %}
-          <p class="subtitle is-7">(Presented by <a href="{{ submission.contact }}">{{ submission.presenter }})</a></p>
+          <p class="subtitle is-7">(Presented by <a href="{{ submission.contact }}" target="_blank">{{ submission.presenter }})</a></p>
         {% else %}
           <p class="subtitle is-7">(Presented by {{ submission.presenter }})</p>
         {% endif %}
         <p>
           {% if submission.poster %}
-            <a href="{{ submission.poster }}"><button class="button is-primary">Poster</button></a>
+            <a href="https://raw.githubusercontent.com/UNIQUE-Students/USS2022Posters/main/{{ submission.poster }}" target="_blank"><button class="button is-primary">Poster</button></a>
           {% endif %}
           {% if submission.talk %}
-            <a href="{{ submission.talk }}"><button class="button is-primary">Lightning Talk</button></a>
+            <a href="{{ submission.talk }}" target="_blank"><button class="button is-primary">Lightning Talk</button></a>
           {% endif %}
         </p>
         <div class="content">
