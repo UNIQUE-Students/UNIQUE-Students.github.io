@@ -19,7 +19,9 @@ Or follow us on [Twitter](https://twitter.com/ai_unique)
 
 
 <br>
-# The UNIQUE Student Symposium 2022 is coming soon!
+# The UNIQUE Student Symposium 2022 is starting today !
+### [Join us](https://forms.gle/yN41jojdiq98jePs5) right now!
+### See the full schedule [here](schedule).
 
 <div class="card">
   <div class="card-image">
