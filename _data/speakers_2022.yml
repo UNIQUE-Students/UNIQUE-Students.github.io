@@ -1,6 +1,6 @@
 - fullname: Courtney Paquette
   pronouns: "she/her"
-  affiliations: 
+  affiliations:
   - McGill University
   - CIFAR Canada AI chair
   - MILA
@@ -11,7 +11,7 @@
   alttext: Courtney Paquette
   title: "Optimization Algorithms in the Large: Exact Dynamics, Average-case Analysis, and Stepsize Criticality"
   abstract: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of optimization algorithms (e.g., 1st-order methods, stochastic gradient descent (SGD), and momentum) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit. In particular, the limiting dynamics for stochastic algorithms are governed by a Volterra integral equation. This model predicts that SGD undergoes a phase transition at an explicitly given critical stepsize that ultimately affects its convergence rate, which we also verify experimentally. Finally, when input data is isotropic, we provide explicit expressions for the dynamics and average-case convergence rates. These rates show significant improvement over the worst-case complexities.
-  sessions: 
+  sessions:
   - "202206091320"
   - "202206091430panel"
   tags:
@@ -20,7 +20,7 @@
     - name: Website
       link: https://cypaquette.github.io
 - fullname: Guillaume Hennequin
-  affiliations: 
+  affiliations:
   - University of Cambridge
   nametitle: Dr.
   position: Lecturer
@@ -29,7 +29,7 @@
   alttext: Guillaume Hennequin
   title: "V1 be one: unifying phenomenology and function in a network model of cortical variability"
   abstract: "Cortical responses to visual stimuli have a rich phenomenology, with well-documented nonlinearities, transients, oscillations, and stimulus-dependent patterns of across-trial variability. What principles of network dynamics underlie these features, and what function(s) do they serve? I will present our recent efforts to address these questions and unify previously disparate bottom-up and top-down models of V1. First, I will show that several key properties of V1 responses are difficult to reconcile with the classical theory of tightly balanced E/I networks; on the contrary, a regime of loose E/I balance accomodates these properties robustly (Hennequin et al., Neuron (2018)). Second, building up on this, I will show that yet more properties of V1 dynamics emerge in a loosely-balanced network model trained to perform sampling-based Bayesian inference (Echeveste et al., Nat. Neurosci. (2020))."
-  sessions: 
+  sessions:
   - "202206091130"
   tags:
     - name: Relevant paper
@@ -39,7 +39,7 @@
     - name: Twitter
       link: https://twitter.com/GJEHennequin
 - fullname: Anna Levina
-  affiliations: 
+  affiliations:
   - University of Tübingen
   position: Assistant Professor for Computational Neuroscience
   bio: "Anna Levina is an assistant professor at the University of Tübingen, Germany, where she leads a group on self-organization and optimality in neuronal networks, funded by the Sofja Kovalevskaja Award of the Humboldt Foundation. Previously she was an independent research fellow at IST Austria and a Postdoctoral Researcher at the Max Planck Institute for Mathematics in the Sciences. Her studies and Ph.D. were in Mathematics from Saint-Petersburg State University and Göttingen University, Germany, respectively."
@@ -47,7 +47,7 @@
   alttext: Anna Levina
   title: "Maintenance of neuronal states powered by the self-organization"
   abstract: "It is widely believed that some neuronal states are better suited for computations than others. For example, closeness to the critical state at the second-order phase transition was shown to be particularly suitable for computations in artificial systems. Alternatively, the balance of excitation and inhibition was also associated, i.e., with optimized information encoding. But, in the everchanging and dynamic neuronal populations, how can these states be reached and maintained? I believe the only possible solution is to harness the mechanisms of self-organization. In my talk, I will show examples of self-organization to particular states from neuronal data and propose how synaptic plasticity and adaptation can help maintain them."
-  sessions: 
+  sessions:
   - "202206101130"
   tags:
     - name: Relevant paper
@@ -66,7 +66,7 @@
   alttext: Patrick Desrosiers
   title: "The hidden low-dimensional dynamics of large neuronal networks "
   abstract: "Recent experimental studies have shown that the evoked activity of large populations of neurons in living animals is high-dimensional. Yet, neuroscientists often observe that when animals are submitted to simple stimuli, a much smaller number of dimensions than the number of neurons is sufficient to explain a large amount of the variance in the neuronal activity. In this talk, I will attempt to reconcile these two types of observations and to disambiguate the concept of dimensionality through the lens of complex system theory.  First, several empirical connectomes will be analyzed to prove that real neuronal networks exhibit a very special mathematical property: their structure has a low effective rank. I will then use this property to prove that the large-scale activity of neural networks is always well approximated by a small dynamical system. Finally, I will exploit this dimension reduction phenomenon to justify the use of PCA in neuroscience and to study the resilience of large neuronal networks. "
-  sessions: 
+  sessions:
   - "202206101320"
   tags:
     - name: Group Website
@@ -75,7 +75,7 @@
       link: https://scholar.google.com/citations?user=YAqE0O0AAAAJ&hl=en&oi=ao
 - fullname: Alex Hernandez-Garcia
   pronouns: "he/him/\xE9l"
-  affiliations: 
+  affiliations:
   - "Mila, Universit\xE9 de Montr\xE9al"
   nametitle: Postdoctoral Fellow
   bio: "I am a postdoc at Mila. I research applications of machine learning for scientific discovery to fight climate change. More broadly, I am also interested in the fundamental aspects of learning in both brains and machines, which I studied during my PhD."
@@ -84,7 +84,7 @@
   alttext: Alex Hernandez-Garcia
   title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Luz Gomez-Vallejo, Mélisande Teng and Dr. Anne Pasek."
-  sessions: 
+  sessions:
   - "202206101430panel"
   tags:
     - name: Twitter
@@ -92,7 +92,7 @@
     - name: Website
       link: alexhernandezgarcia.github.io
 - fullname: Guillaume Lajoie
-  affiliations: 
+  affiliations:
   - Dept. de Mathématiques et Statistiques, Université de Montréal
   - Mila, Québec AI Institute
   - Canada CIFAR AI Chair
@@ -102,15 +102,15 @@
   alttext: Guillaume Lajoie
   title: "Panel: Dynamics and Optimization in Neuro-AI"
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, David Kanaa and Dr. Parikshat Sirpal."
-  sessions: 
+  sessions:
   - "202206091430panel"
   tags:
     - name: Website
       link: https://www.guillaumelajoie.com/
     - name: Twitter
-      link: https://twitter.com/g_lajoie_    
+      link: https://twitter.com/g_lajoie_
 - fullname: Parikshat Sirpal
-  affiliations: 
+  affiliations:
   - Université de Montréal
   position: Postdoctoral Fellow
   bio: "I am interested in the neurobiology of motor recovery and intra-cortical interactions for complex motor control. I utilize traditional signal processing and machine learning techniques to study questions related to the mechanisms involved in the control of movement, the plasticity supporting motor recovery post brain injury and the impact of neuromodulatory approaches on the brain."
@@ -118,10 +118,10 @@
   alttext: Parikshat Sirpal
   title: "Panel: Dynamics and Optimization in Neuro-AI"
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, David Kanaa and Dr. Guillaume Lajoie."
-  sessions: 
+  sessions:
   - "202206091430panel"
 - fullname: David Kanaa
-  affiliations: 
+  affiliations:
   - Université de Montréal
   - Mila, Québec AI Institute
   position: PhD Candidate
@@ -130,67 +130,67 @@
   alttext: David Kanaa
   title: "Panel: Dynamics and Optimization in Neuro-AI"
   abstract: "A panel discussion about Dynamics and Optimization in Neuro-AI with Dr. Courtney Paquette, Dr. Parikshat Sirpal and Dr. Guillaume Lajoie."
-  sessions: 
+  sessions:
   - "202206091430panel"
   tags:
     - name: Twitter
       link: https://twitter.com/davidkanaa
 - fullname: Anne Pasek
-  affiliations: 
+  affiliations:
   - Trent University
   position: Assistant Professor
   bio: "Anne Pasek is an Assistant Professor and the Canada Research Chair in Media, Culture, and the Environment at Trent University. Her research explores the cultural politics of climate change, with a particular emphasis on the social and technical means through which carbon is enumerated and mobilized within diverse social formations, including climate denialism, the tech sector, and the arts. She is also the director of the Low-Carbon Research Methods Group, a network of scholars examining the climate and equity impacts of decarbonizing academic work, and the Experimental Methods & Media Lab, a hub for research-creation and critical making at Trent with a particular focus on emerging climate tech."
   photo: Anne_Pasek.jpg
   title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Luz Gomez-Vallejo, Mélisande Teng and Dr. Alex Hernandez-Garcia."
-  sessions: 
+  sessions:
   - "202206101430panel"
   tags:
     - name: Website
       link: https://www.annepasek.com/
     - name: Twitter
-      link: https://twitter.com/aepasek  
+      link: https://twitter.com/aepasek
 - fullname: Julia Kaltenborn
-  affiliations: 
+  affiliations:
   - McGill University
   position: Master student
   bio: "I am using machine learning and computational statistics for climate science and earth modeling. Currently, I am doing my M.Sc. in Computer Science at the McGill University and at Mila under the supervision of Prof. Dr. David Rolnick. Previously, I have been an intern at the CliMA Team at Caltech supervised by Lenka Novak, where I worked on optimizing the tracking and prediction of extratropical cyclones. I also gained experience in using machine learning for snow physics during my bachelor thesis. Together with Viviane Clay, Dr. Martin Schneebeli and Amy Macfarlane I worked on automatic snow classification at the WSL Institute for Snow and Avalanche Research SLF in Switzerland. I obtained my B.Sc. Cognitive Science at the Osnabrück University."
   photo: JULIA KALTENBORN.jpeg
   title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Dr. Anne Pasek, Luz Gomez-Vallejo, Mélisande Teng and Dr. Alex Hernandez-Garcia."
-  sessions: 
+  sessions:
   - "202206101430panel"
   tags:
     - name: Website
       link: https://liellnima.github.io/index.html
 - fullname: Luz Gomez Vallejo
-  affiliations: 
+  affiliations:
   - Net Impact Montreal
   position: President at Net Impact Montreal
   bio: "Luz Gomez Vallejo has a master’s degree in Environmental Assessment (MEnv) from Concordia University. During the last year of her program, she focused her research on the flying less culture and its role in reducing greenhouse gas emissions in academia. Currently, Luz is the President of Net Impact Montréal, a volunteer-led non-profit organization that helps connect, engage, and inspire the local community to take sustainability action. She also works in the Environment, Health, and Safety sector as a Regulatory Information Analyst. Her areas of interest include sustainable action, social impacts of climate change, and responsible consumption."
   photo: Luz-Gomez-Vallejo.jpeg
   title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Dr. Anne Pasek, Mélisande Teng and Dr. Alex Hernandez-Garcia."
-  sessions: 
+  sessions:
   - "202206101430panel"
   tags:
     - name: Twitter
       link: https://twitter.com/LuzaGomez
 - fullname: Mélisande Teng
-  affiliations: 
+  affiliations:
   - Mila, Québec AI Institute
   position: PhD Candidate
   bio: "I am a second-year PhD co-supervised by Prof. Yoshua Bengio and Prof. Hugo Larochelle, and I am interested in environmental applications of AI. Prior to that, I was a Visiting Research Intern in the Climate Change AI team, supervised by Prof. Yoshua Bengio and Dr. Sasha Luccioni for a year. We are building an educational tool to raise awareness on climate change so that people can visualize its impact. We aim at showing how houses could look like by 2050  under the effect of climate change, with an emphasis on flood events. I am currently focusing on estimating the metric height of objects in Street View like images, using depth estimation and 3D object detection techniques. I earned a Master’s degree in Applied Mathematics, Computer Vision and Machine Learning (MVA) from Ecole Normale Supérieure Paris-Saclay, and also completed a double degree (MSc in Engineering and Applied Mathematics / MSc in Management and Social Entrepreneurship) at Ecole Centrale Paris and ESSEC Business School. I am passionate about using artificial intelligence as a tool to tackle societal challenges and was a 2018 Data Science for Social Good fellow and a 2019 Voting Rights Data Institute fellow."
   photo: MÉLISANDE TENG.png
   title: "Panel: The future of Neuro-AI: Climate change"
   abstract: "A panel discussion about The future of Neuro-AI: Climate change with Julia Kaltenborn, Dr. Anne Pasek, Luz Gomez Vallejo and Dr. Alex Hernandez-Garcia."
-  sessions: 
+  sessions:
   - "202206101430panel"
   tags:
     - name: Twitter
       link: https://twitter.com/melisandeteng
 - fullname: François Paugam
-  affiliations: 
+  affiliations:
   - "Mila, Universit\xE9 de Montr\xE9al"
   nametitle: PhD student
   bio: "I am a PhD student in Computer Science at the University of Montreal and Mila. In my research, I attempt to leverage functional brain data to produce supposedly more robust and human-like AI agents. I am interested in the interplay between neuroscience and AI, in particular how both fields can benefit from each other’s advances."
@@ -198,8 +198,8 @@
   photo: francois_paugam.jpg
   alttext: François Paugam
   title: "Gérer le débuggage et les messages d'erreur en langage Python"
-  abstract: "L'objectif de ce workshop est de fournir des conseils de programmation et un aperçu de la gestion des messages d'erreur et du débogage pour les débutants en programmation Python. Le workshop se déroulera en français."
-  sessions: 
+  abstract: "L'objectif de ce workshop est de fournir des conseils de programmation et un aperçu de la gestion des messages d'erreur et du débogage pour les débutants en programmation Python. Le workshop se déroulera en français. Le materiel peut être téléchargé [ici](https://github.com/UNIQUE-Students/python_erreurs_deboggage)"
+  sessions:
   - "202206090925workshop"
   tags:
     - name: GitHub
