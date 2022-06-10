@@ -62,7 +62,7 @@ We warmly invite you to join us for this year’s edition of the UNIQUE Student 
 
 ---
 
-## In-person attendance tickets 
+## In-person attendance tickets
 
 Join us in-person for this year’s edition of the UNIQUE Student Symposium!
 
@@ -86,3 +86,12 @@ We strive to create an accessible and inclusive event. Please be informed that:
 - Keynote talks will be streamed and recorded for virtual and asynchronous attendance.
 - On Chrome, you can enable Live Caption feature following [this video](https://www.youtube.com/embed/KDP8a5s8yaU).
 - If you have any accessibility needs that you would like us to know, please contact us at `{{ site.email }}`.
+
+
+
+
+---
+
+## Reading list
+
+The reading list will be posted [here](resources).
