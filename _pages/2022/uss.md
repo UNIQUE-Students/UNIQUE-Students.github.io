@@ -6,7 +6,7 @@ permalink: /2022/uss
 ---
 
 <br>
-# The UNIQUE Student Symposium 2022 is happening today!
+# Thanks for attending the UNIQUE Student Symposium 2022!
 
 <div class="card">
   <div class="card-image">
@@ -22,7 +22,7 @@ permalink: /2022/uss
     </div>
 
     <div class="content">
-      USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held <b>hybrid in Montreal</b> on June 9th and 10th!
+      USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. USS 2022 was held <b>hybrid in Montreal</b> on June 9th and 10th.
     </div>
   </div>
 </div>
@@ -41,40 +41,13 @@ permalink: /2022/uss
 ## Important dates
 
 * Posters and Lightning Talks Registration due: <b>Friday, May 27th, 2022 (anywhere on Earth)</b>
-* Online registration is still open!
-* In-person ticket sale is closed.
+* Registration is closed. Thanks for joining us!
 
 ---
 
 ## Accepted Posters and Lightning Talks
 
-Accepted submissions can be accessed <a href="/2022/posters-talks.html">here</a> after June 9th, 2022.
-
----
-
-## Registration
-
-We warmly invite you to join us for this year’s edition of the UNIQUE Student Symposium.
-
- {% include registration-message.html title="Registration" message="Registration is now open!" button="Registration form" link="https://forms.gle/o6AA5iuCt7NFzXPN7" %}
-
- {% include registration-message.html title="Inscription" message="Les inscriptions sont maintenant ouvertes !" button="Formulaire d'inscription" link="https://forms.gle/JQ3ANrNnE6QqJwNy8" %}
-
----
-
-## In-person attendance tickets
-
-Join us in-person for this year’s edition of the UNIQUE Student Symposium!
-
- {% include registration-message.html title="In-person attendance tickets" message="In-person attendance tickets are now available! Tickets are non-refundable. The price is $20 (taxes included)." button="Registration form" link="https://www.eventbrite.ca/e/unique-student-symposium-2022-tickets-344824177397" %}
-
----
-
-## Call for Poster and Lightning Talk Submissions
-
-On the first day of the symposium, we will have an <b> in-person _poster session_ </b> and a <b> virtual _lightning talks session_</b>. If you are interested in participating in these sessions, please fill out the form below.
-
-{% include registration-message.html title="Poster and Lightning Talk applications" message="You’ll be asked to provide a short abstract (1500 characters) of your presentation. After your abstract has been accepted, you will be asked to submit a digital version of your poster or a 3-minute video to present at the event." button="Application form" link="https://forms.gle/yN41jojdiq98jePs5" %}
+Accepted submissions can be accessed <a href="/2022/posters-talks.html">here</a>.
 
 ---
 
@@ -87,11 +60,8 @@ We strive to create an accessible and inclusive event. Please be informed that:
 - On Chrome, you can enable Live Caption feature following [this video](https://www.youtube.com/embed/KDP8a5s8yaU).
 - If you have any accessibility needs that you would like us to know, please contact us at `{{ site.email }}`.
 
-
-
-
 ---
 
 ## Reading list
 
-The reading list will be posted [here](resources).
+The reading list will be posted [here](/2022/resources.html).

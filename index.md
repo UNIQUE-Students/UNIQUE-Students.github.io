@@ -19,9 +19,8 @@ Or follow us on [Twitter](https://twitter.com/ai_unique)
 
 
 <br>
-# The UNIQUE Student Symposium 2022 is starting today !
-### [Join us](https://forms.gle/o6AA5iuCt7NFzXPN7) right now!
-### See the full schedule [here](/2022/schedule).
+# Thanks for taking part in the UNIQUE Student Symposium 2022!
+### Check out the [schedule](/2022/schedule.html) page for recordings and resources, and the [posters and lightning talks](/2022/posters-talks.html) page for the accepted submissions.
 
 <div class="card">
   <div class="card-image">
@@ -37,7 +36,7 @@ Or follow us on [Twitter](https://twitter.com/ai_unique)
     </div>
 
     <div class="content">
-        USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. This year USS will be held <b>hybrid in Montreal</b>.
+        USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. USS 2022 was held <b>hybrid in Montreal</b> on June 9th and 10th.
         <br>
         Learn more about <a href="/2022/uss.html">USS2022</a>.
     </div>

@@ -15,6 +15,7 @@ permalink: /2022/schedule
   </div>
 </section>
 
+<br>
 
 The times are Eastern Daylight Time (Québec local time, UTC-4). Click on the times to check your local time.
 

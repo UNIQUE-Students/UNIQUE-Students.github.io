@@ -49,7 +49,7 @@
   time_start: "14:30"
   time_end: "15:30"
   session: panel
-  title: "Panel 1 Dynamics and Optimization in Neuro-AI"
+  title: "Dynamics and Optimization in Neuro-AI"
   platforms:
 - name: Break
   date: 20220609
@@ -78,6 +78,7 @@
   time_end: "10:50"
   session: workshop
   platforms:
+    - GitHub+https://github.com/sangnie/lyapunov_calc
 - name: Break
   date: 20220610
   time_start: "10:50"
@@ -98,7 +99,7 @@
   time_start: "12:30"
   time_end: "13:20"
   platforms:
-- name: Keynote talk 4
+- name: "Keynote talk 4\n<span style='color: red;'>[POSTPONED]</span>"
   date: 20220610
   time_start: "13:20"
   time_end: "14:20"
@@ -113,14 +114,14 @@
   time_start: "14:30"
   time_end: "15:30"
   session: panel
-  title: "Panel 2 The future of Neuro-AI: Climate change"
+  title: "The Future of Neuro-AI: Climate Change"
   platforms:
 - name: Closing remarks
   date: 20220610
   time_start: "15:30"
   time_end: "15:45"
   platforms:
-- name: Social !
+- name: Social!
   date: 20220610
   time_start: "15:45"
   time_end:
