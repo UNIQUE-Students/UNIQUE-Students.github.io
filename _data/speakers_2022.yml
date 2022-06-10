@@ -213,7 +213,7 @@
   photo: sangnie_bhardwaj.jpg
   alttext: Sangnie Bhardwaj
   title: Studying Neural Networks through the lens of Dynamical Systems
-  abstract: "This hands-on workshop will introduce participants to dynamical systems tools for the analysis of neural networks."
+  abstract: "This hands-on workshop will introduce participants to dynamical systems tools for the analysis of neural networks. Please find the material here: https://github.com/sangnie/lyapunov_calc "
   sessions:
   - "202206100925workshop"
   tags:
