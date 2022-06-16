@@ -1,27 +1,27 @@
 ---
-title: USS 2022
-subtitle: Dynamics of Learning and Optimization in Brains and Machines
+title: Resources
 layout: page
 permalink: /2022/resources
 ---
 
-## Resources and a reading list proposed by participants will be posted here by the end of today
-
 #### HIGHLY RECOMMENDED!
-An online learning platform on dynamical systems: [complexityexplorer](https://www.complexityexplorer.org/) 
 
+An online learning platform on dynamical systems: [Complexity Explorer](https://www.complexityexplorer.org/).
 
-#### Youtube channels:
-YT statsquest [statsquest](https://youtube.com/c/joshstarmer) ; A Youtube channel on Statistics.
+#### YouTube channels:
 
-[2-minute Neuroscience](https://youtube.com/c/Neuroscientificallychallenged): Youtube videos that explain some basics of neuroscience in only 2 minutes!
+A YouTube channel on statistics: [StatQuest](https://youtube.com/c/joshstarmer).
+
+YouTube videos that explain some basics of neuroscience in only 2 minutes: [2-Minute Neuroscience (Neuroscientifically Challenged)](https://youtube.com/c/Neuroscientificallychallenged).
 
 
 #### Podcasts:
-[Brain Inspired](https://braininspired.co/): a podcast that includes the interview with researchers and experts in Neuroscience, AI, Cognitive Science, and more. 
 
-[DeepMind](https://youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj), The podcast: trending subfields in AI. (episode1, season1: AI and neuroscience) 
+A podcast that includes an interview with researchers and experts in Neuroscience, AI, Cognitive Science, and more: [Brain Inspired](https://braininspired.co/).
+
+Podcast on trending subfields in AI: [DeepMind: The Podcast](https://youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj) (Season 1, Episode 1: AI and Neuroscience).
 
 #### Books: 
-- Behave - Robert Sapolsky
-- Chaos: Making a New Science (by James Gleick) 
+
+- Behave – Robert Sapolsky.
+- Chaos: Making a New Science (by James Gleick).
