@@ -1,0 +1,62 @@
+- affiliation: McGill University
+  bio: "I am a PhD student in the Integrated Program in Neuroscience at McGill University. In my research I apply machine learning for the prediction of recovery of consciousness after traumatic brain injury. I am fascinated about the philosophy and neuroscience of human and non-human consciousness."
+  committee: Chair of the SAC
+  email: Charlotte.Maschke@mail.mcgill.ca
+  fullname: Charlotte Maschke
+  photo: charlotte_maschke.jpg
+  pronouns: she/her
+  alttext: none
+  twitter: https://twitter.com/CharlottMaschke
+  website: none
+- affiliation: "Université de Montréal, CRIUGM"
+  bio: "I am a master's student at Université de Montréal. I am interested in the neural correlates of pain, and more broadly, in neuroimaging data analysis techniques."
+  committee: Liaison to the Equity, Diversity, and Inclusion Committee
+  email: marie-eve.picard.2@umontreal.ca
+  fullname: Marie-Eve Picard
+  photo: marie-eve_picard.jpg
+  alttext: Marie-Eve is a Caucasian female with brown hair, freckles and glasses.
+  pronouns: she/her
+  twitter: none
+  website: none
+- affiliation: "Université de Montréal and Mila"
+  bio: "I’m a PhD student at Mila and Université de Montréal supervised by Guillaume Lajoie. I’m broadly interested in using AI to understand learning in the brain, and using neuroscience to improve AI. Currently, I’m working on understanding the dynamics of learning in the brain from observable activations."
+  committee: Technical Lead
+  email: me@nandahkrishna.com
+  fullname: Nanda H Krishna
+  photo: nanda_h_krishna.jpeg
+  alttext: none
+  pronouns: he/him
+  twitter: https://twitter.com/nandahkrishna
+  website: https://nandahkrishna.com
+- affiliation: "Université de Montréal"
+  bio: "Hamza Abdelhedi, now a research master's student at the University of Montreal, holds an engineering degree in telecommunications from the higher school of communication of Tunis (SUPCOM). He is also a Graduate Research Assistant at the Cognitive & Computational Neuroscience Lab where he is working on linking the internal representation of artificial and biological neural networks on the task of face recognition using deep learning and Magnetoencephalography (MEG). He is passionate about the Neuro-AI field and the applications of deep learning to uncover the mysteries of the brain."
+  committee: Liaison to the Scientific Committee
+  email: hamza.abdelhedi@umontreal.ca
+  fullname: Hamza Abdelhedi
+  photo: hamza_abdelhedi.jpg
+  alttext: none
+  pronouns: he/him
+- affiliation: "Université de Montréal"
+  bio: "I am a postdoctoral researcher at Courtois NeuroMod project (CRIUGM) and working with with Prof. Pierre Bellec in implementing encoding models to predict brain activities of processing the natural language using representations extracted from natural language models. My main interest lies in developing approaches to improve the predictive performance of the neural networks of language models with well-defined features from the cross-model brain representations of naturalistic information processing."
+  committee: Liaison to the UNIQUE Student Symposium Organizing Committee
+  email: bilginlab@gmail.com
+  fullname: Isil Poyraz Bilgin
+  photo: isil_bilgin.jpg
+  alttext: none
+  pronouns: she/her
+- affiliation: "Université de Montréal"
+  bio: "Clara is a master candidate in neuroscience supervised by Dr. Karim Jerbi. Her research interests are in social and cognitive neuroscience using machine learning analysis. This is her first year on the student affairs committee and she is very excited to be part of the UNIQUE community and help showcase UNIQUE students and research in neurosciences and AI."
+  committee: Communication Lead
+  email: clara.el.khantour@umontreal.ca
+  fullname: Clara El Khantour
+  photo: clara_el_khantour.jpeg
+  alttext: none
+  pronouns: she/her
+- affiliation: "McGill University"
+  bio: "I am a second year Master's student at IPN, McGill, working in the intersection of neuroscience and artificial intelligence. I use artificial neural networks to model attention in primates. In my free time, I enjoy watching movies, and drawing. Looking forward to all the cool UNIQUE events we will have this year!"
+  committee: Event Coordinator
+  email: mo.pourrahimi@gmail.com
+  fullname: Motahareh Pourrahimi
+  photo: motahareh_pourrahimi.jpg
+  alttext: none
+  pronouns: she/her

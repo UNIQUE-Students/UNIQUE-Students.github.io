@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who we are
+title: Team of USS 2022
 permalink: /2022/team
 ---
 

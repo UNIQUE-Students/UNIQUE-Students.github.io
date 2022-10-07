@@ -38,7 +38,7 @@ Or follow us on [Twitter](https://twitter.com/ai_unique)
     <div class="content">
         USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. USS 2022 was held <b>hybrid in Montreal</b> on June 9th and 10th.
         <br>
-        Learn more about <a href="/2022/uss.html">USS2022</a>.
+        Learn more about <a href="/2022/pastevents.html">USS2022</a>.
     </div>
   </div>
 </div>

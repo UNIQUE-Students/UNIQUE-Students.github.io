@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Team of past editions of USS
-hero_height: is-small
+title: Team of USS 2021
 permalink: /2021/team
 ---
 
