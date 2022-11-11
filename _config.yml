@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: UNIQUE Students
 tagline: UNIQUE Student Affairs
-email: unique.student.affairs@gmail.com
-sac: unique.student.affairs@gmail.com
+email: unique-affaires-etudiantes@umontreal.ca
+sac: unique-affaires-etudiantes@umontreal.ca
 twitter_username: ai_unique
 twitter:
   - username: ai_unique
