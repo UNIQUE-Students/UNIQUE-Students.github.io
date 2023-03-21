@@ -1,0 +1,128 @@
+- name: Breakfast
+  date: 20220609
+  time_start: "08:45"
+  time_end: "09:15"
+  platforms:
+- name: Pre-workshop remarks
+  date: 20220609
+  time_start: "09:15"
+  time_end: "09:25"
+  platforms:
+- name: Workshop 1
+  date: 20220609
+  time_start: "09:25"
+  time_end: "10:50"
+  session: workshop
+  platforms:
+- name: Break
+  date: 20220609
+  time_start: "10:50"
+  time_end: "11:20"
+  platforms:
+- name: Opening remarks
+  date: 20220609
+  time_start: "11:20"
+  time_end: "11:30"
+  platforms:
+- name: Keynote talk 1
+  date: 20220609
+  time_start: "11:30"
+  time_end: "12:30"
+  platforms:
+- name: Lunch + Networking 
+  date: 20220609
+  time_start: "12:30"
+  time_end: "13:20"
+  platforms:
+- name: Keynote talk 2
+  date: 20220609
+  time_start: "13:20"
+  time_end: "14:20"
+  platforms:
+- name: Break
+  date: 20220609
+  time_start: "14:20"
+  time_end: "14:30"
+  platforms:
+- name: Discussion Panel 1
+  date: 20220609
+  time_start: "14:30"
+  time_end: "15:30"
+  session: panel
+  title: "Dynamics and Optimization in Neuro-AI"
+  platforms:
+- name: Break
+  date: 20220609
+  time_start: "15:30"
+  time_end: "15:45"
+  platforms:
+- name: Poster presentations
+  date: 20220609
+  time_start: "15:45"
+  time_end: "17:30"
+  platforms:
+
+- name: Breakfast
+  date: 20220610
+  time_start: "08:45"
+  time_end: "09:15"
+  platforms:
+- name: Pre-workshop remarks
+  date: 20220610
+  time_start: "09:15"
+  time_end: "09:25"
+  platforms:
+- name: Workshop 2
+  date: 20220610
+  time_start: "09:25"
+  time_end: "10:50"
+  session: workshop
+  platforms:
+    - GitHub+https://github.com/sangnie/lyapunov_calc
+- name: Break
+  date: 20220610
+  time_start: "10:50"
+  time_end: "11:20"
+  platforms:
+- name: Opening remarks 
+  date: 20220610
+  time_start: "11:20"
+  time_end: "11:30"
+  platforms:
+- name: Keynote talk 3
+  date: 20220610
+  time_start: "11:30"
+  time_end: "12:30"
+  platforms:
+- name: Lunch + Networking 
+  date: 20220610
+  time_start: "12:30"
+  time_end: "13:20"
+  platforms:
+- name: "Keynote talk 4\n<span style='color: red;'>[POSTPONED]</span>"
+  date: 20220610
+  time_start: "13:20"
+  time_end: "14:20"
+  platforms:
+- name: Break
+  date: 20220610
+  time_start: "14:20"
+  time_end: "14:30"
+  platforms:
+- name: Discussion Panel 2
+  date: 20220610
+  time_start: "14:30"
+  time_end: "15:30"
+  session: panel
+  title: "The Future of Neuro-AI: Climate Change"
+  platforms:
+- name: Closing remarks
+  date: 20220610
+  time_start: "15:30"
+  time_end: "15:45"
+  platforms:
+- name: Social!
+  date: 20220610
+  time_start: "15:45"
+  time_end:
+  platforms:

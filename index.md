@@ -3,7 +3,6 @@ layout: page
 title: UNIQUE STUDENTS
 subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 #toc: true
-
 ---
 
 <br>
@@ -20,17 +19,17 @@ Subscribe to our [Mailing List](https://docs.google.com/forms/d/e/1FAIpQLSc4zY0T
 Or follow us on [Twitter](https://twitter.com/ai_unique)
 <br>
 
-# MAIN 2022 is on December 12 & 13 2022, hybrid in Montréal!
+# USS 2023 is coming soon!
 
-### Check out the [MAIN 2022 website](https://www.main2022.org) to learn more.
+### Check out the [webpage](/2023/uss) to learn more.
 
-<div class="card">
+<!-- <div class="card">
   <div class="card-image">
     <figure class="image is-5by2">
       <img src="/assets/img/MAIN2022-banner.png" alt="MAIN 2022">
     </figure>
   </div>
-</div>
+</div> -->
 
 ## Contact
 

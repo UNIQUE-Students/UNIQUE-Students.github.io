@@ -1,0 +1,130 @@
+- affiliation: "Universit\xE9 de Montr\xE9al, CRIUGM, Projet Courtois NeuroMod"
+  bio: "I am a master student in psychology at Universit\xE9 de Montr\xE9al. Having\
+    \ backgrounds in both music composition and cognitive neurosciences, my research\
+    \ interests include auditory perception, music perception and creation, and noise\
+    \ pollution's effects on perception and health (physical and mental). I'm currently\
+    \ part of the auditory perception and protection branch of the Projet Courtois\
+    \ NeuroMod (CRIUGM)."
+  committee: Chair
+  email: eddy.fortier@umontreal.ca
+  fullname: Eddy Fortier
+  photo: eddy_fortier.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: none
+- affiliation: "Universit\xE9 de Montr\xE9al and Mila"
+  bio: "I’m a Master’s student at Université de Montréal and Mila supervised by Guillaume Lajoie.\
+    \ I’m broadly interested in building efficient and robust deep learning models\
+    \ inspired by the brain, and applying these models in healthcare. Currently,\
+    \ I’m working on understanding the dynamics of latent representations learnt\
+    \ by the brain."
+  committee: Education
+  email: me@nandahkrishna.com
+  fullname: Nanda H Krishna 
+  photo: nanda_h_krishna.jpeg
+  alttext: none
+  pronouns: he/him
+  twitter: https://twitter.com/nandahkrishna
+  website: https://nandahkrishna.com
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: "I am doing a research project in Karim Jerbi's lab, working on dynamic decision-making.\
+    \ My research involves comparing latent representations of artificial and biological\
+    \ neural networks while performing the same task. I am generally interested in the\
+    \ application of neural networks to complex systems in the real world."
+  committee: Education
+  email: philipp.thoelke@posteo.de
+  fullname: Philipp Thölke 
+  photo: philipp.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: https://github.com/PhilippThoelke
+- affiliation: "Universit\xE9 de Montr\xE9al and CHU Sainte-Justine "
+  bio: "I am a Postdoctoral fellow with Prof. Guillaume Dumas at Université de Montréal\
+  \ and CHU Sainte-Justine. I study the neural dynamics of social interactions\
+  \ combining EEG and stimulation techniques."
+  committee: Communication
+  email: Quentin.moreau@ppsp.team
+  fullname: Quentin Moreau  
+  photo: quentin.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: https://twitter.com/quentin_moreau
+  website: https://scholar.google.com/citations?user=745WRukAAAAJ&hl=fr
+- affiliation: "Universit\xE9 Laval"
+  bio: "I am a Postdoctoral Fellow working with Prof. Flavie Lavoie-Cardinal and\
+  \ Prof. Christian Gagné at Laval University, Quebec City. I am interested in\
+  \ the development of multimodal super-resolution imaging for live-cell imaging\
+  \ using machine learning. I am addicted to reading and love scientific discussions."
+  committee: Communication
+  email: theresa.wiesner.1@ulaval.ca
+  fullname: Theresa Wiesner
+  photo: theresa.png
+  alttext: none
+  pronouns: she/her
+  twitter: https://twitter.com/terrymosoly
+  website: wiesnertheresa.github.io
+- affiliation: "Universit\xE9 de Montr\xE9al and Mila"
+  bio: "I’m a PhD student in applied mathematics at the University of Montreal and Mila,\
+  \ the Quebec AI institute. My interests revolve around the application of methods\
+  \ from probability and dynamical systems theory to develop normative theories of computation\
+  \ in biological and artificial recurrent neural networks."
+  committee: Program
+  email: ezekiel.williams@mila.quebec
+  fullname: Ezekiel Williams
+  photo: ezekiel_williams.jpeg
+  alttext: none
+  pronouns: he/him
+  twitter: https://twitter.com/zek3r
+  website: https://computationalcognition.ca
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: "I am a master’s student in neuroscience at Université de Montréal and\
+  \ Cisek’s lab, with having backgrounds in mathematics and engineering. I am\
+  \ interested in computational neuroscience, how information is represented\
+  \ in the brain, and how neural circuits are connected together. Currently,\
+  \ I am working on the computational model of the brain circuits during\
+  \ decision making, specifically during action specification and selection."
+  committee: Program
+  email: poune.mirzazadeh@umontreal.ca
+  fullname: Poune Mirzazadeh
+  photo: poune_mirzazadeh.png
+  alttext: none
+  pronouns: she/her
+  twitter: https://twitter.com/MirzazadehPoune
+  website: none
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: "I am a first-year Ph.D. student in Ebitz’s lab at the University of\
+  \ Montreal’s department of neuroscience. My background is a combination of\
+  \ engineering and cognitive psychology. My current interest lies in\
+  \ studying mechanisms of decision-making with help of psychophysics and\
+  \ computational modeling with an emphasis on explore-exploit dilemmas. I\
+  \ enjoy spending time with friends and going for walks when I have some\
+  \ free time."
+  committee: Logistics
+  email: akram.shourkeshti@umontreal.ca
+  fullname: Akram Shourkeshti
+  photo: akram.jpg
+  alttext: none
+  pronouns: she/her
+  twitter: https://twitter.com/akramcogsci
+  website: none
+- affiliation: "Universit\xE9 de Montr\xE9al"
+  bio: "I am a Master’s student in neuroscience at Université de Montréal\
+  \ cosupervised by Dr Dancause in the neuroscience department and Guillaume\
+  \ Lajoie from the Mathematics department. I am interested in brain-machine\
+  \ interfaces, neural dynamics and motor control. My main project aims at\
+  \ optimizing parameters in the context of neurostimulation in preclinical\
+  \ animal models and this implies acquiring both experimental and\
+  \ computational modeling skills. In this context, questions of interest\
+  \ are : Does external electric stimulation of a network keep the neural\
+  \ dynamics in a physiological regime? Can we drive high dimensional neural\
+  \ activity in useful ways using only a small number of input nodes?"
+  committee: Logistics
+  email: none
+  fullname: Léo Choinière
+  photo: none
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: none

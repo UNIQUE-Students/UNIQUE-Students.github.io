@@ -10,9 +10,9 @@ permalink: /2022/team
 {% for person in people %}
   {% assign side = forloop.index0 | modulo: 2 %}
     {% if side == 0 %}
-      {% include team-card.html %}
+      {% include team-card_past.html %}
     {% else %}
-      {% include team-card.html %}
+      {% include team-card_past.html %}
     {% endif %}
 {% endfor %}
 
@@ -24,8 +24,8 @@ USS is organized every year by volunteer students from [UNIQUE](https://sites.go
 {% for person in people %}
   {% assign side = forloop.index0 | modulo: 2 %}
     {% if side == 0 %}
-      {% include team-card.html %}
+      {% include team-card_past.html %}
     {% else %}
-      {% include team-card.html %}
+      {% include team-card_past.html %}
     {% endif %}
 {% endfor %}

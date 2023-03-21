@@ -1,7 +1,9 @@
+- name: USS 2023
+  link: /2023/uss.html
+- name: Who we are
+  link: /2023/team.html
 - name: Past Events
   link: /pastevents.html
-- name: Who we are
-  link: /team.html
 - name: Funding and Jobs
   link: /funding.html
 - name: About
