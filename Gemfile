@@ -18,9 +18,14 @@ gem "github-pages", group: :jekyll_plugins
 # Plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag'
+  gem "jekyll-sitemap"
+  gem "jekyll-seo-tag"
 end
 
 # Theme: Bulma Clean Theme
 gem "bulma-clean-theme"
+
+if Gem.win_platform?
+  gem "wdm", "~> 0.1.0"
+  gem "webrick", "~> 1.8"
+end
