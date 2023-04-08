@@ -20,7 +20,8 @@ permalink: /2023/team
 
 USS is organized every year by volunteer students from [UNIQUE](https://sites.google.com/view/unique-neuro-ai/home). This is the organizing team of USS 2023, in random order.
 
-<!-- {% assign people = site.data.team_2023 | sample: site.data.team_2023.size %}
+
+{% assign people = site.data.team_2023 | sample: site.data.team_2023.size %}
 {% for person in people %}
   {% assign side = forloop.index0 | modulo: 2 %}
     {% if side == 0 %}
@@ -28,6 +29,9 @@ USS is organized every year by volunteer students from [UNIQUE](https://sites.go
     {% else %}
       {% include team-card.html %}
     {% endif %}
-{% endfor %} -->
+{% endfor %}
 
+
+<!-- 
 To be announced soon!
+-->
