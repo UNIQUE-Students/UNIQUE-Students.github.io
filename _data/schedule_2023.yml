@@ -24,7 +24,7 @@
   time_end: "12:00"
   session: workshop
   platforms:
-    # - GitHub+https://github.com/sangnie/lyapunov_calc
+  #  - GitHub+https://github.com/sangnie/lyapunov_calc
 - name: Lunch + Networking
   date: 20230605
   time_start: "12:00"
@@ -64,7 +64,6 @@
   time_start: "16:00"
   time_end: "17:30"
   platforms:
-
 - name: Breakfast
   date: 20230606
   time_start: "08:45"
@@ -91,7 +90,7 @@
   time_end: "12:00"
   session: workshop
   platforms:
-    # - GitHub+https://github.com/sangnie/lyapunov_calc
+  #  - GitHub+https://github.com/sangnie/lyapunov_calc
 - name: Lunch + Networking
   date: 20230606
   time_start: "12:00"
@@ -113,7 +112,7 @@
   time_end: "15:00"
   session: panel
   # title: "Dynamics and Optimization in Neuro-AI"
-  # platforms:
+  platforms:
 - name: Interactive Round Table
   date: 20230606
   time_start: "15:00"
