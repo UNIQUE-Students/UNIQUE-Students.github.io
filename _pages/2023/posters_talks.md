@@ -22,6 +22,4 @@ permalink: /2023/posters-talks
 -->
 
 
-<!--
 These will be announced here later!
- -->

@@ -52,7 +52,3 @@ permalink: /2023/speakers
         {% endif %}
     {% endif %}
 {% endfor %}
-
-<!--
-To be announced soon!
- -->

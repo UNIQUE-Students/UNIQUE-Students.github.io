@@ -1,6 +1,6 @@
 ---
 title: USS 2023
-subtitle: TBA
+subtitle: From Brains to Machines and Back: Exploring the Potential of NeuroAI
 permalink: /2023/uss
 ---
 
@@ -10,13 +10,13 @@ permalink: /2023/uss
 <div class="card">
 <div class="card-image">
     <figure class="image is-5by2">
-    <img src="/assets/img/USS2023/banner.png" alt="USS 20230605">
+    <img src="/assets/img/USS2023/banner.png" alt="USS 2023">
     </figure>
 </div>
 <div class="card-content">
     <div class="media">
     <div class="media-content">
-        <p class="title is-4">UNIQUE Student Symposium 2023: Dynamics of Learning and Optimization in Brains and Machines</p>
+        <p class="title is-4">UNIQUE Student Symposium 2023: From Brains to Machines and Back: Exploring the Potential of NeuroAI</p>
     </div>
     </div>
 
@@ -28,7 +28,7 @@ permalink: /2023/uss
 
 ---
 
-## Dynamics of Learning and Optimization in Brains and Machines
+## From Brains to Machines and Back: Exploring the Potential of NeuroAI
 
 ##### See the full schedule [here](schedule).
 ##### Day 1: Monday, 5 June 2023
@@ -39,14 +39,15 @@ permalink: /2023/uss
 
 ## Important dates
 
-* Posters and Lightning Talks Registration due: <b>Friday, May 27th, 2023 (anywhere on Earth)</b>
-* Registration is closed. Thanks for joining us!
+* Posters and Lightning Talks Registration due: <b>Friday, May 7th, 2023 (anywhere on Earth)</b>
+<!-- * Registration is closed. Thanks for joining us! -->
 
----
+<!-- ---
 
 ## Accepted Posters and Lightning Talks
 
 Accepted submissions can be accessed <a href="/2023/posters-talks.html">here</a>.
+-->
 
 ---
 

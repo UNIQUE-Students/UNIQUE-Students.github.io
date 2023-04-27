@@ -10,7 +10,7 @@ permalink: /2023/schedule
 <section class="hero is-primary">
   <div class="hero-body">
     <figure class="image is-5by2">
-      <img src="/assets/img/USS2023/banner.png" alt="USS 2022">
+      <img src="/assets/img/USS2023/banner.png" alt="USS 2023">
     </figure>
   </div>
 </section>
@@ -26,7 +26,3 @@ The times are Eastern Daylight Time (Québec local time, UTC-4). Click on the ti
 ## Tuesday, 6th June
 
 {% include table-schedule.html schedule=site.data.schedule_2023 speakers=site.data.speakers_2023 date="20230606" people="Speaker(s)" %}
-
-<!--
-To be announced soon!
--->
