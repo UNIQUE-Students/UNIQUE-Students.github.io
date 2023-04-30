@@ -1,6 +1,6 @@
 ---
 title: USS 2023
-subtitle: From Brains to Machines and Back: Exploring the Potential of NeuroAI
+subtitle: "From Brains to Machines and Back"
 permalink: /2023/uss
 ---
 
