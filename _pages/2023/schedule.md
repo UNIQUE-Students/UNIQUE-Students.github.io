@@ -7,10 +7,10 @@ show_sidebar: false
 permalink: /2023/schedule
 ---
 
-<!-- <section class="hero is-primary">
+<section class="hero is-primary">
   <div class="hero-body">
     <figure class="image is-5by2">
-      <img src="/assets/img/USS2022/banner.png" alt="USS 2022">
+      <img src="/assets/img/USS2023/banner.png" alt="USS 2023">
     </figure>
   </div>
 </section>
@@ -19,12 +19,10 @@ permalink: /2023/schedule
 
 The times are Eastern Daylight Time (Québec local time, UTC-4). Click on the times to check your local time.
 
-## Date D1
+## Monday, 5th June
 
-{% include table-schedule.html schedule=site.data.schedule_2023 speakers=site.data.speakers_2023 date="202306D1" people="Speaker(s)" %}
+{% include table-schedule.html schedule=site.data.schedule_2023 speakers=site.data.speakers_2023 date="20230605" people="Speaker(s)" %}
 
-## Date D2
+## Tuesday, 6th June
 
-{% include table-schedule.html schedule=site.data.schedule_2023 speakers=site.data.speakers_2023 date="202206D2" people="Speaker(s)" %} -->
-
-To be announced soon!
+{% include table-schedule.html schedule=site.data.schedule_2023 speakers=site.data.speakers_2023 date="20230606" people="Speaker(s)" %}
