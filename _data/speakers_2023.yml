@@ -1,21 +1,50 @@
-# - fullname: Courtney Paquette
-#   pronouns: "she/her"
-#   affiliations:
-#   - McGill University
-#   - CIFAR Canada AI chair
-#   - MILA
-#   nametitle: Ph.D.
-#   bio: Courtney Paquette is an assistant professor at McGill University and a CIFAR Canada AI chair, MILA. Paquette’s research broadly focuses on designing and analyzing algorithms for large-scale optimization problems, motivated by applications in data science. She received her PhD from the mathematics department at the University of Washington (2017), held postdoctoral positions at Lehigh University (2017-2018) and University of Waterloo (NSF postdoctoral fellowship, 2018-2019), and was a research scientist at Google Research, Brain Montreal (2019-2020).
-#   position: Assistant Professor
-#   photo: paquette_c.jpg
-#   alttext: Courtney Paquette
-#   title: "Optimization Algorithms in the Large: Exact Dynamics, Average-case Analysis, and Stepsize Criticality"
-#   abstract: In this talk, I will present a framework, inspired by random matrix theory, for analyzing the dynamics of optimization algorithms (e.g., 1st-order methods, stochastic gradient descent (SGD), and momentum) when both the number of samples and dimensions are large. Using this new framework, we show that the dynamics of optimization algorithms on a least squares problem with random data become deterministic in the large sample and dimensional limit. In particular, the limiting dynamics for stochastic algorithms are governed by a Volterra integral equation. This model predicts that SGD undergoes a phase transition at an explicitly given critical stepsize that ultimately affects its convergence rate, which we also verify experimentally. Finally, when input data is isotropic, we provide explicit expressions for the dynamics and average-case convergence rates. These rates show significant improvement over the worst-case complexities.
-#   sessions:
-#   - "202306051320"
-#   - "202306051430panel"
-#   tags:
-#     - name: Relevant paper
-#       link: https://arxiv.org/pdf/2106.03696.pdf
-#     - name: Website
-#       link: https://cypaquette.github.io
+- fullname: Guillaume Dumas
+  pronouns: "he/him"
+  affiliations:
+  - Université de Montréal
+  - Mila – Quebec AI Institute
+  - IVADO chair
+  nametitle: Ph.D.
+  bio: Guillaume Dumas is Associate Professor of Computational Psychiatry at the Faculty of Medicine of the University of Montreal and Director of the Precision Psychiatry and Social Physiology Laboratory at the CHU Sainte-Justine Research Center.
+  position: Associate Professor
+  photo: GuillaumeDumas.jpg
+  alttext: Guillaume Dumas
+  title: "Social Interactions & Group Dynamics in Humans and Machines"
+  abstract:
+  sessions:
+  - "202306051330"
+  - "202306051445panel"
+  # tags:
+  #   - name: Relevant paper
+  #     link: https://arxiv.org/pdf/2106.03696.pdf
+  #   - name: Website
+  #     link: https://cypaquette.github.io
+- fullname: Marco Bonizzato
+  pronouns: "he/him"
+  affiliations:
+  - Polytechnique Montréal
+  nametitle: Ph.D.
+  bio: Prof. Marco Bonizzato is a Control, Electrical and Life Sciences Engineer with over 10 years experience in implatable brain-computer interfaces and neuromodulation technology. He has a unique double expertise in (a) neural prostheses and (b) machine intelligence and optimization.
+  position: Associate Professor
+  photo: MarcoBonizzato.jpg
+  alttext: Marco Bonizzato
+  title: "NeuroAI in Medical Research"
+  abstract:
+  sessions:
+  - "202306060930"
+  - "202306061045panel"
+- fullname: Shahab Bakhtiari
+  pronouns: "he/him"
+  affiliations:
+  - Université de Montréal
+  - Mila – Quebec AI Institute
+  nametitle: Ph.D.
+  bio:
+  position: Associate Professor
+  photo: ShahabBakhtiari.jpg
+  alttext: Shahab Bakhtiari
+  title: "Machines to brains"
+  abstract:
+  sessions:
+  - "202306061330"
+  - "202306061445panel"
