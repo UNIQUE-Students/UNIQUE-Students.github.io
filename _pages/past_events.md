@@ -7,6 +7,28 @@ permalink: /pastevents
 <div class="card">
   <div class="card-image">
     <figure class="image is-5by2">
+      <img src="/assets/img/HBHL_UNIQUE.jpg" alt="HBHL-UNIQUE Get-Together 2023">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4">HBHL-UNIQUE Get-Together 2023</p>
+      </div>
+    </div>
+
+    <div class="content">
+      <a href="/2023/hbhl-unique">Event page</a>.
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<div class="card">
+  <div class="card-image">
+    <figure class="image is-5by2">
       <img src="/assets/img/USS2022/banner.png" alt="USS 2022">
     </figure>
   </div>

@@ -21,7 +21,7 @@ permalink: /2023/uss
     </div>
 
     <div class="content">
-    USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. USS 2023 will be held <b>hybrid in Montreal</b> on June 5th and 6th.
+    USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. USS 2023 will be held <b>hybrid in Montreal</b> on June 5th and 6th at the Campus MIL.
     </div>
 </div>
 </div>
@@ -30,16 +30,20 @@ permalink: /2023/uss
 
 ## From Brains to Machines and Back: Exploring the Potential of NeuroAI
 
-##### See the full schedule [here](schedule).
 ##### Day 1: Monday, 5 June 2023
 ##### Day 2: Tuesday, 6 June 2023
+##### Location: Université de Montréal - Campus MIL 1375 Avenue Thérèse-Lavoie-Roux Montréal, QC H2V 0B3
+##### See the full schedule [here](schedule).
 ##### See the speakers [here](speakers).
 
 ---
 
-## Important dates
+## Important links and dates
 
-* Posters and Lightning Talks Registration due: <b>Friday, May 7th, 2023 (anywhere on Earth)</b>
+* Registration link: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127">click here!</a>
+* Registration deadline: <b>Tuesday, May 30th, 2023 (in person tickets)</b>
+* Poster submission link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctmU_gFOph1RYt1Tmv8BA0nUTaPnbgO0SJlvYxnKIgKZv4Rg/viewform">click here!</a>
+* Posters deadline: <b>Friday, May 7th, 2023 (anywhere on Earth)</b>
 <!-- * Registration is closed. Thanks for joining us! -->
 
 <!-- ---

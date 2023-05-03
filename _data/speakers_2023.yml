@@ -1,3 +1,19 @@
+- fullname: Doina Precup
+  pronouns: "she/her"
+  affiliations:
+  - McGill University
+  - Mila – Quebec AI Institute
+  - DeepMind
+  - CIFAR AI chair
+  nametitle: Ph.D.
+  bio: "Doina Precup teaches at McGill while conducting fundamental research on reinforcement learning, working in particular on AI applications in areas that have a social impact, such as health care. She’s interested in machine decision-making in situations where uncertainty is high. She is a senior fellow of the Canadian Institute for Advanced Research, fellow of the Association for the Advancement of Artificial Intelligence and she also heads the Montreal office of DeepMind. She is a specialist in Artificial intelligence, machine learning, reinforcement learning, reasoning and planning under uncertainty, applications."
+  position: Associate Professor
+  photo: DoinaPrecup.jpg
+  alttext: Doina Precup
+  title: "Brains to machines"
+  abstract: ""
+  sessions:
+  - "202306050930"
 - fullname: Guillaume Dumas
   pronouns: "he/him"
   affiliations:
@@ -10,10 +26,9 @@
   photo: GuillaumeDumas.jpg
   alttext: Guillaume Dumas
   title: "Social Interactions & Group Dynamics in Humans and Machines"
-  abstract:
+  abstract: ""
   sessions:
   - "202306051330"
-  - "202306051445panel"
   # tags:
   #   - name: Relevant paper
   #     link: https://arxiv.org/pdf/2106.03696.pdf
@@ -25,14 +40,13 @@
   - Polytechnique Montréal
   nametitle: Ph.D.
   bio: Prof. Marco Bonizzato is a Control, Electrical and Life Sciences Engineer with over 10 years experience in implatable brain-computer interfaces and neuromodulation technology. He has a unique double expertise in (a) neural prostheses and (b) machine intelligence and optimization.
-  position: Associate Professor
+  position: Assistant Professor
   photo: MarcoBonizzato.jpg
   alttext: Marco Bonizzato
   title: "NeuroAI in Medical Research"
-  abstract:
+  abstract: ""
   sessions:
   - "202306060930"
-  - "202306061045panel"
 - fullname: Shahab Bakhtiari
   pronouns: "he/him"
   affiliations:
@@ -40,11 +54,10 @@
   - Mila – Quebec AI Institute
   nametitle: Ph.D.
   bio:
-  position: Associate Professor
+  position: Assistant Professor
   photo: ShahabBakhtiari.jpg
   alttext: Shahab Bakhtiari
   title: "Machines to brains"
-  abstract:
+  abstract: ""
   sessions:
   - "202306061330"
-  - "202306061445panel"

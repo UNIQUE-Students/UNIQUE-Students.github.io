@@ -6,7 +6,7 @@ permalink: /2023/hbhl-unique
 
 <br>
 
-# The first HBHL-UNIQUE Get-Together is coming up!
+# Thanks for taking part in the first HBHL-UNIQUE Get-Together!
 
 <div class="card">
 <div class="card-image">
@@ -18,27 +18,21 @@ permalink: /2023/hbhl-unique
 
 ---
 
-The first edition of the HBHL-UNIQUE Get-Together will take place on 27th April at the CRIUGM amphitheatre from 5 pm to 8 pm.
+The first edition of the HBHL-UNIQUE Get-Together took place on 27th April at the CRIUGM amphitheatre from 5 pm to 8 pm.
 
-This event will consist of 2 keynote presentations, 2 short oral presentations by students and networking opportunities around a buffet.
-
-Registration is free, but mandatory:
+This event consisted of 2 keynote presentations, 2 short oral presentations by students and networking opportunities around a buffet.
 
 **Date & Time:** Thursday, 27th April 2023 from 5:00 p.m. to 8:00 p.m. EDT<br>
 **Venue:** Research Center of the IUGM - 4545 Chem. Queen Mary, Montréal, QC H3W 1W6<br>
-**Registration:** <a href="https://forms.office.com/r/Lq24RQTBwk">Click here</a><br>
 
 ---
 
-La première édition du HBHL-UNIQUE Get-Together aura lieu le 27 avril à l’amphithéâtre du CRIUGM de 17h à 20h.
+La première édition du HBHL-UNIQUE Get-Together a eu lieu le 27 avril à l’amphithéâtre du CRIUGM de 17h à 20h.
 
-Cet événement comprendra 2 présentations keynotes, 2 courtes présentations orales par des étudiants et des opportunités de réseautage autour d’un buffet.
-
-L’inscription est gratuite, mais obligatoire :
+Cet événement consistait 2 présentations keynotes, 2 courtes présentations orales par des étudiants et des opportunités de réseautage autour d’un buffet.
 
 **Date et heure :** Jeudi 27 avril 2023 de 17h00 à 20h00 EDT<br>
 **Lieu :** Centre de recherche de l’IUGM - 4545 Chem. Queen Mary, Montréal, QC H3W 1W6<br>
-**Inscription :** <a href="https://forms.office.com/r/Lq24RQTBwk">Cliquez ici</a><br>
 
 ---
 

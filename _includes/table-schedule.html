@@ -21,7 +21,8 @@
       {% endfor %}
       {% endcapture %}
       {% capture eventtitle %}
-      {% if event.name == "Lightning talks" %}Selection of 3-minutes presentations by participants{% endif %}
+      {% if event.name == "Lightning talks" %}Selection of presentations by participants{% endif %}
+      {% if event.name == "Poster presentations" %}Selected posters presented by participants{% endif %}
       {% for speaker in speakers %}
         {% capture slides %}
           {% for tag in speaker.tags %}
@@ -45,17 +46,15 @@
       {% endcapture %}
         <tr>
           <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=UNIQUE+Student+Symposium&iso={{ event.date }}T{{ event.time_start | split: ":" | first }}{{ event.time_start | split: ":" | last }}00&p1=165">{{ event.time_start }}</a> - {{ event.time_end }}</td>
-          {% unless event.session contains "break" %}
-						<td><strong>{{ event.name }}</strong></td>
-            {% else %}
-						<td>{{ event.name }}</td>
-          {% endunless %}
+					<td><strong>{{ event.name }}</strong></td>
           <td>{{ speakersnames }}</td>
-          {% unless event.session contains "panel" %}
-          <td>{{ eventtitle }}</td>
+          {% if event.session contains "panel" %}
+            <td>{{ event.title }}</td>
+          {% elsif event.session contains "workshop" and speakers.size == 0 %}
+            <td>{{ event.title }}</td>
           {% else %}
-						<td>{{ event.title }}</td>
-          {% endunless %}
+						<td>{{ eventtitle }}</td>
+          {% endif %}
           {% capture platforms %}
             {% for platform in event.platforms %}
               <a href="{{ platform | split: "+" | last }}">{{ platform | split: "+" | first }}</a>
