@@ -23,6 +23,7 @@
   time_start: "11:00"
   time_end: "12:00"
   session: workshop
+  title: "Open Science: Helping and Contributing to the Community"
   platforms:
   #  - GitHub+https://github.com/sangnie/lyapunov_calc
 - name: Lunch + Networking
@@ -30,29 +31,31 @@
   time_start: "12:00"
   time_end: "13:00"
   platforms:
-- name: Keynote talk 2
+- name: Lightning talks
   date: 20230605
   time_start: "13:00"
-  time_end: "14:15"
+  time_end: "13:30"
+  session: panel
+  # title: "Dynamics and Optimization in Neuro-AI"
+  platforms:
+- name: Keynote talk 2
+  date: 20230605
+  time_start: "13:30"
+  time_end: "14:45"
+  title: "Social Interactions & Group Dynamics in Humans and Machines"
+  session: panel
   platforms:
 - name: Coffee Break
   date: 20230605
-  time_start: "14:15"
-  time_end: "14:30"
-  platforms:
-- name: Lightning talks
-  date: 20230605
-  time_start: "14:30"
+  time_start: "14:45"
   time_end: "15:00"
-  session: panel
-  # title: "Dynamics and Optimization in Neuro-AI"
   platforms:
 - name: Interactive Round Table
   date: 20230605
   time_start: "15:00"
   time_end: "15:45"
   session: panel
-  # title: "The Future of Neuro-AI: Climate Change"
+  title: "Constructing relevant NeuroAI research projects"
   platforms:
 - name: Break
   date: 20230605
@@ -64,6 +67,7 @@
   time_start: "16:00"
   time_end: "17:30"
   platforms:
+
 - name: Breakfast
   date: 20230606
   time_start: "08:45"
@@ -78,6 +82,8 @@
   date: 20230606
   time_start: "09:30"
   time_end: "10:45"
+  session: panel
+  title: "NeuroAI in Medical Research"
   platforms:
 - name: Break
   date: 20230606
@@ -96,22 +102,23 @@
   time_start: "12:00"
   time_end: "13:00"
   platforms:
-- name: Keynote talk 4
+- name: Lightning talks
   date: 20230606
   time_start: "13:00"
-  time_end: "14:15"
+  time_end: "13:30"
+  # title: "Dynamics and Optimization in Neuro-AI"
+  platforms:
+- name: Keynote talk 4
+  date: 20230606
+  time_start: "13:30"
+  time_end: "14:45"
+  title: "Machines to brains"
+  session: panel
   platforms:
 - name: Coffee Break
   date: 20230606
-  time_start: "14:15"
-  time_end: "14:30"
-  platforms:
-- name: Lightning talks
-  date: 20230606
-  time_start: "14:30"
+  time_start: "14:45"
   time_end: "15:00"
-  session: panel
-  # title: "Dynamics and Optimization in Neuro-AI"
   platforms:
 - name: Interactive Round Table
   date: 20230606
