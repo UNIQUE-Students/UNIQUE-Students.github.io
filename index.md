@@ -14,7 +14,7 @@ neuroscience.
 
 <br>
 <center>
-<ul style="display:inline;list-style:none;"><li style="display:inline;padding: 0px 5px 0px 5px"><a href="/2023/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li style="display:inline;padding: 0px 5px 0px 5px"><a href="/2023/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li style="display:inline;padding: 0px 5px 0px 5px"><a href="https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127"><button class="button is-primary">Registration</button></a></li>  <li style="display:inline;padding: 0px 5px 0px 5px"><a href="https://docs.google.com/forms/d/e/1FAIpQLSctmU_gFOph1RYt1Tmv8BA0nUTaPnbgO0SJlvYxnKIgKZv4Rg/viewform"><button class="button is-primary">Poster Submission</button></a></li></ul>
+<ul style="display:inline;list-style:none;"><li style="display:inline;padding: 3px 5px 3px 5px"><a href="/2023/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li style="display:inline;padding: 3px 5px 3px 5px"><a href="/2023/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li style="display:inline;padding: 3px 5px 3px 5px"><a href="https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127"><button class="button is-primary">Registration</button></a></li>  <li style="display:inline;padding: 3px 5px 3px 5px"><a href="https://docs.google.com/forms/d/e/1FAIpQLSctmU_gFOph1RYt1Tmv8BA0nUTaPnbgO0SJlvYxnKIgKZv4Rg/viewform"><button class="button is-primary">Poster Submission</button></a></li></ul>
 </center>
 <br>
 
