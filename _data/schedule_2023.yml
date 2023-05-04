@@ -12,7 +12,7 @@
   date: 20230605
   time_start: "09:30"
   time_end: "10:45"
-  title: "Brains to machines"
+  title: "From brains to machines"
   platforms:
 - name: Break
   date: 20230605
@@ -26,7 +26,7 @@
   session: workshop
   title: "Open Science: Helping and Contributing to the Community"
   platforms:
-- name: Lunch + Networking
+- name: Lunch
   date: 20230605
   time_start: "12:00"
   time_end: "13:00"
@@ -47,22 +47,10 @@
   time_start: "14:45"
   time_end: "15:00"
   platforms:
-- name: Interactive Round Table
+- name: Poster session
   date: 20230605
   time_start: "15:00"
-  time_end: "15:45"
-  session: panel
-  title: "Constructing relevant NeuroAI research projects"
-  platforms:
-- name: Break
-  date: 20230605
-  time_start: "15:45"
-  time_end: "16:00"
-  platforms:
-- name: Poster presentations
-  date: 20230605
-  time_start: "16:00"
-  time_end: "17:30"
+  time_end: "16:30"
   platforms:
 
 - name: Breakfast
@@ -93,7 +81,7 @@
   session: workshop
   title: Synergy between Industry & Academia
   platforms:
-- name: Lunch + Networking
+- name: Lunch
   date: 20230606
   time_start: "12:00"
   time_end: "13:00"
@@ -107,20 +95,20 @@
   date: 20230606
   time_start: "13:30"
   time_end: "14:45"
-  title: "Machines to brains"
+  title: "From machines to brains"
   platforms:
 - name: Coffee Break
   date: 20230606
   time_start: "14:45"
   time_end: "15:00"
   platforms:
-- name: TBD
+- name: Interactive Round Table
   date: 20230606
   time_start: "15:00"
   time_end: "15:45"
   session: panel
+  title: "Anti-Conference"
   platforms:
-  # title: ""
 - name: Conclusion and Closing Remarks
   date: 20230606
   time_start: "15:45"

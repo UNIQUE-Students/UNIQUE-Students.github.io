@@ -10,7 +10,7 @@
   position: Associate Professor
   photo: DoinaPrecup.jpg
   alttext: Doina Precup
-  title: "Brains to machines"
+  title: "From brains to machines"
   abstract: ""
   sessions:
   - "202306050930"
@@ -47,6 +47,33 @@
   abstract: ""
   sessions:
   - "202306060930"
+- fullname: Joshua Durso-Finley
+  pronouns: "he/him"
+  affiliations:
+  - McGill University
+  nametitle: Mr.
+  bio:
+  position: Ph.D. candidate in Computer Vision, CIM
+  photo: JoshuaDurso-Finley.jpg
+  alttext: Joshua Durso-Finley
+  title: "NeuroAI in Medical Research"
+  abstract: ""
+  sessions:
+  - "202306060930"
+- fullname: Amar Kumar
+  pronouns: "he/him"
+  affiliations:
+  - McGill University
+  - MILA
+  nametitle: Mr.
+  bio: Amar Kumar is a PhD student working under the supervision of Prof. Tal Arbel in the Probabilistic Vision Group (PVG). His research interest lies in using generative modelling for developing explainable AI (XAI) models.
+  position: Ph.D. candidate in Computer Vision, CIM
+  photo: AmarKumar.jpg
+  alttext: Amar Kumar
+  title: "NeuroAI in Medical Research"
+  abstract: ""
+  sessions:
+  - "202306060930"
 - fullname: Shahab Bakhtiari
   pronouns: "he/him"
   affiliations:
@@ -57,7 +84,7 @@
   position: Assistant Professor
   photo: ShahabBakhtiari.jpg
   alttext: Shahab Bakhtiari
-  title: "Machines to brains"
+  title: "From machines to brains"
   abstract: ""
   sessions:
   - "202306061330"
