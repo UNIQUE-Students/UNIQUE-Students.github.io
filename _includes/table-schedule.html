@@ -22,7 +22,7 @@
       {% endcapture %}
       {% capture eventtitle %}
       {% if event.name == "Lightning talks" %}Selection of presentations by participants{% endif %}
-      {% if event.name == "Poster presentations" %}Selected posters presented by participants{% endif %}
+      {% if event.name contains "Poster" %}Selected posters presented by participants{% endif %}
       {% for speaker in speakers %}
         {% capture slides %}
           {% for tag in speaker.tags %}
