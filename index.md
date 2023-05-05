@@ -23,7 +23,7 @@ neuroscience.
   padding: 3px 5px 3px 5px
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 665px) {
   .inlinelist ul {
     display: block;
     list-style: none;
