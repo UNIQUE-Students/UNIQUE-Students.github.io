@@ -65,7 +65,7 @@ neuroscience.
     <h3>Important Links and Deadlines</h3>
     <b>Registration link: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127">click here!</a></b>
     <br>
-    <b>Deadline: <span style="color:red;">May 30, 2023 (in-person tickets)</span></b>
+    <b>Deadline: <span style="color:red;">May 26, 2023 (in-person tickets)</span></b>
     <br>
     <br>
     <b>Poster submission link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctmU_gFOph1RYt1Tmv8BA0nUTaPnbgO0SJlvYxnKIgKZv4Rg/viewform">click here!</a></b>
