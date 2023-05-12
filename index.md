@@ -70,7 +70,7 @@ neuroscience.
     <br>
     <b>Poster submission link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctmU_gFOph1RYt1Tmv8BA0nUTaPnbgO0SJlvYxnKIgKZv4Rg/viewform">click here!</a></b>
     <br>
-    <b>Deadline: <span style="color:red;">May 7, 2023</span></b>
+    <b>Deadline: <span style="color:red;">May 14, 2023</span></b>
     <h3>Accessibility and Code of Conduct</h3>
     We strive to create an accessible and inclusive event. Please be informed that:
     <ul>
