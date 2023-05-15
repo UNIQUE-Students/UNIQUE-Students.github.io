@@ -44,7 +44,7 @@ neuroscience.
 <div class="card">
 <div class="card-image">
     <figure class="image is-5by2">
-    <img src="/assets/img/USS2023/banner.png" alt="USS 2023">
+    <img src="/assets/img/USS2023/speaker_banner.jpg" alt="USS 2023">
     </figure>
 </div>
 <div class="card-content">
