@@ -47,9 +47,16 @@
   time_start: "14:45"
   time_end: "15:00"
   platforms:
-- name: Poster session
+- name: Interactive Round Table
   date: 20230605
   time_start: "15:00"
+  time_end: "15:45"
+  session: panel
+  title: "Social Neuro-AI"
+  platforms:
+- name: Poster session
+  date: 20230605
+  time_start: "15:45"
   time_end: "16:30"
   platforms:
 

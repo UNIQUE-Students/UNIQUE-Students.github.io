@@ -1,3 +1,4 @@
+# June 5th - Session 1
 - fullname: Doina Precup
   pronouns: "she/her"
   affiliations:
@@ -29,6 +30,22 @@
   abstract: ""
   sessions:
   - "202306050930"
+- fullname: Maelle Freteault
+  pronouns: "she/her"
+  affiliations:
+  - IMT Atlantique
+  - Université de Montréal
+  nametitle: Ms.
+  bio: 
+  position: Ph.D. candidate in Neuro-Inspired AI
+  photo: maelle_freteault.jpg
+  alttext: Maelle Freteault
+  title: From brains to machines
+  abstract: ""
+  sessions:
+  - "202306050930"
+
+# June 5th - Session 2
 - fullname: Guillaume Dumas
   pronouns: "he/him"
   affiliations:
@@ -76,6 +93,50 @@
   abstract: ""
   sessions:
   - "202306051330"
+
+# June 5th - Workshop 1
+- fullname: Hao-Ting Wang
+  pronouns: "she/her"
+  affiliations:
+  - Centre de recherche de l’Institut universitaire de g´eriatrie de Montr´eal (CRIUGM)
+  nametitle: Ph.D.
+  bio: 
+  position: Postdoctoral Researcher in Neuroimaging and Neuroinformatics
+  photo: hao-ting_wang.jpeg
+  alttext: Hao-Ting Wang
+  title: "Open Science: Helping and Contributing to the Community"
+  abstract: ""
+  sessions:
+  - "202306051100workshop"
+- fullname: Justine Hansen
+  pronouns: "she/her"
+  affiliations:
+  - McGill University
+  - Montreal Neurological Institute
+  nametitle: Ms.
+  bio: 
+  position: Ph.D. candidate in Neuroscience, Department of Neurology and Neurosurgery
+  photo: justine_hansen.jpeg
+  alttext: Justine Hansen
+  title: "Open Science: Helping and Contributing to the Community"
+  abstract: ""
+  sessions:
+  - "202306051100workshop"
+- fullname: Yann Harel
+  pronouns: "he/him"
+  affiliations:
+  - Université de Montréal
+  nametitle: Ph.D.
+  bio:
+  position: Ph.D. candidate in Neuropsychology and Cognitive Sciences
+  photo: yann_harel.jpeg
+  alttext: Yann Harel
+  title: "Open Science: Helping and Contributing to the Community"
+  abstract: ""
+  sessions:
+  - "202306051100workshop"
+
+# June 6th - Session 3
 - fullname: Marco Bonizzato
   pronouns: "he/him"
   affiliations:
@@ -106,7 +167,7 @@
   pronouns: "he/him"
   affiliations:
   - McGill University
-  - MILA
+  - Mila – Quebec AI Institute
   nametitle: Mr.
   bio: Amar Kumar is a PhD student working under the supervision of Prof. Tal Arbel in the Probabilistic Vision Group (PVG). His research interest lies in using generative modelling for developing explainable AI (XAI) models.
   position: Ph.D. candidate in Computer Vision, CIM
@@ -116,6 +177,8 @@
   abstract: ""
   sessions:
   - "202306060930"
+
+# June 6th - Session 4
 - fullname: Shahab Bakhtiari
   pronouns: "he/him"
   affiliations:
@@ -157,3 +220,59 @@
   abstract: ""
   sessions:
   - "202306061330"
+
+# June 5th - Workshop 2
+- fullname: Angela Tam
+  pronouns: "she/her"
+  affiliations:
+  - Perceiv AI
+  nametitle: Ph.D.
+  bio:
+  position: Senior Scientist at Perceive AI
+  photo: angela_tam.jpeg
+  alttext: Angela Tam
+  title: "Synergy between Industry & Academia"
+  abstract: ""
+  sessions:
+  - "202306061100workshop"
+- fullname: Greg Kiar
+  pronouns: "he/him"
+  affiliations:
+  - Child Mind Institute (CMI)
+  nametitle: Ph.D.
+  bio: 
+  position: Research Scientist in Computational Neuroimaging Laboratory, CMI
+  photo: greg_kiar.jpeg
+  alttext: Greg Kiar
+  title: "Synergy between Industry & Academia"
+  abstract: ""
+  sessions:
+  - "202306061100workshop"
+- fullname: Joseph Viviano
+  pronouns: "he/him"
+  affiliations:
+  - Mila – Quebec AI Institute
+  - Mentor - AI Stream
+  nametitle: Mr.
+  bio: 
+  position: Machine Learning Scientist at Mila
+  photo: joseph_viviano.jpeg
+  alttext: Joeseph Viviano
+  title: "Synergy between Industry & Academia"
+  abstract: ""
+  sessions:
+  - "202306061100workshop"
+- fullname: Nathalie Sanon
+  pronouns: "she/her"
+  affiliations:
+  - IVADO
+  nametitle: Ph.D.
+  bio: 
+  position: AI training Programs Manager IVADO
+  photo: nathalie_sanon.jpeg
+  alttext: Nathelia Sanon
+  title: "Synergy between Industry & Academia"
+  abstract: ""
+  sessions:
+  - "202306061100workshop"
+

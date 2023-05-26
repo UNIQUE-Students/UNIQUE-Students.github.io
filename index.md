@@ -44,7 +44,7 @@ neuroscience.
 <div class="card">
 <div class="card-image">
     <figure class="image is-5by2">
-    <img src="/assets/img/USS2023/speaker_banner.jpg" alt="USS 2023">
+    <img src="/assets/img/USS2023/speaker_banner.png" alt="USS 2023">
     </figure>
 </div>
 <div class="card-content">
@@ -65,7 +65,7 @@ neuroscience.
     <h3>Important Links and Deadlines</h3>
     <b>Registration link: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127">click here!</a></b>
     <br>
-    <b>Deadline: <span style="color:red;">May 26, 2023 (in-person tickets)</span></b>
+    <b>Deadline: <span style="color:red;">May 30, 2023 (in-person tickets)</span></b>
     <br>
     <br>
     <b>Poster submission link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctmU_gFOph1RYt1Tmv8BA0nUTaPnbgO0SJlvYxnKIgKZv4Rg/viewform">click here!</a></b>
