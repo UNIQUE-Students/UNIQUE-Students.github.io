@@ -52,7 +52,7 @@
   alttext: none
   pronouns: she/her
   twitter: none
-  website: www.linkedin.com/in/niloofargharesi/
+  website: https://www.linkedin.com/in/niloofar-gharesi-a1a12b22a
 - affiliation: "École de technologie supérieure"
   bio: "Sen Li is a Ph.D. student at the Department of electrical engineering at École de technologie supérieure, Montreal, Canada. \
     \ His research focuses on the analysis of human spinal deformity from freehand 3D ultrasound imaging using deep learning techniques.\
@@ -66,3 +66,15 @@
   pronouns: he/him
   twitter: none
   website: https://www.linkedin.com/in/SenSprouting/
+- affiliation: "Mila - Quebec AI Institute"
+  bio: "I'm a graduate student at Université de Montréal and Mila pursuing M.Sc in Computer Science (Machine Learning). \
+    \ I'm primarily interested in the advancement of AI systems through the development of brain-inspired memory models. \
+    \ My current research focuses on understanding the connectivity and dynamics of memory in the neocortex."
+  committee: Logistics
+  email: tejas.kasetty@mila.quebec
+  fullname: Tejas Kasetty
+  photo: tejas_kasetty.jpg
+  alttext: Tejas Kasetty
+  pronouns: he/him
+  twitter: https://twitter.com/tejaskasetty
+  website: https://www.linkedin.com/in/tejaskasetty/
