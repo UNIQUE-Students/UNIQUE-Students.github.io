@@ -59,7 +59,7 @@ neuroscience.
     <h3>Event Details</h3>
     <b>Day 1: Monday, 5 June 2023</b><br>
     <b>Day 2: Tuesday, 6 June 2023</b><br>
-    <b>Location: Université de Montréal - Campus MIL 1375 Avenue Thérèse-Lavoie-Roux Montréal, QC H2V 0B3</b><br>
+    <b>Location: A-3502.1, Pavillon A, Université de Montréal - Campus MIL 1375 Avenue Thérèse-Lavoie-Roux Montréal, QC H2V 0B3</b><br>
     <b>See the full schedule <a href="/2023/schedule.html">here</a>.</b><br>
     <b>See the speakers <a href="/2023/speakers.html">here</a>.</b>
     <h3>Important Links and Deadlines</h3>
