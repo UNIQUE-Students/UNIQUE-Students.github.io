@@ -14,12 +14,7 @@ permalink: /2023/posters-talks
 
 # Accepted Posters and Lightning Talks
 
-{% comment %}{% raw %}
 {% assign submissions = site.data.submissions_2023 | sort: "title" %}
 {% for submission in submissions %}
   {% include submission-card.html %}
 {% endfor %}
-{% endraw %}{% endcomment %}
-
-
-These will be announced here later!

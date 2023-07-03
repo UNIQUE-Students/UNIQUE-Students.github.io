@@ -19,6 +19,13 @@
           {% if submission.talk %}
             <a href="{{ submission.talk }}" target="_blank"><button class="button is-primary">Lightning Talk</button></a>
           {% endif %}
+          {% if submission.type == "poster-talk" %}
+            Poster and Lightning Talk
+          {% elsif submission.type == "poster" %}
+            Poster
+          {% elsif submission.type == "talk" %}
+            Lightning Talk
+          {% endif %}
         </p>
         <div class="content">
           <p>{{ submission.abstract }}</p>

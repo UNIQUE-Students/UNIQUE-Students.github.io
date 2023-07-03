@@ -1,9 +1,6 @@
 ---
 title: Schedule
-subtitle: 2023
 layout: page
-show_sidebar: false
-# hero_height: is-small
 permalink: /2023/schedule
 ---
 

@@ -21,7 +21,7 @@ As part of our land acknowledgement, we at UNIQUE wish to educate ourselves in t
 
 ### USS
 
-USS (UNIQUE Student Symposium) is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide graduate students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
+USS (UNIQUE Student Symposium) is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
 
 ## Contact
 

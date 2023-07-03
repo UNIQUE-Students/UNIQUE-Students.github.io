@@ -7,6 +7,33 @@ permalink: /pastevents
 <div class="card">
   <div class="card-image">
     <figure class="image is-5by2">
+      <img src="/assets/img/USS2023/banner.png" alt="USS 2023">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4">UNIQUE Student Symposium 2023</p>
+      </div>
+    </div>
+
+    <div class="content">
+      The recordings will be available soon on YouTube.
+      <br>
+      <a href="/2023/schedule.html">Program</a>.
+      <br>
+      <a href="/2023/team.html">Team</a>.
+      <br>
+      <a href="/2023/speakers.html">Speakers</a>.
+      <br>
+      <a href="/2023/posters-talks.html">Posters and Lightning Talks</a>.
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-image">
+    <figure class="image is-5by2">
       <img src="/assets/img/HBHL_UNIQUE.jpg" alt="HBHL-UNIQUE Get-Together 2023">
     </figure>
   </div>
@@ -40,7 +67,7 @@ permalink: /pastevents
     </div>
 
     <div class="content">
-      The recordings will be available soon on YouTube.
+      The recordings are available on our <a href="https://www.youtube.com/@uniquecentrestudentsymposi408">YouTube channel</a>.
       <br>
       <a href="/2022/schedule.html">Program</a>.
       <br>
@@ -51,7 +78,6 @@ permalink: /pastevents
       <a href="/2022/posters-talks.html">Posters and Lightning Talks</a>.
       <br>
       <a href="/2022/resources.html">Resources</a>.
-
     </div>
   </div>
 </div>
