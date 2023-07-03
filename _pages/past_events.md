@@ -31,6 +31,9 @@ permalink: /pastevents
   </div>
 </div>
 
+<br>
+<br>
+
 <div class="card">
   <div class="card-image">
     <figure class="image is-5by2">
