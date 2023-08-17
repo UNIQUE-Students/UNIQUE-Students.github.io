@@ -18,7 +18,7 @@ permalink: /pastevents
     </div>
 
     <div class="content">
-      The recordings will be available soon on YouTube.
+      The recordings are available <a href="https://www.youtube.com/playlist?list=PLbRvVnRY9v0qHoWhCp0M1hDvuMhxwuiXT">here</a>, on our <a href="https://www.youtube.com/@uniquecentrestudentsymposi408">YouTube channel</a>.
       <br>
       <a href="/2023/schedule.html">Program</a>.
       <br>
