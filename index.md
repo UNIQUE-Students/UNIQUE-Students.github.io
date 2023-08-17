@@ -102,6 +102,7 @@ We thank everyone who participated in the UNIQUE Student Symposium (USS) 2023. W
     <b>Location: A-3502.1, Pavillon A, Université de Montréal - Campus MIL 1375 Avenue Thérèse-Lavoie-Roux Montréal, QC H2V 0B3</b><br>
     <b>See the schedule <a href="/2023/schedule.html">here</a>.</b><br>
     <b>See the speakers <a href="/2023/speakers.html">here</a>.</b>
+    The recordings are available <a href="https://www.youtube.com/playlist?list=PLbRvVnRY9v0qHoWhCp0M1hDvuMhxwuiXT">here</a>, on our <a href="https://www.youtube.com/@uniquecentrestudentsymposi408">YouTube channel</a>.
     <!-- <h3>Important Links and Deadlines</h3>
     <b>Registration link: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127">click here!</a></b>
     <br>
