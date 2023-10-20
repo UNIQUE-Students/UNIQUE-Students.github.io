@@ -1,5 +1,5 @@
 - affiliation: "Université de Montréal"
-  bio: "I'm a master's student in neuroscience at UdeM. My research focuses on social and cognitive neuroscience using machine learning analysis. This is my second year at SAC, and I'm really looking forward to organizing events for the new year!"
+  bio: "I'm a master's student in neuroscience at UdeM. My research focuses on social and cognitive neuroscience using machine learning analysis. This is my second year at SAC, and I'm really looking forward to organizing events for this new year!"
   committee: Chair of the SAC
   email: clara.el.khantour@umontreal.ca
   fullname: Clara El Khantour
@@ -17,7 +17,7 @@
   pronouns: he/him
   website: https://github.com/BabaSanfour
 - affiliation: "Université de Montréal and Mila"
-  bio: "I’m a PhD student at Mila and Université de Montréal supervised by Guillaume Lajoie. I’m broadly interested in using AI to understand learning in the brain, and using neuroscience to improve AI. Currently, I’m working on understanding the dynamics of learning in the brain from observable activations."
+  bio: "I’m a PhD student at Université de Montréal supervised by Prof. Guillaume Lajoie, working on problems at the intersection of computational neuroscience and deep learning theory. I aim to use tools from dynamical systems theory and latent variable modelling to understand and develop theories about neural computation and learning."
   committee: Technical Lead
   email: me@nandahkrishna.com
   fullname: Nanda H Krishna
@@ -37,7 +37,7 @@
   twitter: none
   website: https://averyryoo.github.io/
 - affiliation: "Université de Montréal"
-  bio: "I am a master's in clinical sciences and computational medicine at the Université de Montréal. My experience in computational psychiatry and cognitive neuroscience fuels my motivation to to develop innovative applications of AI to the study of brains and consciousness. Broadly, my interests lie in elucidating the quality of subjective experience with respect to mental health with a transdisciplinary approach."
+  bio: "I am a master's in clinical sciences and computational medicine at the Université de Montréal. My experience in computational psychiatry and cognitive neuroscience fuels my motivation to develop innovative applications of AI to the study of brains and consciousness. Broadly, my interests lie in elucidating the quality of subjective experience with respect to mental health with a transdisciplinary approach."
   committee: Communication Lead
   email: shawn.manuel@umontreal.ca
   fullname: Shawn Manuel
@@ -64,7 +64,7 @@
   pronouns: she/her
   website: https://www.linkedin.com/in/niloofargharesi
 - affiliation: "Université Laval"
-  bio: "I am a master's in clinical sciences and computational medicine at the Université de Montréal. My experience in computational psychiatry and cognitive neuroscience fuels my motivation to to develop innovative applications of AI to the study of brains and consciousness. Broadly, my interests lie in elucidating the quality of subjective experience with respect to mental health with a transdisciplinary approach."
+  bio: "I'm a PhD student in Christian Gagné and Flavie Lavoie-Cardinal's labs at Laval University and the CERVO Brain Research Centre. My research focuses on the development of deep learning tools for the analysis of optical microscopy data. I am interested in the study of synaptic plasticity and synaptic degenerescence in neurodegenerative diseases through deep anomaly detection approaches."
   committee: Quebec Community Coordinator
   email: frederic.beaupre.3@ulaval.ca
   fullname: Frédéric Beaupré
