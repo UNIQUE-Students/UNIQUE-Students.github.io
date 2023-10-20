@@ -1,0 +1,83 @@
+- affiliation: "Université de Montréal"
+  bio: "I'm a master's student in neuroscience at UdeM. My research focuses on social and cognitive neuroscience using machine learning analysis. This is my second year at SAC, and I'm really looking forward to organizing events for the new year!"
+  committee: Chair of the SAC
+  email: clara.el.khantour@umontreal.ca
+  fullname: Clara El Khantour
+  photo: clara_el_khantour.jpeg
+  alttext: none
+  pronouns: she/her
+  twitter: https://twitter.com/c_khantour
+- affiliation: "Université de Montréal"
+  bio: "Hamza Abdelhedi is a computer science research master's student at the University of Montreal, specializing in the field of neuro-AI. He holds a diploma in telecommunications engineering from the Higher School of Communication of Tunis (SUPCOM) and has a background in mathematics from his pre-engineering studies. He is a Graduate Research Assistant at the Cognitive & Computational Neuroscience Lab, supervised by Dr. Karim Jerbi. Hamza's primary focus is on exploring the integration of artificial and biological neural networks in face recognition, utilizing deep learning techniques and Magnetoencephalography (MEG) to analyze internal representations with the aim of contributing to our understanding of the brain's complexities."
+  committee: Liaison to the Scientific Committee
+  email: hamza.abdelhedi@umontreal.ca
+  fullname: Hamza Abdelhedi
+  photo: hamza_abdelhedi.jpg
+  alttext: none
+  pronouns: he/him
+  website: https://github.com/BabaSanfour
+- affiliation: "Université de Montréal and Mila"
+  bio: "I’m a PhD student at Mila and Université de Montréal supervised by Guillaume Lajoie. I’m broadly interested in using AI to understand learning in the brain, and using neuroscience to improve AI. Currently, I’m working on understanding the dynamics of learning in the brain from observable activations."
+  committee: Technical Lead
+  email: me@nandahkrishna.com
+  fullname: Nanda H Krishna
+  photo: nanda_h_krishna.jpeg
+  alttext: none
+  pronouns: he/him
+  twitter: https://twitter.com/nandahkrishna
+  website: https://nandahkrishna.com
+- affiliation: "Université de Montréal and Mila"
+  bio: "I am a Master's student in Computer Science at Mila and Université de Montréal, where I am advised by Dr. Matthew Perich. As a researcher with the sinthlab (Sensorimotor Integration and Neural Theory Laboratory), I investigate the latent embeddings of neural data using attention-based architectures. Before coming to Montréal, I studied biomedical engineering at the University of Waterloo, close to my hometown of Toronto."
+  committee: Liaison to the Equity, Diversity, and Inclusion Committee
+  email: hee-woon.ryoo@umontreal.ca
+  fullname: Avery Ryoo
+  photo: avery_ryoo.jpg
+  alttext: Avery Ryoo
+  pronouns: he/him
+  twitter: none
+  website: https://averyryoo.github.io/
+- affiliation: "Université de Montréal"
+  bio: "I am a master's in clinical sciences and computational medicine at the Université de Montréal. My experience in computational psychiatry and cognitive neuroscience fuels my motivation to to develop innovative applications of AI to the study of brains and consciousness. Broadly, my interests lie in elucidating the quality of subjective experience with respect to mental health with a transdisciplinary approach."
+  committee: Communication Lead
+  email: shawn.manuel@umontreal.ca
+  fullname: Shawn Manuel
+  photo: shawn_manuel.jpg
+  alttext: none
+  pronouns: he/him
+  website: https://tinyurl.com/shwnmnl
+- affiliation: "McGill University and Mila"
+  bio: "I am a third-year Ph.D. student at IPN, McGill, and Mila working in the intersection of neuroscience and artificial intelligence. I develop artificial neural network models of attention in primates. In my free time, I enjoy watching movies, and drawing. Looking forward to all the cool UNIQUE events we will have this year!"
+  committee: Event Coordinator
+  email: motahareh.pourahimi@mail.mcgill.ca
+  fullname: Motahareh Pourrahimi
+  photo: motahareh_pourrahimi.jpg
+  alttext: none
+  pronouns: she/her
+  twitter: https://twitter.com/MotaharehPR
+- affiliation: "McGill University"
+  bio: "I am a Neuroscience PhD student at McGill University's Integrated Program, collaborating with Prof. Sylvain Baillet and Prof. John Kalaska in advancing knowledge of non-motor functions of the motor cortex, an area of the brain classically known for its role in executive functions such as decision making. I have a strong interest in devising and implementing sophisticated techniques to measure complex patterns in ongoing human brain activity. I am very excited to be part of the UNIQUE community and looking forward to collaborating with other members of this community to improve our understanding of the brain and develop new tools to address important questions in neuroscience."
+  committee: Event Coordinator
+  email: niloofar.gharesi@mail.mcgill.ca
+  fullname: Niloofar Gharesi
+  photo: niloofar_gharesi.jpg
+  alttext: none
+  pronouns: she/her
+  website: https://www.linkedin.com/in/niloofargharesi
+- affiliation: "Université Laval"
+  bio: "I am a master's in clinical sciences and computational medicine at the Université de Montréal. My experience in computational psychiatry and cognitive neuroscience fuels my motivation to to develop innovative applications of AI to the study of brains and consciousness. Broadly, my interests lie in elucidating the quality of subjective experience with respect to mental health with a transdisciplinary approach."
+  committee: Quebec Community Coordinator
+  email: frederic.beaupre.3@ulaval.ca
+  fullname: Frédéric Beaupré
+  photo: frederic_beaupre.jpg
+  alttext: none
+  pronouns: he/him
+- affiliation: "Université de Montréal and Mila"
+  bio: "I'm a Master's student in Computer Science at Mila and Université de Montréal. I'm interested in Artificial Intelligence and Computational Neuroscience. My research focuses on understanding the relationship between the brain's structural and functional connectivity and how it influences learning dynamics."
+  committee: Content Manager
+  email: tejas.shivakumar.kasetty@umontreal.ca
+  fullname: Tejas Kasetty
+  photo: tejas_kasetty.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: https://twitter.com/tejaskasetty
+  

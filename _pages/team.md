@@ -6,7 +6,7 @@ permalink: /team
 
 # UNIQUE Student Affairs Committee
 
-{% assign people = site.data.sac_2023 | sample: site.data.sac_2023.size %}
+{% assign people = site.data.sac_2024 %}
 {% for person in people %}
   {% assign side = forloop.index0 | modulo: 2 %}
     {% if side == 0 %}
@@ -15,4 +15,3 @@ permalink: /team
       {% include team-card.html %}
     {% endif %}
 {% endfor %}
-
