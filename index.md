@@ -5,9 +5,9 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 #toc: true
 ---
 
-<br>
-
 [UNIQUE (Unifying Neuroscience and Artificial Intelligence in Québec)](https://sites.google.com/view/unique-neuro-ai) is a research centre working at the intersection of neuroscience and artificial intelligence research. It consists of more than 80 researchers affiliated with several universities and research centres from different regions of the province, and even from outside of it. The main goal of UNIQUE is to promote and facilitate exchanges between research teams working at the intersection of artificial intelligence (AI) and neuroscience.
+
+---
 
 # Upcoming event: UNIQUE Fellows Get-Together 2023
 
@@ -51,6 +51,8 @@ _Cet événement est l'occasion idéale de présenter les travaux financés par 
 5:30--5:45 Closing remarks and discussion
 
 5:45--7:00 Networking and food 😃
+
+---
 
 # UNIQUE Student Symposium 2023
 
