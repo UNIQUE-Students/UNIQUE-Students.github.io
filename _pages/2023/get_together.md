@@ -35,15 +35,15 @@ _Cet événement est l'occasion idéale de présenter les travaux financés par 
 
 4:05--4:15 Welcoming remarks (Presentation of the UNIQUE Student Affairs Committee)
 
-4:15--4:30 Talk 1: Motahareh Pourrahimi (McGill University): _Developing a general-architecture ANN-based model of visual search in primates_
+4:15--4:30 Talk 1: **Motahareh Pourrahimi** (McGill University): _Developing a general-architecture ANN-based model of visual search in primates_
 
-4:30--4:45 Talk 2: Naga Karthik (Polytechnique Montréal)
+4:30--4:45 Talk 2: **Naga Karthik** (Polytechnique Montréal): _Automatic Segmentation of Brain and Spinal Cord Lesions across Pathologies_
 
-4:45--5:00 Talk 3: Hamza Abdelhedi (UdeM): _Exploring Neural Representations in Artificial and Biological Systems during Face Recognition: Insights from MEG and CNN_
+4:45--5:00 Talk 3: **Hamza Abdelhedi** (UdeM): _Exploring Neural Representations in Artificial and Biological Systems during Face Recognition: Insights from MEG and CNN_
 
-5:00--5:15 Talk 4: Eric Elmoznino (UdeM): _Measuring the Complexity and Compositionality of Representations_
+5:00--5:15 Talk 4: **Eric Elmoznino** (UdeM): _Measuring the Complexity and Compositionality of Representations_
 
-5:15--5:30 Talk 5: TBD 
+5:15--5:30 Talk 5: **Kira Dolhan** (McGill University)
 
 5:30--5:45 Closing remarks and discussion
 
