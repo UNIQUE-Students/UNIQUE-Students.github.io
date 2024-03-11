@@ -9,15 +9,15 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 
 ---
 
-# Upcoming event: UNIQUE Fellows Get-Together 2023 on 22nd November, 4 pm to 7 pm!
+# Upcoming event: UNIQUE Trainee Get-Together (Spring 2024) on 28th March, 4 pm to 7 pm!
 
-<div class="card">
+<!-- <div class="card">
 <div class="card-image">
     <figure class="image is-5by2">
-    <img src="/assets/img/UNIQUE_Fellows_Get-Together_2023.png" alt="UNIQUE Fellows Get-Together 2023">
+    <img src="/assets/img/" alt="UNIQUE Get-Together Spring 2024">
     </figure>
 </div>
-</div>
+</div> -->
 
 ---
 
@@ -25,30 +25,34 @@ This event is an ideal opportunity to present UNIQUE-funded work and promote the
 
 _Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE._
 
-**Date & Time:** Wednesday, 22nd November 2023 from 4 pm to 7 pm EST<br>
+**Date & Time:** Tuesday, 28th March 2024 from 4 pm to 7 pm EST<br>
 **Venue:** [Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9](https://maps.app.goo.gl/455ze7suaPv2p8J6A)<br>
-**Registration Form:** [click here!](https://forms.gle/1EukVAKGiBwMACHM6)<br>
-**Deadline:** 17th November 2023
+**Registration:** [click here!](https://docs.google.com/forms/d/e/1FAIpQLSdoeNFKOps_YaOqxhCoiTJRd1Vu6sNsT1chOn_39VwQ6KmQCg/viewform)<br>
+**Deadline:** 26th March 2024
 
 ---
 
 ## Schedule
 
-4:00--4:05 Arrival
+4:00--4:10 Arrival
 
-4:05--4:15 Welcoming remarks (Presentation of the UNIQUE Student Affairs Committee)
+4:10--4:15 Opening remarks
 
-4:15--4:30 Talk 1: **Naga Karthik** (Polytechnique Montréal): _Automatic Segmentation of Brain and Spinal Cord Lesions across Pathologies_
+4:25--4:35 **Dan Levenstein**: Sequential predictive learning is a unifying theory for hippocampal representation and replay
 
-4:30--4:45 Talk 2: **Hamza Abdelhedi** (UdeM): _Exploring Neural Representations in Artificial and Biological Systems during Face Recognition: Insights from MEG and CNN_
+4:35--4:45 **Soraya Rahimi**: TBA
 
-4:45--5:00 Talk 3: **Eric Elmoznino** (UdeM): _Measuring the Complexity and Compositionality of Representations_
+4:45--4:50 **Rishabh Singhal**: Intracortical microstimulation in dACC disrupts the onset of exploration
 
-5:00--5:15 Talk 4: **Kira Dolhan** (McGill University): _Assessing the Prognostic Value of Functional Brain Network Motifs for Patients with Coma and Disorders of Consciousness in the Intensive Care Unit Undergoing Varying Levels of General Anesthesia_
+4:50--5:00 **Yohaï-Eliel Berreby**: Modeling visual localization: the role of receptive field remapping
 
-5:15--5:30 Closing remarks and discussion
+5:00--5:10 **Mashbayar Tugsbayar**: TBA
 
-5:30--7:00 Networking and food 😃
+5:10--5:20 **Maxime Daigle**: Reverse engineering non-stereotypical hippocampal neurons with goal-driven neural networks
+
+5:20--5:25 Closing remarks
+
+5:30--7:00 Networking and pizza! 🍕
 
 ---
 

@@ -1,0 +1,60 @@
+- affiliation: "Université de Montréal, CHU Sainte-Justine, Mila – Quebec AI Institute"
+  bio: "I am a PhD student in computer science. I am generally interested in modeling neural networks for understanding the brain and improving artificial intelligence. Particularly, learning algorithms that form memory and skills are of my interest because it contributes understanding the uniqueness of my human self. These algorithms may inspire researchers to innovate AI models that outperform in a new way. I am now narrowing down research topics related to the integration of bottom-up and top-down signals in neocortical circuits and its relation to learning and memory."
+  committee: Chair
+  email: sungjae.cho@umontreal.ca
+  fullname: Sungjae Cho
+  photo: sungjae_cho.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: https://sites.google.com/view/sungjaecho
+- affiliation: "McGill University"
+  bio: "I am a master's student in neuroscience at McGill University and I study the brain networks of unresponsive patients in the intensive care unit diagnosed with a coma or disorder of consciousness. By studying how their brain's react to general anesthesia, my goal is to identify network properties which can help improve patient diagnoses and prognostication."
+  committee: Communication
+  email: kira.dolhan@mail.mcgill.ca
+  fullname: Kira Dolhan
+  photo: kira_dolhan.jpg
+  alttext: none
+  pronouns: she/her
+  twitter: none
+  website: none
+- affiliation: "Université de Montréal"
+  bio: "I first worked as an engineer in renewable energy industry for 10 years, before completing am MSc in Neuroscience at UdeM on human attention and cerebral synchrony. Passionate about pedagogy, I am now developing innovative pedagogies for higher education or associations to address the cognitive challenges of ecological and social transition. In parallel, I am a PhD student in Psychiatry at UdeM, exploring the social interaction component of human consciousness and neurodiversity in the Precision Psychiatry and Social Physiology Lab at CHU Sainte-Justine!"
+  committee: Education
+  email: anne.monnier@umontreal.ca
+  fullname: Anne Monnier
+  photo: anne_monnier.jpg
+  alttext: none
+  pronouns: she/her
+  twitter: none
+  website: https://annathescientist.com/
+- affiliation: "Mila – Quebec AI Institute, Université de Montréal"
+  bio: "I am a graduate student at Mila and Université de Montréal supervised by Matthew Perich. My research interests lie at the intersection of artificial intelligence and neuroscience. I am intrigued by the brain’s remarkable ability to integrate information from different regions to produce complex behaviours and adapt to novel environments. Currently, I am working on understanding the underlying compositional structure of flexible behaviour in the brain."
+  committee: Program
+  email: anirudh.g.jamkhandi@gmail.com
+  fullname: Anirudh Jamkhandi
+  photo: anirudh_jamkhandi.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: https://github.com/anirudhgj
+- affiliation: "Centre de recherche CERVO, Université Laval"
+  bio: "I am currently pursuing a Master's in Neuroscience at Université Laval. While my background is primarily in neurobiology, I am very enthusiastic about exploring artificial intelligence applications in neurophysiology. Specifically, my main focus is on building models to precisely correlate in vivo calcium dynamics with electrophysiological signals from neurons."
+  committee: Communication
+  email: philippe.leonard-dufour.1@ulaval.ca
+  fullname: Philippe Léonard-Dufour
+  photo: philippe_leonard-dufour.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: none
+  website: none
+- affiliation: "Centre de recherche CERVO, Université Laval"
+  bio: "Hello, I am Julia! I am doing a PhD in Paul De Koninck and Flavie Lavoie-Cardinal Labs, mostly working on actin cytoskeleton using super-resolution microscopy. From a complete neuroscience background, I now collaborate with students in machine learning that developed innovative methods to analyze images. Beyond science, I really enjoy helping to organize events. I actively engage with associations to organize student-friendly events, fostering both community building and professional development opportunities. I'm looking forward to the USS 2024 conference and the enriching experiences it promises to offer!"
+  committee: Logistics
+  email: julia.chabbert.1@ulaval.ca
+  fullname: Julia Chabbert
+  photo: julia_chabbert.jpg
+  alttext: none
+  pronouns: she/her
+  twitter: none
+  website: https://www.linkedin.com/in/julia-chabbert-a823761a7/
