@@ -7,6 +7,28 @@ permalink: /pastevents
 <div class="card">
   <div class="card-image">
     <figure class="image is-5by2">
+      <img src="/assets/img/UNIQUE_Fellows_Get-Together_2023.png" alt="UNIQUE Fellows Get-Together 2023">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4">UNIQUE Fellows Get-Together 2023</p>
+      </div>
+    </div>
+
+    <div class="content">
+      <a href="/2023/get-together">Event page</a>.
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<div class="card">
+  <div class="card-image">
+    <figure class="image is-5by2">
       <img src="/assets/img/USS2023/banner.png" alt="USS 2023">
     </figure>
   </div>
