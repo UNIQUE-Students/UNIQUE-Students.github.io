@@ -6,7 +6,7 @@ permalink: /2023/get-together
 
 <br>
 
-# The UNIQUE Fellows Get-Together is coming up!
+# UNIQUE Fellows Get-Together 2023
 
 <div class="card">
 <div class="card-image">
@@ -18,14 +18,12 @@ permalink: /2023/get-together
 
 ---
 
-This event is an ideal opportunity to present UNIQUE-funded work and promote the Neuro-AI student community. The event will feature brief student presentations, followed by networking and a meal (pizza and snacks). With this gathering, we hope to give UNIQUE students the opportunity to get to know each other in a friendlier format, with the aim of creating a community of Neuro-AI students and networking among UNIQUE students.
+This event provided an opportunity to present UNIQUE-funded work and promote the Neuro-AI student community. The event featured brief student presentations, followed by networking and a meal (pizza and snacks). With this gathering, we attempted to provide UNIQUE students the opportunity to get to know each other in a friendlier format, with the aim of creating a community of Neuro-AI students and networking among UNIQUE students.
 
-_Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE._
+_Cet événement a été l'occasion de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprenait de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous avons tenté de donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE._
 
 **Date & Time:** Wednesday, 22nd November 2023 from 4 pm to 7 pm EST<br>
 **Venue:** [Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9](https://maps.app.goo.gl/455ze7suaPv2p8J6A)<br>
-**Registration Form:** [click here!](https://forms.gle/1EukVAKGiBwMACHM6)<br>
-**Deadline:** 17th November 2023
 
 ---
 
