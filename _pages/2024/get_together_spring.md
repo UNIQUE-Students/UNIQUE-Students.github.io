@@ -8,13 +8,13 @@ permalink: /2024/get-together-spring
 
 # UNIQUE Trainee Get-Together – Spring 2024
 
-<!-- <div class="card">
+<div class="card">
 <div class="card-image">
     <figure class="image is-5by2">
-    <img src="/assets/img/" alt="UNIQUE Get-Together Spring 2024">
+    <img src="/assets/img/UNIQUE_Get-Together_Spring_2024.png" alt="UNIQUE Trainee Get-Together Spring 2024">
     </figure>
 </div>
-</div> -->
+</div>
 
 ---
 
