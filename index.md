@@ -40,15 +40,15 @@ _Cet événement est l'occasion idéale de présenter les travaux financés par 
 
 4:25--4:35 **Dan Levenstein**: Sequential predictive learning is a unifying theory for hippocampal representation and replay
 
-4:35--4:45 **Soraya Rahimi**: TBA
+4:35--4:45 **Maxime Daigle**: Reverse engineering non-stereotypical hippocampal neurons with goal-driven neural networks
 
 4:45--4:50 **Rishabh Singhal**: Intracortical microstimulation in dACC disrupts the onset of exploration
 
 4:50--5:00 **Yohaï-Eliel Berreby**: Modeling visual localization: the role of receptive field remapping
 
-5:00--5:10 **Mashbayar Tugsbayar**: TBA
+5:00--5:10 **Mashbayar Tugsbayar**: Brain-like connectivity in multimodal integration
 
-5:10--5:20 **Maxime Daigle**: Reverse engineering non-stereotypical hippocampal neurons with goal-driven neural networks
+5:10--5:20 **Soraya Rahimi**: Dynamic connectivity in the cortical motor network during monkey reaching and grasping
 
 5:20--5:25 Closing remarks
 
