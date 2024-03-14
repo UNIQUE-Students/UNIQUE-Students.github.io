@@ -23,7 +23,7 @@ This event is an ideal opportunity to present UNIQUE-funded work and promote the
 _Cet événement est l’occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L’événement comprendra de brèves présentations d’étudiant.e.s, suivies d’un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d’UNIQUE l’opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d’étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE._
 
 **Date & Time:** Tuesday, 28th March 2024 from 4 pm to 7 pm EST<br>
-**Venue:** [Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9](https://maps.app.goo.gl/455ze7suaPv2p8J6A)<br>
+**Venue:** [Mila Agora, 6650 Rue St-Urbain, Montréal, QC H2S 3G9](https://maps.app.goo.gl/455ze7suaPv2p8J6A)<br>
 **Registration:** [click here!](https://docs.google.com/forms/d/e/1FAIpQLSdoeNFKOps_YaOqxhCoiTJRd1Vu6sNsT1chOn_39VwQ6KmQCg/viewform)<br>
 **Deadline:** 26th March 2024
 
