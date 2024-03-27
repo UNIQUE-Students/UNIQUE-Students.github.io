@@ -56,50 +56,9 @@ _Cet événement est l'occasion idéale de présenter les travaux financés par 
 
 ---
 
-# UNIQUE Student Symposium 2023
+# Coming up: UNIQUE Student Symposium 2024, May 8-10 @ Quebec City!
 
-We thank everyone who participated in the UNIQUE Student Symposium (USS) 2023. We hope you had a great time at USS, and look forward to seeing you next year!
-
-<div class="columns is-multiline">
-  <div class="column is-one-quarter-desktop is-half-tablet">
-    <div class="card">
-        <div class="card-image">
-            <figure class="image is-3by2">
-              <img src="/assets/img/USS2023/poster-1.jpg" alt="Image taken at the poster session">
-            </figure>
-        </div>
-    </div>
-  </div>
-  <div class="column is-one-quarter-desktop is-half-tablet">
-    <div class="card">
-        <div class="card-image">
-            <figure class="image is-3by2">
-              <img src="/assets/img/USS2023/poster-2.jpg" alt="Another image taken at the poster session">
-            </figure>
-        </div>
-    </div>
-  </div>  
-  <div class="column is-one-quarter-desktop is-half-tablet">
-    <div class="card">
-        <div class="card-image">
-            <figure class="image is-3by2">
-              <img src="/assets/img/USS2023/break.jpg" alt="Image taken during the coffee break">
-            </figure>
-        </div>
-    </div>
-  </div>
-  <div class="column is-one-quarter-desktop is-half-tablet">
-    <div class="card">
-        <div class="card-image">
-            <figure class="image is-3by2">
-              <img src="/assets/img/USS2023/panel.jpg" alt="Image of panelists taken during the anti-conference discussion">
-            </figure>
-        </div>
-    </div>
-  </div>
-</div>
-
-<!-- <style>
+<style>
 .inlinelist ul {
   display: inline;
   list-style: none;
@@ -124,41 +83,57 @@ We thank everyone who participated in the UNIQUE Student Symposium (USS) 2023. W
 </style>
 <br>
 <center>
-<ul class="inlinelist"><li class="inlinelist"><a href="/2023/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li class="inlinelist"><a href="/2023/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li class="inlinelist"><a href="https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127"><button class="button is-primary">Registration</button></a></li>  <li class="inlinelist"><a href="https://docs.google.com/forms/d/e/1FAIpQLSctmU_gFOph1RYt1Tmv8BA0nUTaPnbgO0SJlvYxnKIgKZv4Rg/viewform"><button class="button is-primary">Poster Submission</button></a></li></ul>
+<ul class="inlinelist"><li class="inlinelist"><a href="/2024/schedule.html"><button class="button is-primary">Schedule (TBA)</button></a></li>  <li class="inlinelist"><a href="/2024/speakers.html"><button class="button is-primary">Speakers (TBA)</button></a></li>  <li class="inlinelist"><a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507"><button class="button is-primary">Registration</button></a></li>  <li class="inlinelist"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1McQQJl94KUQD5rnH5T2992mQDraWf7zh68DnjP9t7JmWtA/viewform"><button class="button is-primary">Poster Submission</button></a></li></ul>
 </center>
-<br> -->
+<br>
 
 <div class="card">
 <div class="card-image">
     <figure class="image is-5by2">
-    <img src="/assets/img/USS2023/speaker_banner.png" alt="USS 2023">
+    <img src="/assets/img/USS2024/banner.png" alt="USS 2024">
     </figure>
 </div>
 <div class="card-content">
     <div class="media">
     <div class="media-content">
-        <p class="title is-4">UNIQUE Student Symposium 2023: From Brains to Machines and Back: Exploring the Potential of NeuroAI</p>
+        <p class="title is-4">UNIQUE Student Symposium 2024: May 8-10 at the CERVO Brain Research Center, Quebec City</p>
     </div>
     </div>
 
     <div class="content">
-    USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research. USS 2023 was held <b>hybrid in Montreal</b>.
+    Join us at the UNIQUE Student Symposium (USS) 2024, happening from 8th to 10th May at the <a href="https://cervo.ulaval.ca/en">CERVO Brain Research Center</a> in Quebec City!
+    <br><br>
+    USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
+
     <h3>Event Details</h3>
-    <b>Day 1: Monday, 5 June 2023</b><br>
-    <b>Day 2: Tuesday, 6 June 2023</b><br>
-    <b>Location: A-3502.1, Pavillon A, Université de Montréal - Campus MIL 1375 Avenue Thérèse-Lavoie-Roux Montréal, QC H2V 0B3</b><br>
-    <b>See the schedule <a href="/2023/schedule.html">here</a>.</b><br>
-    <b>See the speakers <a href="/2023/speakers.html">here</a>.</b>
-    The recordings are available <a href="https://www.youtube.com/playlist?list=PLbRvVnRY9v0qHoWhCp0M1hDvuMhxwuiXT">here</a>, on our <a href="https://www.youtube.com/@uniquecentrestudentsymposi408">YouTube channel</a>.
-    <!-- <h3>Important Links and Deadlines</h3>
-    <b>Registration link: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2023-tickets-616558853127">click here!</a></b>
+    <b>Day 1: Wednesday, 8 May 2024</b><br>
+    <b>Day 2: Thursday, 9 May 2024</b><br>
+    <b>Day 3: Friday, 10 May 2024</b><br>
+    <b>Location: <a href="https://cervo.ulaval.ca/en">CERVO Brain Research Center</a>, Quebec City</b><br>
+    <b>See the schedule <a href="/2024/schedule.html">here (TBA)</a>.</b><br>
+    <b>See the speakers <a href="/2024/speakers.html">here (TBA)</a>.</b>
+
+    <h3>Important Information</h3>
+    <b>Registration link: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">click here!</a></b>
     <br>
-    <b>Deadline: <span style="color:red;">May 30, 2023 (in-person tickets)</span></b>
+    <b>Deadline: <span style="color:red;">22 April 2024</span></b>
     <br>
     <br>
-    <b>Poster submission link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSctmU_gFOph1RYt1Tmv8BA0nUTaPnbgO0SJlvYxnKIgKZv4Rg/viewform">click here!</a></b>
+    <b>Transport:</b> a bus from Montreal to Quebec City and back will be assigned on a first-come, first-served basis.<br>
+    – Departure (Montreal-Quebec): 8 May at 4 pm<br>
+    – Return (Quebec-Montreal): 10 May at 4 pm
     <br>
-    <b>Deadline: <span style="color:red;">May 14, 2023</span></b>
+    <br>
+    <b>Accommodation:</b> 2 nights at <a href="https://www.hotelambassadeur.ca/">Hotel Ambassadeur</a> will be provided <b>exclusively for students supervised by a regular UNIQUE member</b>.
+    <br>
+    <br>
+    <b>Poster submission link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1McQQJl94KUQD5rnH5T2992mQDraWf7zh68DnjP9t7JmWtA/viewform">click here!</a></b>
+    <br>
+    <b>Deadline: <span style="color:red;">14 April 2024</span></b>
+    <br>
+    <br>
+    Note: The event is open to all people working in Neuro-AI (UNIQUE member or not).
+
     <h3>Accessibility and Code of Conduct</h3>
     We strive to create an accessible and inclusive event. Please be informed that:
     <ul>
@@ -166,7 +141,23 @@ We thank everyone who participated in the UNIQUE Student Symposium (USS) 2023. W
     <li>Keynote talks will be streamed and recorded for virtual and asynchronous attendance.</li>
     <li>On Chrome, you can enable Live Caption feature following <a href="https://www.youtube.com/embed/KDP8a5s8yaU">this video</a>.</li>
     <li>If you have any accessibility needs that you would like us to know, please contact us at <code>{{ site.email }}</code>.</li>
-    </ul> -->
+    </ul>
+    <br>
+    <hr>
+    <br>
+    Rejoignez-nous au Symposium Étudiant UNIQUE (USS 2024), qui se déroulera du 8 au 10 mai 2024 au <a href="https://cervo.ulaval.ca/fr">Centre de recherche sur le cerveau – CERVO</a> à Québec !
+    <br><br>
+    <b>Inscrivez-vous dès maintenant (date limite: <span style="color:red;"><b>22 avril</b></span>): <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">formulaire d'inscription</a></b>
+    <br><br>
+    <b>Transport:</b> un bus entre Montréal est Québec est mis à disposition des participant.e.s, premier.ère arrivé.e, premier.ère servi.e!<br>
+    – Départ (Montréal-Québec) : 8 mai à 16 h<br>
+    – Retour (Québec-Montréal) : 10 mai à 16 h 
+    <br><br>
+    <b>Logement:</b> deux nuits à <a href="https://www.hotelambassadeur.ca/">l'hôtel Ambassadeur</a> est disponible exclusivement aux étudiant.e.s supervisé.e.s par un.e membre régulier.ère d'UNIQUE.
+    <br><br>
+    <b>Presentations d’affiche (date limited: 14 avril 2024):</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1McQQJl94KUQD5rnH5T2992mQDraWf7zh68DnjP9t7JmWtA/viewform">formulaire pour les soumissions</a>
+    <br><br>
+    Note : l'événement est ouvert à toutes les personnes travaillant dans le domaine de la Neuro-AI (membres d'UNIQUE ou non).
     </div>
 </div>
 </div>
