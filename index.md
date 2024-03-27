@@ -138,13 +138,11 @@ _Cet événement est l'occasion idéale de présenter les travaux financés par 
     We strive to create an accessible and inclusive event. Please be informed that:
     <ul>
     <li>All participants are required to follow the <a href="/coc.html">Code of Conduct</a>.</li>
-    <li>Keynote talks will be streamed and recorded for virtual and asynchronous attendance.</li>
-    <li>On Chrome, you can enable Live Caption feature following <a href="https://www.youtube.com/embed/KDP8a5s8yaU">this video</a>.</li>
+    <!-- <li>Keynote talks will be streamed and recorded for virtual and asynchronous attendance.</li>
+    <li>On Chrome, you can enable Live Caption feature following <a href="https://www.youtube.com/embed/KDP8a5s8yaU">this video</a>.</li> -->
     <li>If you have any accessibility needs that you would like us to know, please contact us at <code>{{ site.email }}</code>.</li>
     </ul>
-    <br>
     <hr>
-    <br>
     Rejoignez-nous au Symposium Étudiant UNIQUE (USS 2024), qui se déroulera du 8 au 10 mai 2024 au <a href="https://cervo.ulaval.ca/fr">Centre de recherche sur le cerveau – CERVO</a> à Québec !
     <br><br>
     <b>Inscrivez-vous dès maintenant (date limite: <span style="color:red;"><b>22 avril</b></span>): <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">formulaire d'inscription</a></b>
@@ -155,9 +153,9 @@ _Cet événement est l'occasion idéale de présenter les travaux financés par 
     <br><br>
     <b>Logement:</b> deux nuits à <a href="https://www.hotelambassadeur.ca/">l'hôtel Ambassadeur</a> est disponible exclusivement aux étudiant.e.s supervisé.e.s par un.e membre régulier.ère d'UNIQUE.
     <br><br>
-    <b>Presentations d’affiche (date limited: 14 avril 2024):</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1McQQJl94KUQD5rnH5T2992mQDraWf7zh68DnjP9t7JmWtA/viewform">formulaire pour les soumissions</a>
+    <b>Presentations d’affiche (date limite: <span style="color:red;"><b>14 avril</b></span>):</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1McQQJl94KUQD5rnH5T2992mQDraWf7zh68DnjP9t7JmWtA/viewform">formulaire pour les soumissions</a>
     <br><br>
-    Note : l'événement est ouvert à toutes les personnes travaillant dans le domaine de la Neuro-AI (membres d'UNIQUE ou non).
+    Note: l'événement est ouvert à toutes les personnes travaillant dans le domaine de la Neuro-AI (membres d'UNIQUE ou non).
     </div>
 </div>
 </div>
