@@ -21,7 +21,7 @@
   platforms:
 - name: Session 1
   date: 20240509
-  time_start: "9:30"
+  time_start: "09:30"
   time_end: "10:45"
   title: "Cellular Neuroscience through the lens of AI"
   platforms:
@@ -81,9 +81,9 @@
   time_start: "09:15"
   time_end: "09:30"
   platforms:
-- name: Session 1
+- name: Session 3
   date: 20240510
-  time_start: "9:30"
+  time_start: "09:30"
   time_end: "10:45"
   title: "AI in Medical Neuroscience"
   platforms:
@@ -104,7 +104,7 @@
   time_start: "12:00"
   time_end: "13:00"
   platforms:
-- name: Session 2
+- name: Session 4
   date: 20240510
   time_start: "13:00"
   time_end: "14:15"
