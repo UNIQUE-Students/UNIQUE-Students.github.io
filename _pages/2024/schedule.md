@@ -18,18 +18,12 @@ The times are Eastern Daylight Time (Québec local time, UTC-4). Click on the ti
 
 ## Wednesday, 8th May
 
-<!-- {% include table-schedule.html schedule=site.data.schedule_2024 speakers=site.data.speakers_2024 date="20240508" people="Speaker(s)" %} -->
-
-TBA
+{% include table-schedule.html schedule=site.data.schedule_2024 speakers=site.data.speakers_2024 date="20240508" people="Speaker(s)" %}
 
 ## Thursday, 9th May
 
-<!-- {% include table-schedule.html schedule=site.data.schedule_2024 speakers=site.data.speakers_2024 date="20240509" people="Speaker(s)" %} -->
-
-TBA
+{% include table-schedule.html schedule=site.data.schedule_2024 speakers=site.data.speakers_2024 date="20240509" people="Speaker(s)" %}
 
 # Friday, 10th May
 
-<!-- {% include table-schedule.html schedule=site.data.schedule_2024 speakers=site.data.speakers_2024 date="20240510" people="Speaker(s)" %} -->
-
-TBA
+{% include table-schedule.html schedule=site.data.schedule_2024 speakers=site.data.speakers_2024 date="20240510" people="Speaker(s)" %}

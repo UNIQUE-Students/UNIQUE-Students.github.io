@@ -15,7 +15,7 @@ permalink: /2024/speakers
 
 # Wednesday, 8th May
 
-<!-- {% assign people = site.data.speakers_2024 %}
+{% assign people = site.data.speakers_2024 %}
 {% for person in people %}
   {% if person.fullname == "TBA" %}{% continue %}{% endif %}
   {% for session in person.sessions %}
@@ -31,13 +31,11 @@ permalink: /2024/speakers
           {% include speaker-card.html %}
         {% endif %}
     {% endif %}
-{% endfor %} -->
-
-TBA
+{% endfor %}
 
 # Thursday, 9th May
 
-<!-- {% assign people = site.data.speakers_2024 %}
+{% assign people = site.data.speakers_2024 %}
 {% for person in people %}
   {% if person.fullname == "TBA" %}{% continue %}{% endif %}
   {% for session in person.sessions %}
@@ -53,13 +51,11 @@ TBA
           {% include speaker-card.html %}
         {% endif %}
     {% endif %}
-{% endfor %} -->
-
-TBA
+{% endfor %}
 
 # Friday, 10th May
 
-<!-- {% assign people = site.data.speakers_2024 %}
+{% assign people = site.data.speakers_2024 %}
 {% for person in people %}
   {% if person.fullname == "TBA" %}{% continue %}{% endif %}
   {% for session in person.sessions %}
@@ -75,6 +71,4 @@ TBA
           {% include speaker-card.html %}
         {% endif %}
     {% endif %}
-{% endfor %} -->
-
-TBA
+{% endfor %}

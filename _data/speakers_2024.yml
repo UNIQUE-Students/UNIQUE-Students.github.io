@@ -1,225 +1,168 @@
-# June 5th - Session 1
-- fullname: Doina Precup
-  pronouns: "she/her"
-  affiliations:
-  - McGill University
-  - Mila – Quebec AI Institute
-  - DeepMind
-  - CIFAR AI chair
-  nametitle: Ph.D.
-  bio: "Doina Precup teaches at McGill while conducting fundamental research on reinforcement learning, working in particular on AI applications in areas that have a social impact, such as health care. She’s interested in machine decision-making in situations where uncertainty is high. She is a senior fellow of the Canadian Institute for Advanced Research, fellow of the Association for the Advancement of Artificial Intelligence and she also heads the Montreal office of DeepMind. She is a specialist in Artificial intelligence, machine learning, reinforcement learning, reasoning and planning under uncertainty, applications."
-  position: Associate Professor
-  photo: doina_precup.jpg
-  alttext: Doina Precup
-  title: "From brains to machines"
+# May 9th - Session 1
+- fullname: Flavie Lavoie-Cardinal
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: Flavie Lavoie-Cardinal
+  title: "Cellular Neuroscience through the lens of AI"
   abstract: ""
   sessions:
-  - "202306050930"
-- fullname: Laura Suarez
-  pronouns: "she/her"
-  affiliations:
-  - McGill University
-  - Mila - Quebec AI Institute
-  - Montréal Neurological Institute
-  nametitle: Ms.
-  bio: 
-  position: Ph.D. candidate in AI and Computational Neuroscience 
-  photo: laura_suarez.jpeg
-  alttext: Laura Suarez
-  title: From brains to machines
+  - "202405090930"
+- fullname: Antoine Légaré
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: Antoine Légaré
+  title: "Cellular Neuroscience through the lens of AI"
   abstract: ""
   sessions:
-  - "202306050930"
-- fullname: Maelle Freteault
-  pronouns: "she/her"
-  affiliations:
-  - IMT Atlantique
-  - Université de Montréal
-  nametitle: Ms.
-  bio: 
-  position: Ph.D. candidate in Neuro-Inspired AI
-  photo: maelle_freteault.jpg
-  alttext: Maelle Freteault
-  title: From brains to machines
+  - "202405090930"
+- fullname: Catherine Bouchard
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: Catherine Bouchard
+  title: "Cellular Neuroscience through the lens of AI"
   abstract: ""
   sessions:
-  - "202306050930"
+  - "202405090930"
 
-# June 5th - Session 2
-- fullname: Guillaume Dumas
-  pronouns: "he/him"
-  affiliations:
-  - Université de Montréal
-  - Mila – Quebec AI Institute
-  - IVADO chair
-  nametitle: Ph.D.
-  bio: Guillaume Dumas is Associate Professor of Computational Psychiatry at the Faculty of Medicine of the University of Montreal and Director of the Precision Psychiatry and Social Physiology Laboratory at the CHU Sainte-Justine Research Center.
-  position: Associate Professor
-  photo: guillaume_dumas.jpg
-  alttext: Guillaume Dumas
-  title: "Social Interactions & Group Dynamics in Humans and Machines"
+# May 9th - Session 2
+- fullname: Patrick Desrosiers
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: Patrick Desrosiers
+  title: "Brain's Complexity"
   abstract: ""
   sessions:
-  - "202306051330"
-  # tags:
-  #   - name: Relevant paper
-  #     link: https://arxiv.org/pdf/2106.03696.pdf
-  #   - name: Website
-  #     link: https://cypaquette.github.io
-- fullname: Rahatul Amin Ananto
-  pronouns: "he/him"
-  affiliations:
-  - McGill University
-  nametitle: Mr.
-  bio: 
-  position: Ph.D. candidate in Human-Robot Interface
-  photo: rahatul_amin_ananto.jpeg
-  alttext: Rahatul Amin Ananto
-  title: "Social Interactions & Group Dynamics in Humans and Machines"
+  - "202405091300"
+- fullname: Colin Bredenberg
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: Colin Bredenberg
+  title: "Brain's Complexity"
   abstract: ""
   sessions:
-  - "202306051330"
-- fullname: Amin Me'marian
-  pronouns: "he/him"
-  affiliations:
-  - Université de Montréal
-  - Mila – Quebec AI Institute
-  nametitle: Mr.
-  bio: 
-  position: Ph.D. candidate in Machine Learning
-  photo: amin_memarian.jpeg
-  alttext: Amin Me'marian
-  title: "Social Interactions & Group Dynamics in Humans and Machines"
+  - "202405091300"
+- fullname: "Jordan O'Byrne"
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: "Jordan O'Byrne"
+  title: "Brain's Complexity"
   abstract: ""
   sessions:
-  - "202306051330"
+  - "202405091300"
 
-# June 5th - Workshop 1
-- fullname: Hao-Ting Wang
-  pronouns: "she/her"
-  affiliations:
-  - Centre de recherche de l’Institut universitaire de g´eriatrie de Montr´eal (CRIUGM)
-  nametitle: Ph.D.
+# May 9th - Workshop 1
+- fullname: Frédéric Simard
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
   bio: 
-  position: Postdoctoral Researcher in Neuroimaging and Neuroinformatics
-  photo: hao-ting_wang.jpeg
-  alttext: Hao-Ting Wang
-  title: "Open Science: Helping and Contributing to the Community"
+  position: ""
+  photo: ""
+  alttext: Frédéric Simard
+  title: "Neurotechnology and AI"
   abstract: ""
   sessions:
-  - "202306051100workshop"
-- fullname: Justine Hansen
-  pronouns: "she/her"
-  affiliations:
-  - McGill University
-  - Montreal Neurological Institute
-  nametitle: Ms.
-  bio: 
-  position: Ph.D. candidate in Neuroscience, Department of Neurology and Neurosurgery
-  photo: justine_hansen.jpeg
-  alttext: Justine Hansen
-  title: "Open Science: Helping and Contributing to the Community"
-  abstract: ""
-  sessions:
-  - "202306051100workshop"
-- fullname: Yann Harel
-  pronouns: "he/him"
-  affiliations:
-  - Université de Montréal
-  nametitle: Ph.D.
-  bio:
-  position: Ph.D. candidate in Neuropsychology and Cognitive Sciences
-  photo: yann_harel.jpeg
-  alttext: Yann Harel
-  title: "Open Science: Helping and Contributing to the Community"
-  abstract: ""
-  sessions:
-  - "202306051100workshop"
+  - "202405091430workshop"
 
-# June 6th - Session 3
-- fullname: Marco Bonizzato
-  pronouns: "he/him"
-  affiliations:
-  - Polytechnique Montréal
-  nametitle: Ph.D.
-  bio: Prof. Marco Bonizzato is a Control, Electrical and Life Sciences Engineer with over 10 years experience in implatable brain-computer interfaces and neuromodulation technology. He has a unique double expertise in (a) neural prostheses and (b) machine intelligence and optimization.
-  position: Assistant Professor
-  photo: marco_bonizzato.jpg
-  alttext: Marco Bonizzato
-  title: "NeuroAI in Medical Research"
-  abstract: ""
-  sessions:
-  - "202306060930"
-- fullname: Joshua Durso-Finley
-  pronouns: "he/him"
-  affiliations:
-  - McGill University
-  nametitle: Mr.
-  bio:
-  position: Ph.D. candidate in Computer Vision, CIM
-  photo: joshua_durso_finley.jpg
-  alttext: Joshua Durso-Finley
-  title: "NeuroAI in Medical Research"
-  abstract: ""
-  sessions:
-  - "202306060930"
-- fullname: Amar Kumar
-  pronouns: "he/him"
-  affiliations:
-  - McGill University
-  - Mila – Quebec AI Institute
-  nametitle: Mr.
-  bio: Amar Kumar is a PhD student working under the supervision of Prof. Tal Arbel in the Probabilistic Vision Group (PVG). His research interest lies in using generative modelling for developing explainable AI (XAI) models.
-  position: Ph.D. candidate in Computer Vision, CIM
-  photo: amar_kumar.jpg
-  alttext: Amar Kumar
-  title: "NeuroAI in Medical Research"
-  abstract: ""
-  sessions:
-  - "202306060930"
+# May 10th - Session 3
+# - fullname: ""
+#   pronouns: ""
+#   affiliations: []
+#   nametitle: ""
+#   bio: ""
+#   position: ""
+#   photo: ""
+#   alttext: ""
+#   title: "AI in Medical Neuroscience"
+#   abstract: ""
+#   sessions:
+#   - "202405100930"
+# - fullname: ""
+#   pronouns: ""
+#   affiliations: []
+#   nametitle: ""
+#   bio: ""
+#   position: ""
+#   photo: ""
+#   alttext: ""
+#   title: "AI in Medical Neuroscience"
+#   abstract: ""
+#   sessions:
+#   - "202405100930"
+# - fullname: ""
+#   pronouns: ""
+#   affiliations: []
+#   nametitle: ""
+#   bio: ""
+#   position: ""
+#   photo: ""
+#   alttext: ""
+#   title: "AI in Medical Neuroscience"
+#   abstract: ""
+#   sessions:
+#   - "202405100930"
 
-# June 6th - Session 4
-- fullname: Shahab Bakhtiari
-  pronouns: "he/him"
-  affiliations:
-  - Université de Montréal
-  - Mila – Quebec AI Institute
-  nametitle: Ph.D.
-  bio:
-  position: Assistant Professor
-  photo: shahab_bakhtiari.jpg
-  alttext: Shahab Bakhtiari
-  title: "From machines to brains"
+# May 10th - Session 4
+- fullname: "Catherine Duclos"
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: "Catherine Duclos"
+  title: "Consciousness in Brains and Machines"
   abstract: ""
   sessions:
-  - "202306061330"
-- fullname: Mahta Ramezanian
-  pronouns: "she/her"
-  affiliations:
-  - Université de Montréal
-  - Mila – Quebec AI Institute
-  nametitle: Ms.
-  bio: Mahta Ramezanian is a a graduate student in Computer Science, with a background in Physics, machine learning and system dynamics. She is currently a research Assistant at Mila-Quebec AI institute and CHU Sainte Justine, focusing on the development of generative models and brain dynamics, as well as applications in neuroscience and the detection of autism. Mahta is curious about the social impact of AI research, particularly in healthcare. She has experience as a teaching and research assistant at the University of Waterloo working on statistical mechanics.
-  position: Research Assistant at Mila-Quebec AI and CHU Sainte Justine
-  photo: mahta_ramezanian.jpeg
-  alttext: Mahta Ramezanian
-  title: "From machines to brains"
+  - "202405101300"
+- fullname: "Charlotte Maschke"
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: "Charlotte Maschke"
+  title: "Consciousness in Brains and Machines"
   abstract: ""
   sessions:
-  - "202306061330"
-- fullname: Katarzyna Jurewicz
-  pronouns: "she/her"
-  affiliations:
-  - McGill University
-  nametitle: Ph.D.
-  bio:
-  position: Post-doctoral fellow, Department of Physiology
-  photo: katarzyna_jurewicz.jpeg
-  alttext: Katarzyna Jurewicz
-  title: "From machines to brains"
-  abstract: ""
-  sessions:
-  - "202306061330"
+  - "202405101300"
+# - fullname: ""
+#   pronouns: ""
+#   affiliations: []
+#   nametitle: ""
+#   bio: ""
+#   position: ""
+#   photo: ""
+#   alttext: ""
+#   title: "Consciousness in Brains and Machines"
+#   abstract: ""
+#   sessions:
+#   - "202405101300"
 
 # June 5th - Workshop 2
 - fullname: Angela Tam
