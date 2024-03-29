@@ -1,6 +1,6 @@
 ---
 title: UNIQUE Get-Together – Spring 2024
-subtitle: 28th March (4 pm to 7 pm EST) at the Mila Coworking Space
+subtitle: 28th March (4 pm to 7 pm EST) at the Mila Agora
 permalink: /2024/get-together-spring
 ---
 
@@ -20,12 +20,10 @@ permalink: /2024/get-together-spring
 
 This event is an ideal opportunity to present UNIQUE-funded work and promote the Neuro-AI student community. The event will feature brief student presentations, followed by networking and a meal (pizza and snacks). With this gathering, we hope to give UNIQUE students the opportunity to get to know each other in a friendlier format, with the aim of creating a community of Neuro-AI students and networking among UNIQUE students.
 
-_Cet événement est l’occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L’événement comprendra de brèves présentations d’étudiant.e.s, suivies d’un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d’UNIQUE l’opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d’étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE._
+_Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE._
 
 **Date & Time:** Tuesday, 28th March 2024 from 4 pm to 7 pm EST<br>
-**Venue:** [Mila Agora, 6650 Rue St-Urbain, Montréal, QC H2S 3G9](https://maps.app.goo.gl/455ze7suaPv2p8J6A)<br>
-**Registration:** [click here!](https://docs.google.com/forms/d/e/1FAIpQLSdoeNFKOps_YaOqxhCoiTJRd1Vu6sNsT1chOn_39VwQ6KmQCg/viewform)<br>
-**Deadline:** 26th March 2024
+**Venue:** [Mila Agora, 6650 Rue St-Urbain, Montréal, QC H2S 3G9](https://maps.app.goo.gl/455ze7suaPv2p8J6A)
 
 ---
 
