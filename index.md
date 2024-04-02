@@ -68,7 +68,9 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     <h3>Important Information</h3>
     <b>Registration link: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">click here!</a></b>
     <br>
-    <b>Deadline: <span style="color:red;">22 April 2024</span></b>
+    <b>Deadline: <span style="color:red;">17 April 2024 (UPDATED!)</span></b>
+    <br>
+    Registration fees include meals, transport and hotel room if applicable (see conditions).
     <br>
     <br>
     <b>Transport:</b> a bus from Montreal to Quebec City and back will be assigned on a first-come, first-served basis.<br>
@@ -97,7 +99,9 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     <hr>
     Rejoignez-nous au Symposium Étudiant UNIQUE (USS 2024), qui se déroulera du 8 au 10 mai 2024 au <a href="https://cervo.ulaval.ca/fr">Centre de recherche sur le cerveau – CERVO</a> à Québec!
     <br><br>
-    <b>Inscrivez-vous dès maintenant (date limite: <span style="color:red;"><b>22 avril</b></span>): <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">formulaire d'inscription</a></b>
+    <b>Inscrivez-vous dès maintenant (date limite: <span style="color:red;"><b>17 avril (date modifié!)</b></span>): <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">formulaire d'inscription</a></b>
+    <br>
+    Les frais d'inscription comprennent les repas, le transport et la chambre d'hôtel le cas échéant (voir condition).
     <br><br>
     <b>Transport:</b> un bus entre Montréal est Québec est mis à disposition des participant.e.s, premier.ère arrivé.e, premier.ère servi.e!<br>
     – Départ (Montréal-Québec) : 8 mai à 16 h<br>

@@ -87,6 +87,30 @@
   abstract: ""
   sessions:
   - "202405091430workshop"
+- fullname: Jean-Simon Boucher
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: ""
+  alttext: Jean-Simon Boucher
+  title: "Neurotechnology and AI"
+  abstract: ""
+  sessions:
+  - "202405091430workshop"
+- fullname: Marc-Antoine Moinnereau
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: ""
+  alttext: Marc-Antoine Moinnereau
+  title: "Neurotechnology and AI"
+  abstract: ""
+  sessions:
+  - "202405091430workshop"
 
 # May 10th - Session 3
 # - fullname: ""
@@ -101,6 +125,18 @@
 #   abstract: ""
 #   sessions:
 #   - "202405100930"
+- fullname: Anwesha Bhattacharya
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: ""
+  alttext: Anwesha Bhattacharya
+  title: "AI in Medical Neuroscience"
+  abstract: ""
+  sessions:
+  - "202405100930"
 # - fullname: ""
 #   pronouns: ""
 #   affiliations: []
@@ -113,18 +149,32 @@
 #   abstract: ""
 #   sessions:
 #   - "202405100930"
-# - fullname: ""
-#   pronouns: ""
-#   affiliations: []
-#   nametitle: ""
-#   bio: ""
-#   position: ""
-#   photo: ""
-#   alttext: ""
-#   title: "AI in Medical Neuroscience"
-#   abstract: ""
-#   sessions:
-#   - "202405100930"
+
+# May 10th - Interactive Panel Discussion
+- fullname: William Leclerc
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: ""
+  alttext: William Leclerc
+  title: "Interactive Panel Discussion"
+  abstract: ""
+  sessions:
+  - "202405101100panel"
+- fullname: Julia Obergasteiger
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: ""
+  alttext: Julia Obergasteiger
+  title: "Interactive Panel Discussion"
+  abstract: ""
+  sessions:
+  - "202405101100panel"
 
 # May 10th - Session 4
 - fullname: "Catherine Duclos"
@@ -163,59 +213,3 @@
 #   abstract: ""
 #   sessions:
 #   - "202405101300"
-
-# June 5th - Workshop 2
-- fullname: Angela Tam
-  pronouns: "she/her"
-  affiliations:
-  - Perceiv AI
-  nametitle: Ph.D.
-  bio:
-  position: Senior Scientist at Perceive AI
-  photo: angela_tam.jpeg
-  alttext: Angela Tam
-  title: "Synergy between Industry & Academia"
-  abstract: ""
-  sessions:
-  - "202306061100workshop"
-- fullname: Greg Kiar
-  pronouns: "he/him"
-  affiliations:
-  - Child Mind Institute (CMI)
-  nametitle: Ph.D.
-  bio: 
-  position: Research Scientist in Computational Neuroimaging Laboratory, CMI
-  photo: greg_kiar.jpeg
-  alttext: Greg Kiar
-  title: "Synergy between Industry & Academia"
-  abstract: ""
-  sessions:
-  - "202306061100workshop"
-- fullname: Joseph Viviano
-  pronouns: "he/him"
-  affiliations:
-  - Mila – Quebec AI Institute
-  - Mentor - AI Stream
-  nametitle: Mr.
-  bio: 
-  position: Machine Learning Scientist at Mila
-  photo: joseph_viviano.jpeg
-  alttext: Joeseph Viviano
-  title: "Synergy between Industry & Academia"
-  abstract: ""
-  sessions:
-  - "202306061100workshop"
-- fullname: Nathalie Sanon
-  pronouns: "she/her"
-  affiliations:
-  - IVADO
-  nametitle: Ph.D.
-  bio: 
-  position: AI training Programs Manager IVADO
-  photo: nathalie_sanon.jpeg
-  alttext: Nathelia Sanon
-  title: "Synergy between Industry & Academia"
-  abstract: ""
-  sessions:
-  - "202306061100workshop"
-

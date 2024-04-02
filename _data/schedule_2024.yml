@@ -35,7 +35,7 @@
   time_start: "11:00"
   time_end: "12:00"
   session: panel
-  title: "Ethics, Ecological Impact and EDI in Neuro-AI"
+  title: "Ethics and EDI in Neuro-AI"
   platforms:
 - name: Lunch
   date: 20240509
@@ -60,7 +60,7 @@
   session: workshop
   title: "Neurotechnology and AI"
   platforms:
-- name: Poster session
+- name: Poster session + cocktails 🍸
   date: 20240509
   time_start: "16:00"
   time_end: "17:30"
@@ -92,7 +92,7 @@
   time_start: "10:45"
   time_end: "11:00"
   platforms:
-- name: Interactive Panel Discussion 1
+- name: Interactive Panel Discussion
   date: 20240510
   time_start: "11:00"
   time_end: "12:00"
@@ -119,8 +119,8 @@
   date: 20240510
   time_start: "14:30"
   time_end: "15:30"
-  session: workshop
-  title: "Neurotechnology and AI"
+  session: panel
+  title: "Industry and Academia"
   platforms:
 - name: Closing Remarks
   date: 20240510
