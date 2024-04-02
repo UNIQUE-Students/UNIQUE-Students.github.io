@@ -65,7 +65,7 @@
   fullname: Catherine Bouchard
   photo: none
   alttext: none
-  pronouns: none
+  pronouns: ""
   twitter: none
   website: none
 - affiliation: "Université Laval"
@@ -75,7 +75,7 @@
   fullname: Anthony Bilodeau
   photo: none
   alttext: none
-  pronouns: none
+  pronouns: ""
   twitter: none
   website: none
 - affiliation: "Université de Montréal"
@@ -85,7 +85,7 @@
   fullname: Cornelius Crijnen
   photo: none
   alttext: none
-  pronouns: none
+  pronouns: ""
   twitter: none
   website: none
 - affiliation: "Université de Montréal"
@@ -95,7 +95,7 @@
   fullname: Vincent Chamberland
   photo: none
   alttext: none
-  pronouns: none
+  pronouns: ""
   twitter: none
   website: none
 - affiliation: "Université Laval"
@@ -105,6 +105,6 @@
   fullname: Owen Ferguson
   photo: none
   alttext: none
-  pronouns: none
+  pronouns: ""
   twitter: none
   website: none
