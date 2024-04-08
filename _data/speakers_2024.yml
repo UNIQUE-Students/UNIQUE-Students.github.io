@@ -5,7 +5,7 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Flavie Lavoie-Cardinal
   title: "Cellular Neuroscience through the lens of AI"
   abstract: ""
@@ -17,7 +17,7 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Antoine Légaré
   title: "Cellular Neuroscience through the lens of AI"
   abstract: ""
@@ -29,12 +29,39 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Catherine Bouchard
   title: "Cellular Neuroscience through the lens of AI"
   abstract: ""
   sessions:
   - "202405090930"
+
+# May 9th - Panel 1
+# - Colin (see below)
+- fullname: Nazanin Mohammadi
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: "none"
+  alttext: Nazanin Mohammadi
+  title: ""
+  abstract: ""
+  sessions:
+  - "202405091100panel"
+- fullname: Dane Malenfant
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: "none"
+  alttext: Dane Malenfant
+  title: ""
+  abstract: ""
+  sessions:
+  - "202405091100panel"
 
 # May 9th - Session 2
 - fullname: Patrick Desrosiers
@@ -43,7 +70,7 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Patrick Desrosiers
   title: "Brain's Complexity"
   abstract: ""
@@ -55,11 +82,12 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Colin Bredenberg
   title: "Brain's Complexity"
   abstract: ""
   sessions:
+  - "202405091100panel"
   - "202405091300"
 - fullname: "Jordan O'Byrne"
   pronouns: ""
@@ -67,7 +95,7 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: "Jordan O'Byrne"
   title: "Brain's Complexity"
   abstract: ""
@@ -75,13 +103,14 @@
   - "202405091300"
 
 # May 9th - Workshop 1
+
 - fullname: Frédéric Simard
   pronouns: ""
   affiliations: []
   nametitle: ""
   bio: 
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Frédéric Simard
   title: "Neurotechnology and AI"
   abstract: ""
@@ -93,7 +122,7 @@
   nametitle: ""
   bio: 
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Jean-Simon Boucher
   title: "Neurotechnology and AI"
   abstract: ""
@@ -105,8 +134,56 @@
   nametitle: ""
   bio: 
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Marc-Antoine Moinnereau
+  title: "Neurotechnology and AI"
+  abstract: ""
+  sessions:
+  - "202405091430workshop"
+- fullname: Toky Raharison Ralambomihanta
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: "none"
+  alttext: Toky Raharison Ralambomihanta
+  title: "Neurotechnology and AI"
+  abstract: ""
+  sessions:
+  - "202405091430workshop"
+- fullname: Rhea Xinxo
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: "none"
+  alttext: Rhea Xinxo
+  title: "Neurotechnology and AI"
+  abstract: ""
+  sessions:
+  - "202405091430workshop"
+- fullname: Allison Murdock
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: "none"
+  alttext: Allison Murdock
+  title: "Neurotechnology and AI"
+  abstract: ""
+  sessions:
+  - "202405091430workshop"
+- fullname: Hailey Eckersberg
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: "none"
+  alttext: Hailey Eckersberg
   title: "Neurotechnology and AI"
   abstract: ""
   sessions:
@@ -119,7 +196,7 @@
 #   nametitle: ""
 #   bio: ""
 #   position: ""
-#   photo: ""
+#   photo: "none"
 #   alttext: ""
 #   title: "AI in Medical Neuroscience"
 #   abstract: ""
@@ -131,7 +208,7 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Anwesha Bhattacharya
   title: "AI in Medical Neuroscience"
   abstract: ""
@@ -143,7 +220,7 @@
 #   nametitle: ""
 #   bio: ""
 #   position: ""
-#   photo: ""
+#   photo: "none"
 #   alttext: ""
 #   title: "AI in Medical Neuroscience"
 #   abstract: ""
@@ -157,7 +234,7 @@
   nametitle: ""
   bio: 
   position: ""
-  photo: ""
+  photo: "none"
   alttext: William Leclerc
   title: "Interactive Panel Discussion"
   abstract: ""
@@ -169,7 +246,7 @@
   nametitle: ""
   bio: 
   position: ""
-  photo: ""
+  photo: "none"
   alttext: Julia Obergasteiger
   title: "Interactive Panel Discussion"
   abstract: ""
@@ -183,7 +260,7 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: "Catherine Duclos"
   title: "Consciousness in Brains and Machines"
   abstract: ""
@@ -195,7 +272,7 @@
   nametitle: ""
   bio: ""
   position: ""
-  photo: ""
+  photo: "none"
   alttext: "Charlotte Maschke"
   title: "Consciousness in Brains and Machines"
   abstract: ""
@@ -207,7 +284,7 @@
 #   nametitle: ""
 #   bio: ""
 #   position: ""
-#   photo: ""
+#   photo: "none"
 #   alttext: ""
 #   title: "Consciousness in Brains and Machines"
 #   abstract: ""
