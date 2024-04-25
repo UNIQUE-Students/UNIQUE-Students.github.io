@@ -11,7 +11,7 @@
 
 - name: Breakfast
   date: 20240509
-  time_start: "08:00"
+  time_start: "08:45"
   time_end: "09:15"
   platforms:
 - name: Opening Remarks
@@ -73,7 +73,7 @@
 
 - name: Breakfast
   date: 20240510
-  time_start: "08:00"
+  time_start: "08:45"
   time_end: "09:15"
   platforms:
 - name: Opening Remarks
