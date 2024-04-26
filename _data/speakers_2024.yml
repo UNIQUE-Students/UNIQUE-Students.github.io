@@ -148,6 +148,7 @@ With his extensive expertise and contributions, Frédéric continues to advance 
   abstract: ""
   sessions:
   - "202405091430workshop"
+  - "202405101430panel"
 - fullname: Toky Raharison Ralambomihanta
   pronouns: ""
   affiliations: []
@@ -198,16 +199,16 @@ With his extensive expertise and contributions, Frédéric continues to advance 
   - "202405091430workshop"
 
 # May 10th - Session 3
-- fullname: "Sébastien Tremblay"
+- fullname: Sébastien Tremblay
   pronouns: "he/him"
   affiliations: [Université Laval]
   nametitle: "Ph.D."
-  bio: "Le Dr Sébastien Tremblay a complété sa maîtrise en psychologie à l'Université de Montréal et son doctorat en neurosciences à l'Université McGill. Il a ensuite obtenu une première bourse de recherche à l'Institut neurologique de Montréal et une deuxième à la Perelman School of Medicine de l'Université de Pennsylvanie. Il se passionne pour la combinaison de la psychologie, de l'ingénierie et de la neurochirurgie pour la compréhension du cerveau et le développement de nouveaux outils pour traiter les patients souffrant de troubles mentaux.
+  bio: "Dr. Sébastien Tremblay a complété sa maîtrise en psychologie à l'Université de Montréal et son doctorat en neurosciences à l'Université McGill. Il a ensuite obtenu une première bourse de recherche à l'Institut neurologique de Montréal et une deuxième à la Perelman School of Medicine de l'Université de Pennsylvanie. Il se passionne pour la combinaison de la psychologie, de l'ingénierie et de la neurochirurgie pour la compréhension du cerveau et le développement de nouveaux outils pour traiter les patients souffrant de troubles mentaux.
 <br/> ---- <br/>
 Dr. Sébastien Tremblay completed his Masters studies in psychology at Université de Montréal and his Ph.D. in neuroscience at McGill University. He went on to pursue a first fellowship at the Montreal Neurological Institute and a second one at the Perelman School of Medicine at the University of Pennsylvania. He is passionate about combining psychology, engineering, and neurosurgery to further the understanding of the brain and develop new tools to treat patients with mental disorders."
   position: "Assistant Professor"
   photo: sebastien_tremblay.png
-  alttext: "Sébastien Tremblay"
+  alttext: Sébastien Tremblay
   title: "AI in Medical Neuroscience"
   abstract: ""
   sessions:
@@ -220,6 +221,18 @@ Dr. Sébastien Tremblay completed his Masters studies in psychology at Universit
   position: ""
   photo: "none"
   alttext: Anwesha Bhattacharya
+  title: "AI in Medical Neuroscience"
+  abstract: ""
+  sessions:
+  - "202405100930"
+- fullname: Nima Fathi
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: "none"
+  alttext: Nima Fathi
   title: "AI in Medical Neuroscience"
   abstract: ""
   sessions:
@@ -264,7 +277,7 @@ Dr. Sébastien Tremblay completed his Masters studies in psychology at Universit
   - "202405101100panel"
 
 # May 10th - Session 4
-- fullname: "Catherine Duclos"
+- fullname: Catherine Duclos
   pronouns: "she/her"
   affiliations: [Université de Montréal]
   nametitle: "Ph.D."
@@ -273,32 +286,58 @@ Dr. Sébastien Tremblay completed his Masters studies in psychology at Universit
 Catherine Duclos’ research aims to elucidate the functional mechanisms of consciousness, and how neural oscillations and networks can be modulated to improve health outcomes. She records brain activity in altered states of consciousness (coma, disorders of consciousness, sleep, lucid dreaming, and anesthesia) using high-density electroencephalography combined with advanced computational tools directly in surgical and critical care units. Duclos uses anesthesia and other techniques to perturb the brain and alter consciousness in order to predict recovery potential and optimize recovery trajectories. Her program will ultimately lead to the development of novel tools that improve our understanding and modulation of consciousness."
   position: "Assistant Professor"
   photo: catherine_duclos.jpg
-  alttext: "Catherine Duclos"
+  alttext: Catherine Duclos
   title: "Consciousness in Brains and Machines"
   abstract: ""
   sessions:
   - "202405101300"
-- fullname: "Charlotte Maschke"
+- fullname: Charlotte Maschke
+  pronouns: ""
+  affiliations: ["McGill University"]
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: "none"
+  alttext: Charlotte Maschke
+  title: "Consciousness in Brains and Machines"
+  abstract: ""
+  sessions:
+  - "202405101300"
+- fullname: Kira Dolhan
+  pronouns: ""
+  affiliations: ["McGill University"]
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: "none"
+  alttext: Kira Dolhan
+  title: "Consciousness in Brains and Machines"
+  abstract: ""
+  sessions:
+  - "202405101300"
+
+# May 10th - Panel Discussion (Industry – Academia)
+- fullname: Nathalie Sanon
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: 
+  position: ""
+  photo: "none"
+  alttext: Nathalie Sanon
+  title: ""
+  abstract: ""
+  sessions:
+  - "202405101430panel"
+- fullname: Adel Abdeladim
   pronouns: ""
   affiliations: []
   nametitle: ""
   bio: ""
   position: ""
   photo: "none"
-  alttext: "Charlotte Maschke"
-  title: "Consciousness in Brains and Machines"
+  alttext: Adel Abdeladim
+  title: ""
   abstract: ""
   sessions:
-  - "202405101300"
-# - fullname: ""
-#   pronouns: ""
-#   affiliations: []
-#   nametitle: ""
-#   bio: ""
-#   position: ""
-#   photo: "none"
-#   alttext: ""
-#   title: "Consciousness in Brains and Machines"
-#   abstract: ""
-#   sessions:
-#   - "202405101300"
+  - "202405101430panel"
