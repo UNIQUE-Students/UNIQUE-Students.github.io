@@ -78,10 +78,10 @@
   - "202405091300"
 - fullname: Colin Bredenberg
   pronouns: ""
-  affiliations: []
-  nametitle: ""
+  affiliations: [Mila - Quebec AI Institute, Université de Montréal]
+  nametitle: "Ph.D."
   bio: ""
-  position: ""
+  position: "Post-doctoral fellow"
   photo: "none"
   alttext: Colin Bredenberg
   title: "Brain's Complexity"
@@ -105,12 +105,18 @@
 # May 9th - Workshop 1
 
 - fullname: Frédéric Simard
-  pronouns: ""
-  affiliations: []
-  nametitle: ""
-  bio: 
-  position: ""
-  photo: "none"
+  pronouns: "he/him"
+  affiliations: [RE-AK Technologies]
+  nametitle: "Ph.D."
+  bio: "Avec 15 ans d'expérience, Frédéric s'est imposé comme un pionnier de la mesure de l'expérience des participants à l'aide de la biométrie. En tant que PDG de RE-AK Technologies, il a développé l'innovant Nucleus-Hermès, la première lunette biométrique multimodale. Ce système révolutionnaire permet d'évaluer les états émotionnels et cognitifs des individus à l'échelle urbaine, offrant ainsi une nouvelle perspective sur l'expérience humaine.
+Frédéric est également l'auteur de Mindscape-Émotions, un ebook qui mêle marketing expérientiel, analyse urbaine et analyse du divertissement. Cet ouvrage met en lumière les techniques employées par des créateurs expérimentés pour créer des paysages émotionnels uniques, offrant une perspective précieuse de l'art qui se cache derrière les productions expérientielles.
+Grâce à son expertise et à ses contributions, Frédéric continue à faire progresser le domaine de la mesure de l'expérience humaine, en approfondissant notre compréhension et en enrichissant le paysage de notre esprit.
+<br/> ---- <br/>
+With 15 years of experience, Frédéric has established himself as a pioneer in participant experience measurement using biometrics. As the CEO of RE-AK Technologies, he has developed the innovative Nucleus-Hermès, the first multimodal biometric glasses. This groundbreaking system enables the assessment of emotional and cognitive states of individuals at the urban scale, offering a fresh perspective on human experience.
+Frédéric is also the author of Mindscape-Émotions, an ebook that mixes experiential marketing, urban and entertainment analytics. This work sheds light on the techniques employed by experienced creators to craft unique emotional landscapes, providing valuable insights into the artistry behind experiential productions.
+With his extensive expertise and contributions, Frédéric continues to advance the field of human experience measurement, deepening our understanding and enriching the landscape of our mind."
+  position: "CEO"
+  photo: frederic_simard.jpg
   alttext: Frédéric Simard
   title: "Neurotechnology and AI"
   abstract: ""
@@ -129,12 +135,14 @@
   sessions:
   - "202405091430workshop"
 - fullname: Marc-Antoine Moinnereau
-  pronouns: ""
-  affiliations: []
-  nametitle: ""
-  bio: 
-  position: ""
-  photo: "none"
+  pronouns: "he/him"
+  affiliations: [KAPTICS]
+  nametitle: Ph.D.
+  bio: "Avec plus de 10 ans d'expérience dans le traitement des signaux physiologiques, Marc-Antoine a développé une expertise dans les domaines de l'interface cerveau-ordinateur, de l'intelligence artificielle et de la réalité virtuelle. Ses travaux portent sur le développement de nouveaux processus d'évaluation de l'expérience utilisateur dans des environnements virtuels immersifs.
+  <br/>----<br/>
+  With over 10 years of experience in physiological signal processing, Marc-Antoine has developed expertise in the areas of brain-computer interface, artificial intelligence, and virtual reality. His work focuses on developing new processes for evaluating the user experience in immersive virtual environments."
+  position: CEO
+  photo: marc-antoine.png
   alttext: Marc-Antoine Moinnereau
   title: "Neurotechnology and AI"
   abstract: ""
@@ -190,18 +198,20 @@
   - "202405091430workshop"
 
 # May 10th - Session 3
-# - fullname: ""
-#   pronouns: ""
-#   affiliations: []
-#   nametitle: ""
-#   bio: ""
-#   position: ""
-#   photo: "none"
-#   alttext: ""
-#   title: "AI in Medical Neuroscience"
-#   abstract: ""
-#   sessions:
-#   - "202405100930"
+- fullname: "Sébastien Tremblay"
+  pronouns: "he/him"
+  affiliations: [Université Laval]
+  nametitle: "Ph.D."
+  bio: "Le Dr Sébastien Tremblay a complété sa maîtrise en psychologie à l'Université de Montréal et son doctorat en neurosciences à l'Université McGill. Il a ensuite obtenu une première bourse de recherche à l'Institut neurologique de Montréal et une deuxième à la Perelman School of Medicine de l'Université de Pennsylvanie. Il se passionne pour la combinaison de la psychologie, de l'ingénierie et de la neurochirurgie pour la compréhension du cerveau et le développement de nouveaux outils pour traiter les patients souffrant de troubles mentaux.
+<br/> ---- <br/>
+Dr. Sébastien Tremblay completed his Masters studies in psychology at Université de Montréal and his Ph.D. in neuroscience at McGill University. He went on to pursue a first fellowship at the Montreal Neurological Institute and a second one at the Perelman School of Medicine at the University of Pennsylvania. He is passionate about combining psychology, engineering, and neurosurgery to further the understanding of the brain and develop new tools to treat patients with mental disorders."
+  position: "Assistant Professor"
+  photo: sebastien_tremblay.png
+  alttext: "Sébastien Tremblay"
+  title: "AI in Medical Neuroscience"
+  abstract: ""
+  sessions:
+  - "202405100930"
 - fullname: Anwesha Bhattacharya
   pronouns: ""
   affiliations: []
@@ -214,18 +224,6 @@
   abstract: ""
   sessions:
   - "202405100930"
-# - fullname: ""
-#   pronouns: ""
-#   affiliations: []
-#   nametitle: ""
-#   bio: ""
-#   position: ""
-#   photo: "none"
-#   alttext: ""
-#   title: "AI in Medical Neuroscience"
-#   abstract: ""
-#   sessions:
-#   - "202405100930"
 
 # May 10th - Interactive Panel Discussion
 - fullname: William Leclerc
@@ -244,7 +242,7 @@
   pronouns: ""
   affiliations: []
   nametitle: ""
-  bio: 
+  bio: ""
   position: ""
   photo: "none"
   alttext: Julia Obergasteiger
@@ -252,15 +250,29 @@
   abstract: ""
   sessions:
   - "202405101100panel"
+- fullname: Michelle Wang
+  pronouns: "she/her"
+  affiliations: [McGill University]
+  nametitle: "Ms."
+  bio: ""
+  position: "Ph.D candidate in Quantitative Life Sciences"
+  photo: michelle_wang.png
+  alttext: Michelle Wang
+  title: "Interactive Panel Discussion"
+  abstract: ""
+  sessions:
+  - "202405101100panel"
 
 # May 10th - Session 4
 - fullname: "Catherine Duclos"
-  pronouns: ""
-  affiliations: []
-  nametitle: ""
-  bio: ""
-  position: ""
-  photo: "none"
+  pronouns: "she/her"
+  affiliations: [Université de Montréal]
+  nametitle: "Ph.D."
+  bio: "Les recherches de Catherine Duclos visent à élucider les mécanismes fonctionnels de la conscience et la façon dont les oscillations et les réseaux neuronaux peuvent être modulés pour améliorer les résultats en matière de santé. Elle enregistre l'activité cérébrale dans des états de conscience altérés (coma, troubles de la conscience, sommeil, rêve lucide et anesthésie) en utilisant l'électroencéphalographie à haute densité combinée à des outils informatiques avancés directement dans les unités de chirurgie et de soins intensifs. Mme Duclos utilise l'anesthésie et d'autres techniques pour perturber le cerveau et altérer la conscience afin de prédire le potentiel de récupération et d'optimiser les trajectoires de récupération. Son programme conduira à terme au développement de nouveaux outils qui amélioreront notre compréhension et la modulation de la conscience.
+<br/> ---- <br/>
+Catherine Duclos’ research aims to elucidate the functional mechanisms of consciousness, and how neural oscillations and networks can be modulated to improve health outcomes. She records brain activity in altered states of consciousness (coma, disorders of consciousness, sleep, lucid dreaming, and anesthesia) using high-density electroencephalography combined with advanced computational tools directly in surgical and critical care units. Duclos uses anesthesia and other techniques to perturb the brain and alter consciousness in order to predict recovery potential and optimize recovery trajectories. Her program will ultimately lead to the development of novel tools that improve our understanding and modulation of consciousness."
+  position: "Assistant Professor"
+  photo: catherine_duclos.jpg
   alttext: "Catherine Duclos"
   title: "Consciousness in Brains and Machines"
   abstract: ""
