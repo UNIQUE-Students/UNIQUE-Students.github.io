@@ -9,7 +9,7 @@
   twitter: none
   website: https://sites.google.com/view/sungjaecho
 - affiliation: "McGill University"
-  bio: "I am a master's student in neuroscience at McGill University and I study the brain networks of unresponsive patients in the intensive care unit diagnosed with a coma or disorder of consciousness. By studying how their brain's react to general anesthesia, my goal is to identify network properties which can help improve patient diagnoses and prognostication."
+  bio: "I am a master's student in neuroscience at McGill University and I study the brain networks of unresponsive patients in the intensive care unit diagnosed with a coma or disorder of consciousness. By studying how their brain's react to general anesthesia, my goal is to identify network properties which can help improve patient diagnoses and prognostication. In addition to my research with brain-injured patients, I am also interested in studying the sentience and intelligence of non-human animals, such as invertebrates."
   committee: Communication
   email: kira.dolhan@mail.mcgill.ca
   fullname: Kira Dolhan
@@ -38,16 +38,16 @@
   pronouns: he/him
   twitter: none
   website: https://github.com/anirudhgj
-- affiliation: "Centre de recherche CERVO, Université Laval"
-  bio: "I am currently pursuing a Master's in Neuroscience at Université Laval. While my background is primarily in neurobiology, I am very enthusiastic about exploring artificial intelligence applications in neurophysiology. Specifically, my main focus is on building models to precisely correlate in vivo calcium dynamics with electrophysiological signals from neurons."
-  committee: Communication
-  email: philippe.leonard-dufour.1@ulaval.ca
-  fullname: Philippe Léonard-Dufour
-  photo: philippe_leonard-dufour.jpg
-  alttext: none
-  pronouns: he/him
-  twitter: none
-  website: none
+# - affiliation: "Centre de recherche CERVO, Université Laval"
+#   bio: "I am currently pursuing a Master's in Neuroscience at Université Laval. While my background is primarily in neurobiology, I am very enthusiastic about exploring artificial intelligence applications in neurophysiology. Specifically, my main focus is on building models to precisely correlate in vivo calcium dynamics with electrophysiological signals from neurons."
+#   committee: Communication
+#   email: philippe.leonard-dufour.1@ulaval.ca
+#   fullname: Philippe Léonard-Dufour
+#   photo: philippe_leonard-dufour.jpg
+#   alttext: none
+#   pronouns: he/him
+#   twitter: none
+#   website: none
 - affiliation: "Centre de recherche CERVO, Université Laval"
   bio: "Hello, I am Julia! I am doing a PhD in Paul De Koninck and Flavie Lavoie-Cardinal Labs, mostly working on actin cytoskeleton using super-resolution microscopy. From a complete neuroscience background, I now collaborate with students in machine learning that developed innovative methods to analyze images. Beyond science, I really enjoy helping to organize events. I actively engage with associations to organize student-friendly events, fostering both community building and professional development opportunities. I'm looking forward to the USS 2024 conference and the enriching experiences it promises to offer!"
   committee: Logistics
@@ -59,33 +59,33 @@
   twitter: none
   website: https://www.linkedin.com/in/julia-chabbert-a823761a7/
 - affiliation: "Université Laval"
-  bio: ""
+  bio: "I'm a PhD student co-supervised by Christian Gagné and Flavie Lavoie-Cardinal, both members of UNIQUE. After a bachelor's degree in engineering physics, I'm pursuing my studies in the field of machine learning to extend my knowledge to new methods applied to subjects I was already passionate about, such as photonics and life science. My project focuses specifically on the application of deep neural networks for enhancing and assisting the acquisition of Fluorescence Nanoscopy images."
   committee: Logistics
-  email: none
+  email: catherine.bouchard.22@ulaval.ca
   fullname: Catherine Bouchard
-  photo: none
-  alttext: none
-  pronouns: ""
+  photo: catherine_bouchard.png
+  alttext: Catherine Bouchard
+  pronouns: "she/her"
   twitter: none
   website: none
 - affiliation: "Université Laval"
-  bio: ""
+  bio: "Mon projet de doctorat consiste à construire un microscope de super-résolution qui sera en mesure de s'adapter à l'échantillon en utilisant l'apprentissage par renforcement. Pendant ma maîtrise, j'ai développé des techniques d'apprentissage faiblement supervisées pour faciliter l'analyse d'images de microscopie."
   committee: Logistics
-  email: none
+  email: anthony.bilodeau.1@ulaval.ca
   fullname: Anthony Bilodeau
-  photo: none
-  alttext: none
+  photo: anthony_bilodeau.jpg
+  alttext: Anthony Bilodeau
   pronouns: ""
   twitter: none
   website: none
 - affiliation: "Université de Montréal"
-  bio: ""
+  bio: "I am a PhD student in Psychology at Université de Montréal under the guidance of Prof. Shahab Bakhtiari. My research is at intersection of artificial intelligence and neuroscience, particularly focusing on modelling the visual system. I use artificial neural networks trained with self-supervised learning to simulate and understand the complexities of the visual system."
   committee: Program
-  email: none
+  email: cornelius.crijnen@umontreal.ca
   fullname: Cornelius Crijnen
-  photo: none
-  alttext: none
-  pronouns: ""
+  photo: cornelius_crijnen.jpeg
+  alttext: Cornelius Crijnen
+  pronouns: "he/him/they"
   twitter: none
   website: none
 - affiliation: "Université de Montréal"
@@ -99,12 +99,12 @@
   twitter: none
   website: none
 - affiliation: "Université Laval"
-  bio: ""
+  bio: "Owen Ferguson is a PhD student in the labs of Flavie Lavoie-Cardinal and Martin Lévesque at the CERVO brain research center in Québec. He is using super-resolution microscopy tools to uncover the process of mitochondrial dysfunction in Parkinson's Disease."
   committee: Education
-  email: none
+  email: owenferguson.of@gmail.com
   fullname: Owen Ferguson
-  photo: none
-  alttext: none
-  pronouns: ""
+  photo: owen_ferguson.png
+  alttext: Owen Ferguson
+  pronouns: "he/him"
   twitter: none
   website: none
