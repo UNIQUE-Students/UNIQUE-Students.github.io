@@ -1,7 +1,9 @@
 # May 9th - Session 1
 - fullname: Flavie Lavoie-Cardinal
   pronouns: "she/her"
-  affiliations: [CERVO Brain Research Center, Université Laval]
+  affiliations: 
+  - CERVO Brain Research Center
+  - Université Laval
   nametitle: Ph.D.
   bio: ""
   position: Associate Professor
@@ -13,10 +15,11 @@
   - "202405090930"
 - fullname: Antoine Légaré
   pronouns: "he/him"
-  affiliations: [CERVO Brain Research Centre, Université Laval]
+  affiliations:
+  - CERVO Brain Research Centre
+  - Université Laval
   nametitle: Mr.
-  bio: "Antoine is a PhD candidate in biophotonics at the CERVO Brain Research Centre, Université Laval, where he works in the labs of Paul De Koninck and Patrick Desrosiers. He holds a bachelor's degree in physics, where he developed a keen interest in dynamical systems, neuroscience, and biophotonics. During his master’s, Antoine developed a whole-brain imaging system for zebrafish larvae to investigate the structure-function relationship of brain networks and address questions inspired by human neuroimaging. Currently, his PhD research focuses on mapping the trajectories of zebrafish functional brain networks throughout normal neurodevelopment, and understanding how these networks are altered by genetic and environmental perturbations.
-"
+  bio: "Antoine is a PhD candidate in biophotonics at the CERVO Brain Research Centre, Université Laval, where he works in the labs of Paul De Koninck and Patrick Desrosiers. He holds a bachelor's degree in physics, where he developed a keen interest in dynamical systems, neuroscience, and biophotonics. During his master’s, Antoine developed a whole-brain imaging system for zebrafish larvae to investigate the structure-function relationship of brain networks and address questions inspired by human neuroimaging. Currently, his PhD research focuses on mapping the trajectories of zebrafish functional brain networks throughout normal neurodevelopment, and understanding how these networks are altered by genetic and environmental perturbations."
   position: Ph.D. Candidate
   photo: antoine_legare.png
   alttext: Antoine Légaré
@@ -26,11 +29,10 @@
   - "202405090930"
 - fullname: Catherine Bouchard
   pronouns: "she/her"
-  affiliations: [Université Laval]
+  affiliations:
+  - Université Laval
   nametitle: Ms.
-  bio: "I'm a PhD student co-supervised by Christian Gagné and Flavie Lavoie-Cardinal, both members of UNIQUE. After a bachelor's degree in engineering physics, I'm pursuing my studies in the field of machine learning to extend my knowledge to new methods applied to subjects I was already passionate about, such as photonics and life science. My project focuses specifically on the application of deep neural networks for enhancing and assisting the acquisition of Fluorescence Nanoscopy images.
-<br>----<br>
-Je suis une étudiante au doctorat sous la supervision de Christian Gagné et Flavie Lavoie-Cardinal, tous deux membres d'UNIQUE. Après un baccalauréat en génie physique, je poursuis mes études dans le domaine de l'apprentissage automatique afin d'étendre mes connaissances à de nouvelles méthodes appliquées à des sujets qui me passionnaient déjà, tels que la photonique et les sciences de la vie. Mon projet se concentre spécifiquement sur l'application des réseaux neuronaux profonds pour améliorer et assister l'acquisition d'images de nanoscopie par fluorescence."
+  bio: "I'm a PhD student co-supervised by Christian Gagné and Flavie Lavoie-Cardinal, both members of UNIQUE. After a bachelor's degree in engineering physics, I'm pursuing my studies in the field of machine learning to extend my knowledge to new methods applied to subjects I was already passionate about, such as photonics and life science. My project focuses specifically on the application of deep neural networks for enhancing and assisting the acquisition of Fluorescence Nanoscopy images.<br>----<br>Je suis une étudiante au doctorat sous la supervision de Christian Gagné et Flavie Lavoie-Cardinal, tous deux membres d'UNIQUE. Après un baccalauréat en génie physique, je poursuis mes études dans le domaine de l'apprentissage automatique afin d'étendre mes connaissances à de nouvelles méthodes appliquées à des sujets qui me passionnaient déjà, tels que la photonique et les sciences de la vie. Mon projet se concentre spécifiquement sur l'application des réseaux neuronaux profonds pour améliorer et assister l'acquisition d'images de nanoscopie par fluorescence."
   position: Ph.D. Candidate
   photo: catherine_bouchard.png
   alttext: Catherine Bouchard
@@ -43,7 +45,9 @@ Je suis une étudiante au doctorat sous la supervision de Christian Gagné et Fl
 # - Colin (see below)
 - fullname: Nazanin Mohammadi
   pronouns: "she/her"
-  affiliations: [Mila - Quebec AI Institute, McGill University]
+  affiliations:
+  - Mila - Quebec AI Institute
+  - McGill University
   nametitle: Ms.
   bio: "I am a PhD student at McGill/Mila under the supervision of Professors Doina Precup and James Clark. My research focuses broadly on understanding deep learning methods, with specific interests in machine unlearning, knowledge distillation, transfer learning, and ethics"
   position: Ph.D Candidate
@@ -55,19 +59,11 @@ Je suis une étudiante au doctorat sous la supervision de Christian Gagné et Fl
   - "202405091100panel"
 - fullname: Dane Malenfant
   pronouns: "he/him"
-  affiliations: [Mila - Quebec AI Institute, McGill University]
+  affiliations:
+  - Mila - Quebec AI Institute
+  - McGill University
   nametitle: Mr.
-  bio: "Dane Malenfant is a current MSc. Computer Science student at Mila and McGill University under the supervision of Dr. Blake Richards in the Learning in Neural Circuits (LiNC) Lab. He is also a citizen of Métis Nation Saskatchewan, his home province .
-
-Prior to joining the lab, he obtained a B.A in Computer Science from McGill and before that, a certificate in French from the University of Regina. Dane also worked as a program coordinator designing and managing research programs for other Indigenous students.
-
-His current research involves multi-agent reinforcement learning, long-term credit assignment and Indigenous-AI with the belief that non-Occidental scientific perspectives can lead to novel intriguing problems but possibly solutions to tasks biological systems seemingly solve effortlessly.
-<br>----<br>
-Dane Malenfant est actuellement étudiant à la maîtrise en informatique à Mila et à l'Université McGill sous la supervision du Dr. Blake Richards dans le laboratoire Learning in Neural Circuits (LiNC). Il est également citoyen de la Métis Nation Saskatchewan, sa province d'origine.
-
-Avant de rejoindre le laboratoire, il a obtenu une licence en informatique à McGill et, auparavant, un certificat en français à l'université de Regina. Dane a également travaillé comme coordinateur de programme en concevant et en gérant des programmes de recherche pour d'autres étudiants autochtones.
-
-Ses recherches actuelles portent sur l'apprentissage par renforcement multi-agents, l'attribution de crédits à long terme et l'IA autochtone, avec la conviction que les perspectives scientifiques non Occidentales peuvent conduire à de nouveaux problèmes intrigants, voire à des solutions à des tâches que les systèmes biologiques semblent résoudre sans effort."
+  bio: "Dane Malenfant is a current MSc. Computer Science student at Mila and McGill University under the supervision of Dr. Blake Richards in the Learning in Neural Circuits (LiNC) Lab. He is also a citizen of Métis Nation Saskatchewan, his home province. Prior to joining the lab, he obtained a B.A in Computer Science from McGill and before that, a certificate in French from the University of Regina. Dane also worked as a program coordinator designing and managing research programs for other Indigenous students. His current research involves multi-agent reinforcement learning, long-term credit assignment and Indigenous-AI with the belief that non-Occidental scientific perspectives can lead to novel intriguing problems but possibly solutions to tasks biological systems seemingly solve effortlessly.<br>----<br>Dane Malenfant est actuellement étudiant à la maîtrise en informatique à Mila et à l'Université McGill sous la supervision du Dr. Blake Richards dans le laboratoire Learning in Neural Circuits (LiNC). Il est également citoyen de la Métis Nation Saskatchewan, sa province d'origine. Avant de rejoindre le laboratoire, il a obtenu une licence en informatique à McGill et, auparavant, un certificat en français à l'université de Regina. Dane a également travaillé comme coordinateur de programme en concevant et en gérant des programmes de recherche pour d'autres étudiants autochtones. Ses recherches actuelles portent sur l'apprentissage par renforcement multi-agents, l'attribution de crédits à long terme et l'IA autochtone, avec la conviction que les perspectives scientifiques non Occidentales peuvent conduire à de nouveaux problèmes intrigants, voire à des solutions à des tâches que les systèmes biologiques semblent résoudre sans effort."
   position: "Master's Student at McGill University"
   photo: dane_malenfant.png
   alttext: Dane Malenfant
@@ -91,15 +87,11 @@ Ses recherches actuelles portent sur l'apprentissage par renforcement multi-agen
 # May 9th - Session 2
 - fullname: Patrick Desrosiers
   pronouns: "he/him"
-  affiliations: [CERVO Brain Research Center, Université Laval]
+  affiliations:
+  - CERVO Brain Research Center
+  - Université Laval
   nametitle: Ph.D.
-  bio: "Patrick Desrosiers received his PhD in Physics from Université Laval, Canada, in 2004. From 2005 to 2008, he was a Postdoctoral Fellow in Mathematics at Melbourne University, Australia, and subsequently in Mathematical Physics at CEA-Saclay, France. In 2009, he became an Associate Professor of Mathematics at the Universidad de Talca, Chile, before joining the CERVO Brain Research Center in 2014. He is the co-director of Dynamica, a multidisciplinary research group at Université Laval specializing in the study of complex systems.
-<br>
-Over the last 20 years, his research has primarily focused on understanding the relationship between structure and dynamics in various complex systems, ranging from heavy nuclei to networks of living neurons, and including abstract nonlinear dynamics. This pursuit has led him to develop unique expertise that combines mathematical and computational tools from diverse fields, such as nonlinear dynamics, graph theory, spectral analysis, stochastic processes, random matrices, and information theory. Such a diversified background enables him to tackle a wide range of scientific problems. The long-term goal of his research program is to develop novel theoretical and computational methods that will assist neuroscientists in deciphering the intricate relationship between the structure and function of nervous systems at different levels: cell, population, and system. His research projects include reducing the dimensionality of large neuronal networks and predicting their resilience to perturbations.
-<br>----<br>
-Patrick Desrosiers a obtenu son doctorat en physique à l'Université Laval, Canada, en 2004. De 2005 à 2008, il a été chercheur postdoctoral en mathématiques à l'université de Melbourne, en Australie, puis en physique mathématique au CEA-Saclay, en France. En 2009, il est devenu professeur associé de mathématiques à l'Université de Talca, au Chili, avant de rejoindre le Centre de recherche sur le cerveau du CERVO en 2014. Il est codirecteur de Dynamica, un groupe de recherche multidisciplinaire de l'Université Laval spécialisé dans l'étude des systèmes complexes.
-<br>
-Au cours des 20 dernières années, ses recherches se sont principalement concentrées sur la compréhension de la relation entre la structure et la dynamique de divers systèmes complexes, allant des noyaux lourds aux réseaux de neurones vivants, en passant par les dynamiques non-linéaires abstraites. Cette recherche l'a amené à développer une expertise unique qui combine des outils mathématiques et informatiques provenant de divers domaines, tels que la dynamique non-linéaire, la théorie des graphes, l'analyse spectrale, les processus stochastiques, les matrices aléatoires et la théorie de l'information. Cette expérience diversifiée lui permet de s'attaquer à un large éventail de problèmes scientifiques. L'objectif à long terme de son programme de recherche est de développer de nouvelles méthodes théoriques et informatiques qui aideront les neuroscientifiques à déchiffrer la relation complexe entre la structure et la fonction des systèmes nerveux à différents niveaux : cellule, population et système. Ses projets de recherche comprennent la réduction de la dimensionnalité des grands réseaux neuronaux et la prédiction de leur résistance aux perturbations."
+  bio: "Patrick Desrosiers received his PhD in Physics from Université Laval, Canada, in 2004. From 2005 to 2008, he was a Postdoctoral Fellow in Mathematics at Melbourne University, Australia, and subsequently in Mathematical Physics at CEA-Saclay, France. In 2009, he became an Associate Professor of Mathematics at the Universidad de Talca, Chile, before joining the CERVO Brain Research Center in 2014. He is the co-director of Dynamica, a multidisciplinary research group at Université Laval specializing in the study of complex systems.<br>Over the last 20 years, his research has primarily focused on understanding the relationship between structure and dynamics in various complex systems, ranging from heavy nuclei to networks of living neurons, and including abstract nonlinear dynamics. This pursuit has led him to develop unique expertise that combines mathematical and computational tools from diverse fields, such as nonlinear dynamics, graph theory, spectral analysis, stochastic processes, random matrices, and information theory. Such a diversified background enables him to tackle a wide range of scientific problems. The long-term goal of his research program is to develop novel theoretical and computational methods that will assist neuroscientists in deciphering the intricate relationship between the structure and function of nervous systems at different levels: cell, population, and system. His research projects include reducing the dimensionality of large neuronal networks and predicting their resilience to perturbations.<br>----<br>Patrick Desrosiers a obtenu son doctorat en physique à l'Université Laval, Canada, en 2004. De 2005 à 2008, il a été chercheur postdoctoral en mathématiques à l'université de Melbourne, en Australie, puis en physique mathématique au CEA-Saclay, en France. En 2009, il est devenu professeur associé de mathématiques à l'Université de Talca, au Chili, avant de rejoindre le Centre de recherche sur le cerveau du CERVO en 2014. Il est codirecteur de Dynamica, un groupe de recherche multidisciplinaire de l'Université Laval spécialisé dans l'étude des systèmes complexes.<br>Au cours des 20 dernières années, ses recherches se sont principalement concentrées sur la compréhension de la relation entre la structure et la dynamique de divers systèmes complexes, allant des noyaux lourds aux réseaux de neurones vivants, en passant par les dynamiques non-linéaires abstraites. Cette recherche l'a amené à développer une expertise unique qui combine des outils mathématiques et informatiques provenant de divers domaines, tels que la dynamique non-linéaire, la théorie des graphes, l'analyse spectrale, les processus stochastiques, les matrices aléatoires et la théorie de l'information. Cette expérience diversifiée lui permet de s'attaquer à un large éventail de problèmes scientifiques. L'objectif à long terme de son programme de recherche est de développer de nouvelles méthodes théoriques et informatiques qui aideront les neuroscientifiques à déchiffrer la relation complexe entre la structure et la fonction des systèmes nerveux à différents niveaux : cellule, population et système. Ses projets de recherche comprennent la réduction de la dimensionnalité des grands réseaux neuronaux et la prédiction de leur résistance aux perturbations."
   position: Associate Professor
   photo: patrick_desrosiers.jpg
   alttext: Patrick Desrosiers
@@ -109,13 +101,13 @@ Au cours des 20 dernières années, ses recherches se sont principalement concen
   - "202405091300"
 - fullname: Colin Bredenberg
   pronouns: "he/him"
-  affiliations: [Mila - Quebec AI Institute, Université de Montréal]
+  affiliations:
+  - Mila - Quebec AI Institute
+  - Université de Montréal
   nametitle: Ph.D.
-  bio: "I'm a postdoc at the University of Montreal and Mila, co-supervised by Profs. Blake Richards and Guillaume Lajoie. I completed my PhD at New York University under Profs. Eero Simoncelli and Cristina Savin studying computational theories of synaptic plasticity in the brain. Currently, I'm applying what I learned in my PhD to investigate how the brain learns to improve performance with brain computer interfaces (BCIs) over time; I'm also studying how psychedelic drugs can affect systems for learning and plasticity in the brain.
-<br>----<br>
-Je suis postdoc à l'Université de Montréal et à Mila, sous la supervision des Professeurs Blake Richards et Guillaume Lajoie. J'ai terminé mon doctorat à l'Université de New York sous la direction des Professeurs Eero Simoncelli et Cristina Savin. J'ai étudié les théories informatiques de la plasticité synaptique dans le cerveau. Actuellement, j'applique ce que j'ai appris pendant mon doctorat pour étudier comment le cerveau apprend à améliorer ses performances avec des interfaces cerveau-ordinateur (BCI) au fil du temps ; j'étudie également comment les drogues psychédéliques peuvent affecter les systèmes d'apprentissage et de plasticité dans le cerveau."
+  bio: "I'm a postdoc at the University of Montreal and Mila, co-supervised by Profs. Blake Richards and Guillaume Lajoie. I completed my PhD at New York University under Profs. Eero Simoncelli and Cristina Savin studying computational theories of synaptic plasticity in the brain. Currently, I'm applying what I learned in my PhD to investigate how the brain learns to improve performance with brain computer interfaces (BCIs) over time; I'm also studying how psychedelic drugs can affect systems for learning and plasticity in the brain.<br>----<br>Je suis postdoc à l'Université de Montréal et à Mila, sous la supervision des Professeurs Blake Richards et Guillaume Lajoie. J'ai terminé mon doctorat à l'Université de New York sous la direction des Professeurs Eero Simoncelli et Cristina Savin. J'ai étudié les théories informatiques de la plasticité synaptique dans le cerveau. Actuellement, j'applique ce que j'ai appris pendant mon doctorat pour étudier comment le cerveau apprend à améliorer ses performances avec des interfaces cerveau-ordinateur (BCI) au fil du temps ; j'étudie également comment les drogues psychédéliques peuvent affecter les systèmes d'apprentissage et de plasticité dans le cerveau."
   position: Post-doctoral fellow
-  photo: colin_brendenberg.jpg
+  photo: colin_bredenberg.jpg
   alttext: Colin Bredenberg
   title: "Brain's Complexity"
   abstract: ""
@@ -124,11 +116,10 @@ Je suis postdoc à l'Université de Montréal et à Mila, sous la supervision de
   - "202405091300"
 - fullname: "Jordan O'Byrne"
   pronouns: "he/him"
-  affiliations: [Université de Montréal]
+  affiliations:
+  - Université de Montréal
   nametitle: Mr.
-  bio: "Jordan completed his Master’s in neuroscience at Concordia University where he studied sleep oscillations and memory. Currently, he is in the final stretch of his PhD under the supervision of Karim Jerbi at the University of Montreal. His current work focuses on applying knowledge from statistical physics and complexity science to brain data in order to understand the core mechanisms governing altered states of consciousness and cognition. He also likes birds.
-<br>----<br>
-Jordan a terminé sa maîtrise en neurosciences à l'Université Concordia où il a étudié les oscillations du sommeil et la mémoire. Il est actuellement dans la dernière ligne droite de son doctorat sous la supervision de Karim Jerbi à l'Université de Montréal. Ses travaux actuels portent sur l'application des connaissances de la physique statistique et de la science de la complexité aux données cérébrales afin de comprendre les mécanismes fondamentaux qui régissent les états altérés de conscience et de cognition. Il aime aussi les oiseaux."
+  bio: "Jordan completed his Master’s in neuroscience at Concordia University where he studied sleep oscillations and memory. Currently, he is in the final stretch of his PhD under the supervision of Karim Jerbi at the University of Montreal. His current work focuses on applying knowledge from statistical physics and complexity science to brain data in order to understand the core mechanisms governing altered states of consciousness and cognition. He also likes birds.<br>----<br>Jordan a terminé sa maîtrise en neurosciences à l'Université Concordia où il a étudié les oscillations du sommeil et la mémoire. Il est actuellement dans la dernière ligne droite de son doctorat sous la supervision de Karim Jerbi à l'Université de Montréal. Ses travaux actuels portent sur l'application des connaissances de la physique statistique et de la science de la complexité aux données cérébrales afin de comprendre les mécanismes fondamentaux qui régissent les états altérés de conscience et de cognition. Il aime aussi les oiseaux."
   position: Ph.D. Candidate
   photo: jordan_o-byrne.jpg
   alttext: "Jordan O'Byrne"
@@ -141,15 +132,10 @@ Jordan a terminé sa maîtrise en neurosciences à l'Université Concordia où i
 
 - fullname: Frédéric Simard
   pronouns: "he/him"
-  affiliations: [RE-AK Technologies]
+  affiliations:
+  - RE-AK Technologies
   nametitle: Ph.D.
-  bio: "Avec 15 ans d'expérience, Frédéric s'est imposé comme un pionnier de la mesure de l'expérience des participants à l'aide de la biométrie. En tant que PDG de RE-AK Technologies, il a développé l'innovant Nucleus-Hermès, la première lunette biométrique multimodale. Ce système révolutionnaire permet d'évaluer les états émotionnels et cognitifs des individus à l'échelle urbaine, offrant ainsi une nouvelle perspective sur l'expérience humaine.
-Frédéric est également l'auteur de Mindscape-Émotions, un ebook qui mêle marketing expérientiel, analyse urbaine et analyse du divertissement. Cet ouvrage met en lumière les techniques employées par des créateurs expérimentés pour créer des paysages émotionnels uniques, offrant une perspective précieuse de l'art qui se cache derrière les productions expérientielles.
-Grâce à son expertise et à ses contributions, Frédéric continue à faire progresser le domaine de la mesure de l'expérience humaine, en approfondissant notre compréhension et en enrichissant le paysage de notre esprit.
-<br/> ---- <br/>
-With 15 years of experience, Frédéric has established himself as a pioneer in participant experience measurement using biometrics. As the CEO of RE-AK Technologies, he has developed the innovative Nucleus-Hermès, the first multimodal biometric glasses. This groundbreaking system enables the assessment of emotional and cognitive states of individuals at the urban scale, offering a fresh perspective on human experience.
-Frédéric is also the author of Mindscape-Émotions, an ebook that mixes experiential marketing, urban and entertainment analytics. This work sheds light on the techniques employed by experienced creators to craft unique emotional landscapes, providing valuable insights into the artistry behind experiential productions.
-With his extensive expertise and contributions, Frédéric continues to advance the field of human experience measurement, deepening our understanding and enriching the landscape of our mind."
+  bio: "Avec 15 ans d'expérience, Frédéric s'est imposé comme un pionnier de la mesure de l'expérience des participants à l'aide de la biométrie. En tant que PDG de RE-AK Technologies, il a développé l'innovant Nucleus-Hermès, la première lunette biométrique multimodale. Ce système révolutionnaire permet d'évaluer les états émotionnels et cognitifs des individus à l'échelle urbaine, offrant ainsi une nouvelle perspective sur l'expérience humaine. Frédéric est également l'auteur de Mindscape-Émotions, un ebook qui mêle marketing expérientiel, analyse urbaine et analyse du divertissement. Cet ouvrage met en lumière les techniques employées par des créateurs expérimentés pour créer des paysages émotionnels uniques, offrant une perspective précieuse de l'art qui se cache derrière les productions expérientielles. Grâce à son expertise et à ses contributions, Frédéric continue à faire progresser le domaine de la mesure de l'expérience humaine, en approfondissant notre compréhension et en enrichissant le paysage de notre esprit.<br/> ---- <br/>With 15 years of experience, Frédéric has established himself as a pioneer in participant experience measurement using biometrics. As the CEO of RE-AK Technologies, he has developed the innovative Nucleus-Hermès, the first multimodal biometric glasses. This groundbreaking system enables the assessment of emotional and cognitive states of individuals at the urban scale, offering a fresh perspective on human experience. Frédéric is also the author of Mindscape-Émotions, an ebook that mixes experiential marketing, urban and entertainment analytics. This work sheds light on the techniques employed by experienced creators to craft unique emotional landscapes, providing valuable insights into the artistry behind experiential productions. With his extensive expertise and contributions, Frédéric continues to advance the field of human experience measurement, deepening our understanding and enriching the landscape of our mind."
   position: CEO
   photo: frederic_simard.jpg
   alttext: Frédéric Simard
@@ -159,11 +145,10 @@ With his extensive expertise and contributions, Frédéric continues to advance 
   - "202405091430workshop"
 - fullname: Jean-Simon Boucher
   pronouns: "he/him"
-  affiliations: [Cortech Sports]
+  affiliations:
+  - Cortech Sports
   nametitle: Mr.
-  bio: "By combining my background as an electrical engineer, holding a master's degree in neuroengineering, and my experience as an artificial intelligence engineer at Distech Controls, I ventured into entrepreneurship by founding Cortech Sports. From my personal experience with a concussion to the launch of two ball hockey leagues and then Cortech Sports, my journey embodies a commitment to athlete well-being. Cortech Sports is more than just a business; it's a commitment to athlete safety, offering innovative solutions and consultancy services. The transition to entrepreneurship demands resilience, innovation, and a relentless pursuit of excellence. Despite challenges, the opportunity to positively impact athletes' lives propels Cortech Sports forward.
-<br>----<br>
-En combinant mes antécédents en tant qu'ingénieur électrique, titulaire d'un master en neuro-ingénierie, et mon expérience en tant qu'ingénieur en intelligence artificielle chez Distech Controls, j'ai fait le pas vers l'entrepreneuriat en fondant Cortech Sports. De mon expérience personnelle avec une commotion cérébrale au lancement deux ligues de hockey balle et puis de Cortech Sports, mon parcours incarne un engagement envers le bien-être des athlètes. Cortech Sports n'est pas seulement une entreprise ; c'est un engagement envers la sécurité des athlètes, offrant des solutions innovantes et des services de consultation. La transition vers l'entrepreneuriat exige de la résilience, de l'innovation et une quête incessante d'excellence. Malgré les défis, l'opportunité d'impacter positivement la vie des athlètes propulse Cortech Sports en avant."
+  bio: "By combining my background as an electrical engineer, holding a master's degree in neuroengineering, and my experience as an artificial intelligence engineer at Distech Controls, I ventured into entrepreneurship by founding Cortech Sports. From my personal experience with a concussion to the launch of two ball hockey leagues and then Cortech Sports, my journey embodies a commitment to athlete well-being. Cortech Sports is more than just a business; it's a commitment to athlete safety, offering innovative solutions and consultancy services. The transition to entrepreneurship demands resilience, innovation, and a relentless pursuit of excellence. Despite challenges, the opportunity to positively impact athletes' lives propels Cortech Sports forward.<br>----<br>En combinant mes antécédents en tant qu'ingénieur électrique, titulaire d'un master en neuro-ingénierie, et mon expérience en tant qu'ingénieur en intelligence artificielle chez Distech Controls, j'ai fait le pas vers l'entrepreneuriat en fondant Cortech Sports. De mon expérience personnelle avec une commotion cérébrale au lancement deux ligues de hockey balle et puis de Cortech Sports, mon parcours incarne un engagement envers le bien-être des athlètes. Cortech Sports n'est pas seulement une entreprise ; c'est un engagement envers la sécurité des athlètes, offrant des solutions innovantes et des services de consultation. La transition vers l'entrepreneuriat exige de la résilience, de l'innovation et une quête incessante d'excellence. Malgré les défis, l'opportunité d'impacter positivement la vie des athlètes propulse Cortech Sports en avant."
   position: CEO
   photo: jean-simon_boucher.png
   alttext: Jean-Simon Boucher
@@ -173,11 +158,10 @@ En combinant mes antécédents en tant qu'ingénieur électrique, titulaire d'un
   - "202405091430workshop"
 - fullname: Marc-Antoine Moinnereau
   pronouns: "he/him"
-  affiliations: [KAPTICS]
+  affiliations:
+  - KAPTICS
   nametitle: Ph.D.
-  bio: "Avec plus de 10 ans d'expérience dans le traitement des signaux physiologiques, Marc-Antoine a développé une expertise dans les domaines de l'interface cerveau-ordinateur, de l'intelligence artificielle et de la réalité virtuelle. Ses travaux portent sur le développement de nouveaux processus d'évaluation de l'expérience utilisateur dans des environnements virtuels immersifs.
-  <br/>----<br/>
-  With over 10 years of experience in physiological signal processing, Marc-Antoine has developed expertise in the areas of brain-computer interface, artificial intelligence, and virtual reality. His work focuses on developing new processes for evaluating the user experience in immersive virtual environments."
+  bio: "Avec plus de 10 ans d'expérience dans le traitement des signaux physiologiques, Marc-Antoine a développé une expertise dans les domaines de l'interface cerveau-ordinateur, de l'intelligence artificielle et de la réalité virtuelle. Ses travaux portent sur le développement de nouveaux processus d'évaluation de l'expérience utilisateur dans des environnements virtuels immersifs.<br/>----<br/>With over 10 years of experience in physiological signal processing, Marc-Antoine has developed expertise in the areas of brain-computer interface, artificial intelligence, and virtual reality. His work focuses on developing new processes for evaluating the user experience in immersive virtual environments."
   position: CEO
   photo: marc-antoine.png
   alttext: Marc-Antoine Moinnereau
@@ -188,10 +172,11 @@ En combinant mes antécédents en tant qu'ingénieur électrique, titulaire d'un
   - "202405101430panel"
 - fullname: Toky Raharison Ralambomihanta
   pronouns: "he/him"
-  affiliations: [McGill NeuroTech, McGill University]
+  affiliations:
+  - McGill NeuroTech
+  - McGill University
   nametitle: Mr.
-  bio: "Toky is a rising third-year student at McGill University where he is pursuing his studies in bioengineering and mathematics. With an interest in the applications of machine learning in signal processing, he enjoys studying the intersection of technology and the life sciences. He is currently the lead of McGill NeuroTech’s signal processing and machine learning sub-team where students are researching classification techniques for brain computer interfaces.
-"
+  bio: "Toky is a rising third-year student at McGill University where he is pursuing his studies in bioengineering and mathematics. With an interest in the applications of machine learning in signal processing, he enjoys studying the intersection of technology and the life sciences. He is currently the lead of McGill NeuroTech’s signal processing and machine learning sub-team where students are researching classification techniques for brain computer interfaces."
   position: "Singal Processing Team Lead"
   photo: toky_raharison.jpeg
   alttext: Toky Raharison Ralambomihanta
@@ -201,10 +186,11 @@ En combinant mes antécédents en tant qu'ingénieur électrique, titulaire d'un
   - "202405091430workshop"
 - fullname: Rhea Xinxo
   pronouns: "she/her"
-  affiliations: [McGill NeuroTech, McGill University]
+  affiliations:
+  - McGill NeuroTech
+  - McGill University
   nametitle: Ms.
-  bio: "Rhea is a fourth-year undergraduate student studying Neuroscience at McGill University. She joined McGill’s Neurotechnology team in her third year and became a co-leader of the data collection unit the following year. She is passionate about the intersection of Neuroscience and Technology and bringing tangible solutions to life!
-  "
+  bio: "Rhea is a fourth-year undergraduate student studying Neuroscience at McGill University. She joined McGill’s Neurotechnology team in her third year and became a co-leader of the data collection unit the following year. She is passionate about the intersection of Neuroscience and Technology and bringing tangible solutions to life!"
   position: "Data Team co-Lead"
   photo: rhea_xinxo.jpeg
   alttext: Rhea Xinxo
@@ -214,10 +200,11 @@ En combinant mes antécédents en tant qu'ingénieur électrique, titulaire d'un
   - "202405091430workshop"
 - fullname: Allison Murdock
   pronouns: "she/her"
-  affiliations: [McGill NeuroTech, McGill University]
+  affiliations:
+  - McGill NeuroTech
+  - McGill University
   nametitle: "Ms."
-  bio: "Allison is a 3rd year majoring in Computer Science, and Minoring in Cognitive Science and Math. This is her first year on NeuroTech, and currently leads the Software sub team. Allison's passion is fueled by the applications of neuroscience in software and machine learning, finding inspiration in the novel discoveries and innovations that arise at their intersection.
-"
+  bio: "Allison is a 3rd year majoring in Computer Science, and Minoring in Cognitive Science and Math. This is her first year on NeuroTech, and currently leads the Software sub team. Allison's passion is fueled by the applications of neuroscience in software and machine learning, finding inspiration in the novel discoveries and innovations that arise at their intersection."
   position: "Software Team Lead"
   photo: allison_murdock.jpeg
   alttext: Allison Murdock
@@ -227,7 +214,9 @@ En combinant mes antécédents en tant qu'ingénieur électrique, titulaire d'un
   - "202405091430workshop"
 - fullname: Hailey Eckersberg
   pronouns: "she/her"
-  affiliations: [McGill NeuroTech, McGill University]
+  affiliations:
+  - McGill NeuroTech
+  - McGill University
   nametitle: ""
   bio: "Hailey is a 3rd year undergraduate student at McGill University, studying Neuroscience with a minor in Computer Science. She has been actively involved with the McGill Neurotech Data team since her first year at McGill and recently assumed the position of Data Team Co-Lead. Excited about the convergence of technology and neuroscience, Hailey looks forward to sharing about McGill Neurotech’s current project."
   position: "Data Team co-Lead"
@@ -241,11 +230,10 @@ En combinant mes antécédents en tant qu'ingénieur électrique, titulaire d'un
 # May 10th - Session 3
 - fullname: Sébastien Tremblay
   pronouns: "he/him"
-  affiliations: [Université Laval]
+  affiliations:
+  - Université Laval
   nametitle: Ph.D.
-  bio: "Dr. Sébastien Tremblay a complété sa maîtrise en psychologie à l'Université de Montréal et son doctorat en neurosciences à l'Université McGill. Il a ensuite obtenu une première bourse de recherche à l'Institut neurologique de Montréal et une deuxième à la Perelman School of Medicine de l'Université de Pennsylvanie. Il se passionne pour la combinaison de la psychologie, de l'ingénierie et de la neurochirurgie pour la compréhension du cerveau et le développement de nouveaux outils pour traiter les patients souffrant de troubles mentaux.
-<br/> ---- <br/>
-Dr. Sébastien Tremblay completed his Masters studies in psychology at Université de Montréal and his Ph.D. in neuroscience at McGill University. He went on to pursue a first fellowship at the Montreal Neurological Institute and a second one at the Perelman School of Medicine at the University of Pennsylvania. He is passionate about combining psychology, engineering, and neurosurgery to further the understanding of the brain and develop new tools to treat patients with mental disorders."
+  bio: "Dr. Sébastien Tremblay completed his Masters studies in psychology at Université de Montréal and his Ph.D. in neuroscience at McGill University. He went on to pursue a first fellowship at the Montreal Neurological Institute and a second one at the Perelman School of Medicine at the University of Pennsylvania. He is passionate about combining psychology, engineering, and neurosurgery to further the understanding of the brain and develop new tools to treat patients with mental disorders.<br/> ---- <br/>Dr. Sébastien Tremblay a complété sa maîtrise en psychologie à l'Université de Montréal et son doctorat en neurosciences à l'Université McGill. Il a ensuite obtenu une première bourse de recherche à l'Institut neurologique de Montréal et une deuxième à la Perelman School of Medicine de l'Université de Pennsylvanie. Il se passionne pour la combinaison de la psychologie, de l'ingénierie et de la neurochirurgie pour la compréhension du cerveau et le développement de nouveaux outils pour traiter les patients souffrant de troubles mentaux."
   position: "Assistant Professor"
   photo: sebastien_tremblay.png
   alttext: Sébastien Tremblay
@@ -255,11 +243,11 @@ Dr. Sébastien Tremblay completed his Masters studies in psychology at Universit
   - "202405100930"
 - fullname: Anwesha Bhattacharya
   pronouns: "she/her"
-  affiliations: [Mila - Quebec AI Institute, McGill University]
+  affiliations:
+  - Mila - Quebec AI Institute
+  - McGill University
   nametitle: Ms.
-  bio: "Anwesha is a Ph.D. student at McGill University supervised by Dr. Danilo Bzdok. Her primary focus is on analyzing transcriptomic data in the field of neuroscience. By utilizing machine learning techniques, she hopes to unravel the complexities of the brain and better understand the genetic mechanisms of neurodegenerative diseases like Alzheimer's and Parkinson’s. Anwesha obtained her Master’s in Aerospace Engineering from IISc, Bangalore. Prior to joining Mila, she worked as a Quantitative Researcher at JP Morgan Chase, Mumbai.
-<br/> ---- <br/>
-Anwesha est étudiante au doctorat à l'Université McGill sous la direction du Dr Danilo Bzdok. Elle se concentre principalement sur l'analyse des données transcriptomiques dans le domaine des neurosciences. En utilisant des techniques d'apprentissage automatique, elle espère démêler les complexités du cerveau et mieux comprendre les mécanismes génétiques des maladies neurodégénératives telles que les maladies d'Alzheimer et de Parkinson. Anwesha a obtenu une maîtrise en ingénierie aérospatiale à l'IISc, Bangalore. Avant de rejoindre Mila, elle a travaillé comme chercheure quantitatif chez JP Morgan Chase, à Mumbai."
+  bio: "Anwesha is a Ph.D. student at McGill University supervised by Dr. Danilo Bzdok. Her primary focus is on analyzing transcriptomic data in the field of neuroscience. By utilizing machine learning techniques, she hopes to unravel the complexities of the brain and better understand the genetic mechanisms of neurodegenerative diseases like Alzheimer's and Parkinson’s. Anwesha obtained her Master’s in Aerospace Engineering from IISc, Bangalore. Prior to joining Mila, she worked as a Quantitative Researcher at JP Morgan Chase, Mumbai.<br/> ---- <br/>Anwesha est étudiante au doctorat à l'Université McGill sous la direction du Dr Danilo Bzdok. Elle se concentre principalement sur l'analyse des données transcriptomiques dans le domaine des neurosciences. En utilisant des techniques d'apprentissage automatique, elle espère démêler les complexités du cerveau et mieux comprendre les mécanismes génétiques des maladies neurodégénératives telles que les maladies d'Alzheimer et de Parkinson. Anwesha a obtenu une maîtrise en ingénierie aérospatiale à l'IISc, Bangalore. Avant de rejoindre Mila, elle a travaillé comme chercheure quantitatif chez JP Morgan Chase, à Mumbai."
   position: Ph.D. Candidate 
   photo: anwesha_bhattacharya.jpeg
   alttext: Anwesha Bhattacharya
@@ -269,11 +257,11 @@ Anwesha est étudiante au doctorat à l'Université McGill sous la direction du 
   - "202405100930"
 - fullname: Nima Fathi
   pronouns: "he/him"
-  affiliations: [Mila - Quebec AI Institute, McGill University]
+  affiliations:
+  - Mila - Quebec AI Institute
+  - McGill University
   nametitle: Mr.
-  bio: "Nima Fathi is a Master’s student in Electrical and Computer Engineering at McGill University, working under Prof. Tal Arbel at MILA. His research primarily focuses on generative modelling, and counterfactual explanations in medical imaging
-<br/> ---- <br/>
-Nima Fathi est étudiant à la maîtrise en génie électrique et informatique à l'Université McGill et travaille sous la direction du professeur Tal Arbel au MILA. Ses recherches portent principalement sur la modélisation générative et les explications contrefactuelles en imagerie médicale."
+  bio: "Nima Fathi is a Master’s student in Electrical and Computer Engineering at McGill University, working under Prof. Tal Arbel at MILA. His research primarily focuses on generative modelling, and counterfactual explanations in medical imaging.<br/> ---- <br/>Nima Fathi est étudiant à la maîtrise en génie électrique et informatique à l'Université McGill et travaille sous la direction du professeur Tal Arbel au MILA. Ses recherches portent principalement sur la modélisation générative et les explications contrefactuelles en imagerie médicale."
   position: "Master's Student"
   photo: nima_fathi.jpeg
   alttext: Nima Fathi
@@ -297,11 +285,10 @@ Nima Fathi est étudiant à la maîtrise en génie électrique et informatique �
   - "202405101100panel"
 - fullname: Julia Obergasteiger
   pronouns: "she/her"
-  affiliations: [CERVO Brain Research center]
+  affiliations:
+  - CERVO Brain Research Center
   nametitle: Ph.D.
-  bio: "Julia Obergasteiger is currently a Postdoc in the lab of Prof. Martin Lévesque at CERVO brain research center. She pursued a PhD in Neuroscience at the University of Ferrara in Italy, working with cellular and in vivo models of Parkinson's disease, before moving to Quebec. The main focus of her work is to investigate novel neuroprotective targets for Parkinson's disease.
-  <br/> ---- <br/>
-  Julia Obergasteiger est actuellement postdoc dans le laboratoire du Prof. Martin Lévesque au centre de recherche CERVO. Elle a obtenu un doctorat en neurosciences à l'Université de Ferrara en Italie, où elle a travaillé sur des modèles cellulaires et in vivo de la maladie de Parkinson, avant de s'installer au Québec. Ses travaux portent principalement sur l'étude de nouvelles cibles neuroprotectrices pour la maladie de Parkinson."
+  bio: "Julia Obergasteiger is currently a Postdoc in the lab of Prof. Martin Lévesque at CERVO brain research center. She pursued a PhD in Neuroscience at the University of Ferrara in Italy, working with cellular and in vivo models of Parkinson's disease, before moving to Quebec. The main focus of her work is to investigate novel neuroprotective targets for Parkinson's disease.<br/> ---- <br/>Julia Obergasteiger est actuellement postdoc dans le laboratoire du Prof. Martin Lévesque au centre de recherche CERVO. Elle a obtenu un doctorat en neurosciences à l'Université de Ferrara en Italie, où elle a travaillé sur des modèles cellulaires et in vivo de la maladie de Parkinson, avant de s'installer au Québec. Ses travaux portent principalement sur l'étude de nouvelles cibles neuroprotectrices pour la maladie de Parkinson."
   position: "Post-doctoral fellow"
   photo: julia_obergasteiger.jpg
   alttext: Julia Obergasteiger
@@ -313,11 +300,10 @@ Nima Fathi est étudiant à la maîtrise en génie électrique et informatique �
 # May 10th - Session 4
 - fullname: Catherine Duclos
   pronouns: "she/her"
-  affiliations: [Université de Montréal]
+  affiliations:
+  - Université de Montréal
   nametitle: Ph.D.
-  bio: "Les recherches de Catherine Duclos visent à élucider les mécanismes fonctionnels de la conscience et la façon dont les oscillations et les réseaux neuronaux peuvent être modulés pour améliorer les résultats en matière de santé. Elle enregistre l'activité cérébrale dans des états de conscience altérés (coma, troubles de la conscience, sommeil, rêve lucide et anesthésie) en utilisant l'électroencéphalographie à haute densité combinée à des outils informatiques avancés directement dans les unités de chirurgie et de soins intensifs. Mme Duclos utilise l'anesthésie et d'autres techniques pour perturber le cerveau et altérer la conscience afin de prédire le potentiel de récupération et d'optimiser les trajectoires de récupération. Son programme conduira à terme au développement de nouveaux outils qui amélioreront notre compréhension et la modulation de la conscience.
-<br/> ---- <br/>
-Catherine Duclos’ research aims to elucidate the functional mechanisms of consciousness, and how neural oscillations and networks can be modulated to improve health outcomes. She records brain activity in altered states of consciousness (coma, disorders of consciousness, sleep, lucid dreaming, and anesthesia) using high-density electroencephalography combined with advanced computational tools directly in surgical and critical care units. Duclos uses anesthesia and other techniques to perturb the brain and alter consciousness in order to predict recovery potential and optimize recovery trajectories. Her program will ultimately lead to the development of novel tools that improve our understanding and modulation of consciousness."
+  bio: "Catherine Duclos’ research aims to elucidate the functional mechanisms of consciousness, and how neural oscillations and networks can be modulated to improve health outcomes. She records brain activity in altered states of consciousness (coma, disorders of consciousness, sleep, lucid dreaming, and anesthesia) using high-density electroencephalography combined with advanced computational tools directly in surgical and critical care units. Duclos uses anesthesia and other techniques to perturb the brain and alter consciousness in order to predict recovery potential and optimize recovery trajectories. Her program will ultimately lead to the development of novel tools that improve our understanding and modulation of consciousness.<br/> ---- <br/>Les recherches de Catherine Duclos visent à élucider les mécanismes fonctionnels de la conscience et la façon dont les oscillations et les réseaux neuronaux peuvent être modulés pour améliorer les résultats en matière de santé. Elle enregistre l'activité cérébrale dans des états de conscience altérés (coma, troubles de la conscience, sommeil, rêve lucide et anesthésie) en utilisant l'électroencéphalographie à haute densité combinée à des outils informatiques avancés directement dans les unités de chirurgie et de soins intensifs. Mme Duclos utilise l'anesthésie et d'autres techniques pour perturber le cerveau et altérer la conscience afin de prédire le potentiel de récupération et d'optimiser les trajectoires de récupération. Son programme conduira à terme au développement de nouveaux outils qui amélioreront notre compréhension et la modulation de la conscience."
   position: Assistant Professor
   photo: catherine_duclos.jpg
   alttext: Catherine Duclos
@@ -327,11 +313,10 @@ Catherine Duclos’ research aims to elucidate the functional mechanisms of cons
   - "202405101300"
 - fullname: Charlotte Maschke
   pronouns: "she/her"
-  affiliations: [McGill University]
+  affiliations:
+  - McGill University
   nametitle: Ms.
-  bio: "I am a PhD student in the Integrated Program in Neuroscience at McGill University. In my research I apply machine learning for the prediction of recovery of consciousness after traumatic brain injury. I am passionate about neuroscience of consciousness, the intersection between neuroscience and artificial intelligence and the symbiosis of science and art.
-<br>----<br>
-Je suis étudiante en doctorat dans le programme intégré en neurosciences de l'Université McGill. Dans mes recherches, j'applique l'apprentissage automatique à la prédiction de la récupération de la conscience après une lésion cérébrale traumatique. Je suis passionnée par les neurosciences de la conscience, l'intersection entre les neurosciences et l'intelligence artificielle et la symbiose entre la science et l'art."
+  bio: "I am a PhD student in the Integrated Program in Neuroscience at McGill University. In my research I apply machine learning for the prediction of recovery of consciousness after traumatic brain injury. I am passionate about neuroscience of consciousness, the intersection between neuroscience and artificial intelligence and the symbiosis of science and art.<br>----<br>Je suis étudiante en doctorat dans le programme intégré en neurosciences de l'Université McGill. Dans mes recherches, j'applique l'apprentissage automatique à la prédiction de la récupération de la conscience après une lésion cérébrale traumatique. Je suis passionnée par les neurosciences de la conscience, l'intersection entre les neurosciences et l'intelligence artificielle et la symbiose entre la science et l'art."
   position: Ph.D. Candidate
   photo: charlotte_maschke.jpg
   alttext: Charlotte Maschke
@@ -341,11 +326,10 @@ Je suis étudiante en doctorat dans le programme intégré en neurosciences de l
   - "202405101300"
 - fullname: Kira Dolhan
   pronouns: "she/her"
-  affiliations: [McGill University]
+  affiliations:
+  - McGill University
   nametitle: Ms.
-  bio: "I am a master's student in neuroscience at McGill University and I study the brain networks of unresponsive patients in the intensive care unit diagnosed with a coma or disorder of consciousness. By studying how their brain's react to general anesthesia, my goal is to identify network properties which can help improve patient diagnoses and prognostication. In addition to my research with brain-injured patients, I am also interested in studying the sentience and intelligence of non-human animals, such as invertebrates.
-  <br>----<br>
-  Je suis étudiante à la maîtrise en neurosciences à l'Université McGill et j'étudie les réseaux cérébraux des patients non réactifs de l'unité de soins intensifs diagnostiqués avec un coma ou un trouble de la conscience. En étudiant la façon dont leur cerveau réagit à l'anesthésie générale, mon objectif est d'identifier les propriétés des réseaux qui peuvent aider à améliorer les diagnostics et les pronostics des patients. Outre mes recherches sur les patients souffrant de lésions cérébrales, je m'intéresse également à l'étude de la sensibilité et de l'intelligence des animaux non humains, tels que les invertébrés."
+  bio: "I am a master's student in neuroscience at McGill University and I study the brain networks of unresponsive patients in the intensive care unit diagnosed with a coma or disorder of consciousness. By studying how their brain's react to general anesthesia, my goal is to identify network properties which can help improve patient diagnoses and prognostication. In addition to my research with brain-injured patients, I am also interested in studying the sentience and intelligence of non-human animals, such as invertebrates.<br>----<br>Je suis étudiante à la maîtrise en neurosciences à l'Université McGill et j'étudie les réseaux cérébraux des patients non réactifs de l'unité de soins intensifs diagnostiqués avec un coma ou un trouble de la conscience. En étudiant la façon dont leur cerveau réagit à l'anesthésie générale, mon objectif est d'identifier les propriétés des réseaux qui peuvent aider à améliorer les diagnostics et les pronostics des patients. Outre mes recherches sur les patients souffrant de lésions cérébrales, je m'intéresse également à l'étude de la sensibilité et de l'intelligence des animaux non humains, tels que les invertébrés."
   position: "Master's Student"
   photo: kira_dolhan.jpg
   alttext: Kira Dolhan
@@ -357,14 +341,11 @@ Je suis étudiante en doctorat dans le programme intégré en neurosciences de l
 # May 10th - Panel Discussion (Industry – Academia)
 - fullname: Nathalie Sanon
   pronouns: "she/her"
-  affiliations: [IVADO, Université de Montréal]
+  affiliations:
+  - IVADO
+  - Université de Montréal
   nametitle: Ph.D.
-  bio: "Nathalie Sanon holds a PhD in Neuroscience and was a researcher at the CHU Ste-Justine Research Center and the Biologie Zentrum in Dresden, Germany, working on understanding the basic mechanisms of epilepsy and brain function. 
-Currently, she is a Training Program Manager in Artificial Intelligence at IVADO, where she is leading several projects linked to the deployment of training adapted to an industrial clientele in full digital transition.  She has been a guest lecturer at the Université de Montréal's Department of Neuroscience. Parallel to her scientific and present work, she is very involved in the inclusion of people from groups under-represented in science and AI: women, people of color and Indigenous peoples, and sits on several boards and committees, including Fondation La Clé, Fondation KANPE, the Women's Y and Salon International de la Femme Noire.
-<br>----<br>
-Nathalie Sanon est titulaire d'un doctorat en neurosciences et a été chercheuse au Centre de recherche du CHU Ste-Justine et au Biologie Zentrum de Dresde, en Allemagne, où elle a travaillé sur la compréhension des mécanismes de base de l'épilepsie et des fonctions cérébrales. 
-Actuellement, elle est Responsable du programme de formation continue en Intelligence artificielle (IA) à IVADO, où elle dirige plusieurs projets liés au déploiement de formations adaptées à une clientèle industrielle en pleine transition numérique.  Elle a été conférencière invitée au département de neurosciences de l'Université de Montréal. Parallèlement à son travail scientifique et actuel, elle est très impliquée dans l'inclusion de personnes issues de groupes sous-représentés dans les sciences et l'IA : les femmes, les personnes de couleur, et les peuples autochtones, et siège à plusieurs conseils et comités, dont la Fondation La Clé, la Fondation KANPE, le Y des femmes et le Salon international de la femme noire.
-"
+  bio: "Nathalie Sanon holds a PhD in Neuroscience and was a researcher at the CHU Ste-Justine Research Center and the Biologie Zentrum in Dresden, Germany, working on understanding the basic mechanisms of epilepsy and brain function. Currently, she is a Training Program Manager in Artificial Intelligence at IVADO, where she is leading several projects linked to the deployment of training adapted to an industrial clientele in full digital transition.  She has been a guest lecturer at the Université de Montréal's Department of Neuroscience. Parallel to her scientific and present work, she is very involved in the inclusion of people from groups under-represented in science and AI: women, people of color and Indigenous peoples, and sits on several boards and committees, including Fondation La Clé, Fondation KANPE, the Women's Y and Salon International de la Femme Noire.<br>----<br>Nathalie Sanon est titulaire d'un doctorat en neurosciences et a été chercheuse au Centre de recherche du CHU Ste-Justine et au Biologie Zentrum de Dresde, en Allemagne, où elle a travaillé sur la compréhension des mécanismes de base de l'épilepsie et des fonctions cérébrales. Actuellement, elle est Responsable du programme de formation continue en Intelligence artificielle (IA) à IVADO, où elle dirige plusieurs projets liés au déploiement de formations adaptées à une clientèle industrielle en pleine transition numérique.  Elle a été conférencière invitée au département de neurosciences de l'Université de Montréal. Parallèlement à son travail scientifique et actuel, elle est très impliquée dans l'inclusion de personnes issues de groupes sous-représentés dans les sciences et l'IA : les femmes, les personnes de couleur, et les peuples autochtones, et siège à plusieurs conseils et comités, dont la Fondation La Clé, la Fondation KANPE, le Y des femmes et le Salon international de la femme noire."
   position: Head of Training
   photo: nathalie_sanon.jpeg
   alttext: Nathalie Sanon
@@ -374,11 +355,11 @@ Actuellement, elle est Responsable du programme de formation continue en Intelli
   - "202405101430panel"
 - fullname: Adel Abdeladim
   pronouns: "he/him"
-  affiliations: [Mitacs, Université de Montréal]
+  affiliations:
+  - Mitacs
+  - Université de Montréal
   nametitle: Mr.
-  bio: "Adel Abdeladim recently graduated with a bachelor's degree in computer science from the University of Montreal. Throughout his studies, he had the opportunity to work in the fields of software engineering and machine learning within various industries, including banking, biopharmaceuticals, and aerospace, through internships and contracts. Subsequently, he specialized in Strategic Management of Artificial Intelligence and participated in strategic innovation intelligence in the public sector. Currently, at Mitacs, he holds the position of Business Development Advisor, focusing primarily on major accounts and AI partners, as well as on the relationship with the Department of Computer Science and Operational Research at the University of Montreal
-<br>----<br>
-Adel Abdeladim a récemment obtenu son baccalauréat en informatique de l'Université de Montréal. Tout au long de ses études, il a eu l'opportunité de travailler dans les domaines de l'ingénierie logicielle et de l'apprentissage automatique au sein de diverses industries, notamment bancaires, biopharmaceutiques et aérospatiales, à travers des stages et des contrats. Par la suite, il s'est spécialisé en Gestion Stratégique de l'Intelligence Artificielle et a participé à des veilles stratégiques en innovation dans le secteur public. Actuellement, chez Mitacs, il occupe le poste de conseiller en développement des affaires, se concentrant principalement sur les comptes majeurs et les partenaires en intelligence artificielle, ainsi que sur la relation avec le Département d'Informatique et de Recherche Opérationnelle de l'Université de Montréal."
+  bio: "Adel Abdeladim recently graduated with a bachelor's degree in computer science from the University of Montreal. Throughout his studies, he had the opportunity to work in the fields of software engineering and machine learning within various industries, including banking, biopharmaceuticals, and aerospace, through internships and contracts. Subsequently, he specialized in Strategic Management of Artificial Intelligence and participated in strategic innovation intelligence in the public sector. Currently, at Mitacs, he holds the position of Business Development Advisor, focusing primarily on major accounts and AI partners, as well as on the relationship with the Department of Computer Science and Operational Research at the University of Montreal.<br>----<br>Adel Abdeladim a récemment obtenu son baccalauréat en informatique de l'Université de Montréal. Tout au long de ses études, il a eu l'opportunité de travailler dans les domaines de l'ingénierie logicielle et de l'apprentissage automatique au sein de diverses industries, notamment bancaires, biopharmaceutiques et aérospatiales, à travers des stages et des contrats. Par la suite, il s'est spécialisé en Gestion Stratégique de l'Intelligence Artificielle et a participé à des veilles stratégiques en innovation dans le secteur public. Actuellement, chez Mitacs, il occupe le poste de conseiller en développement des affaires, se concentrant principalement sur les comptes majeurs et les partenaires en intelligence artificielle, ainsi que sur la relation avec le Département d'Informatique et de Recherche Opérationnelle de l'Université de Montréal."
   position: "Business Development Advisor"
   photo: "none"
   alttext: Adel Abdeladim

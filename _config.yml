@@ -62,4 +62,4 @@ plugins:
 
 # Theme: Bulma Clean Theme
 # theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
