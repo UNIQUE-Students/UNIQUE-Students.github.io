@@ -36,7 +36,14 @@
           {% if speaker.abstract %}
           <details>
             <summary>{{ speaker.title }} {{ slides }}</summary>
-            {{ speaker.abstract }}
+            <ul>
+              {% for speaker in speakers %}
+              {% assign abstract = speaker.abstract %}
+                {% if abstract != empty %}
+                  <li>{{ abstract }}</li>
+                {% endif %}
+              {% endfor %}
+            </ul>
           </details>
           {% else %}
             {{ speaker.title }} {{ slides }}
