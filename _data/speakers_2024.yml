@@ -10,7 +10,7 @@
   photo: flavie_lavoie-cardinal.jpeg
   alttext: Flavie Lavoie-Cardinal
   title: Cellular Neuroscience through the lens of AI
-  abstract: ""
+  abstract: "Decoding the diversity of neuronal nanostructures with AI-assisted nanoscopy."
   sessions:
   - "202405090930"
 - fullname: Antoine Légaré
@@ -24,7 +24,7 @@
   photo: antoine_legare.png
   alttext: Antoine Légaré
   title: Cellular Neuroscience through the lens of AI
-  abstract: ""
+  abstract: "Structural and genetic constraints on zebrafish brain networks."
   sessions:
   - "202405090930"
 - fullname: Catherine Bouchard
@@ -37,7 +37,7 @@
   photo: catherine_bouchard.png
   alttext: Catherine Bouchard
   title: Cellular Neuroscience through the lens of AI
-  abstract: ""
+  abstract: "Multiplexing fluorescence microscopy images with multi-dimensional deep networks."
   sessions:
   - "202405090930"
 
@@ -75,9 +75,9 @@
   pronouns: "she/her"
   affiliations: []
   nametitle: Ms.
-  bio: ""
+  bio: "Lama Saouma is an AI governance researcher bridging the gap between technology and policy. She spent the past few years at the Global Partnership on AI and University of Toronto’s Schwartz Reisman Institute for Technology and Society, where she developed risk management and transparency frameworks and advised governments on AI regulations. Previously, she researched AI safety approaches at Mila and completed her Master's in Neural Systems and Computation at ETH Zurich.<br>----<br>Lama Saouma est une chercheuse en gouvernance de l'IA qui comble le fossé entre la technologie et la politique. Elle a passé les dernières années au Partenariat Mondial sur l'IA et à l'Institut Schwartz Reisman pour la Technologie et la Société de l'Université de Toronto, où elle a développé des cadres de gestion des risques et de transparence et a conseillé les gouvernements sur la réglementation de l'IA. Auparavant, elle a recherché des approches de sécurité de l'IA à Mila et a terminé son Master en Systèmes Neuronaux et Calcul à l'ETH Zurich."
   position: Responsible AI Consultant and Policy Advisor
-  photo: lama_saouma.jpeg
+  photo: lama_saouma.jpg
   alttext: Lama Saouma
   title: Ethics and EDI in Neuro-AI
   abstract: ""
@@ -96,7 +96,7 @@
   photo: patrick_desrosiers.jpg
   alttext: Patrick Desrosiers
   title: "Brain's Complexity"
-  abstract: ""
+  abstract: "Mathematical Perspectives on the Structure-Function Relationship of Neuronal Networks."
   sessions:
   - "202405091300"
 - fullname: Colin Bredenberg
@@ -110,7 +110,7 @@
   photo: colin_bredenberg.jpg
   alttext: Colin Bredenberg
   title: "Brain's Complexity"
-  abstract: ""
+  abstract: "The oneirogen hypothesis: modeling the mechanism of classical psychedelic hallucinations with the Wake-Sleep algorithm."
   sessions:
   - "202405091100panel"
   - "202405091300"
@@ -124,7 +124,7 @@
   photo: jordan_o-byrne.jpg
   alttext: "Jordan O'Byrne"
   title: "Brain's Complexity"
-  abstract: ""
+  abstract: "Criticality, Complexity and Consciousness."
   sessions:
   - "202405091300"
 
@@ -238,7 +238,7 @@
   photo: sebastien_tremblay.png
   alttext: Sébastien Tremblay
   title: AI in Medical Neuroscience
-  abstract: ""
+  abstract: "Understanding the neural correlates of cognition in primates."
   sessions:
   - "202405100930"
 - fullname: Anwesha Bhattacharya
@@ -252,7 +252,7 @@
   photo: anwesha_bhattacharya.jpeg
   alttext: Anwesha Bhattacharya
   title: AI in Medical Neuroscience
-  abstract: ""
+  abstract: "Cell-type transcriptome modules reveal shared genetic mechanisms between Alzheimer's and Parkison's disorders."
   sessions:
   - "202405100930"
 - fullname: Nima Fathi
@@ -266,11 +266,24 @@
   photo: nima_fathi.jpeg
   alttext: Nima Fathi
   title: AI in Medical Neuroscience
-  abstract: ""
+  abstract: "DeCoDEx: Confounder Detector Guidance for Improved Diffusion-based Counterfactual Explanations."
   sessions:
   - "202405100930"
 
 # May 10th - Interactive Panel Discussion
+- fullname: Sarah-Julie Bouchard
+  pronouns: "she/her"
+  affiliations:
+  - Université Laval
+  nametitle: ""
+  bio:
+  position: ""
+  photo: "sarah-julie_bouchard.webp"
+  alttext: Sarah-Julie Bouchard
+  title: Interactive Panel Discussion
+  abstract: ""
+  sessions:
+  - "202405101100panel"
 - fullname: William Leclerc
   pronouns: ""
   affiliations: []
@@ -308,7 +321,7 @@
   photo: catherine_duclos.jpg
   alttext: Catherine Duclos
   title: Consciousness in Brains and Machines
-  abstract: ""
+  abstract: "Novel tools to better understand, modulate and predict consciousness in critical and surgical care: how can consciousness in brains allow us to suspect consciousness in machines?"
   sessions:
   - "202405101300"
 - fullname: Charlotte Maschke
@@ -321,7 +334,7 @@
   photo: charlotte_maschke.jpg
   alttext: Charlotte Maschke
   title: Consciousness in Brains and Machines
-  abstract: ""
+  abstract: "Are you consciousness?"
   sessions:
   - "202405101300"
 - fullname: Kira Dolhan
@@ -334,7 +347,7 @@
   photo: kira_dolhan.jpg
   alttext: Kira Dolhan
   title: Consciousness in Brains and Machines
-  abstract: ""
+  abstract: "Kinds of Consciousness: Sentience in Humans, Invertebrates, and AI."
   sessions:
   - "202405101300"
 
