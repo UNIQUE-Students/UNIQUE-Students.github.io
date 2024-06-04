@@ -72,6 +72,6 @@ Prizes will be awarded during the closing remarks on **May 10th** and are possib
 * Quality of the presentation (Clarity, fluidity, contact with the audience, answer to question, respect of the time): 20 pts
 * Evaluation grid: <a href="https://drive.google.com/file/d/1m0tiGXpvl9x3c9TrViU_gjK7GEZnqPT8/view?usp=drive_link">click here!</a>
 
-## Submissions were considered by the jury for the following categories: 
+## Submissions were considered by the jury for the following category: 
 
-* prix de la meilleure affiche UNIQUE – Millénium Québecor
+* Prix de la meilleure affiche UNIQUE – Millénium Québecor
