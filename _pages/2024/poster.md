@@ -48,7 +48,7 @@ Download the complete booklet of abstracts submitted to the 5th edition of the <
 UNIQUE Student Symposium, May 8-10, 2024: <a href="https://drive.google.com/file/d/1kREKYbRzEaVV2g4Xx9i8li7reAvfdpXR/view?usp=drive_link">click here!</a><br>
 
 
-# POSTER ABSTRACT SUBMISSION:
+# Poster abstract submission
 
 **Conference date:** 8-10 May 2024 <br>
 **Abstract submission deadline:** April 14, 2024 <br> <br>
@@ -56,12 +56,12 @@ UNIQUE Student Symposium, May 8-10, 2024: <a href="https://drive.google.com/file
 **Note:** Participation in the event and submission of abstracts are open to anyone interested in the field of Neuro-AI (UNIQUE member or not). <br>
 The work you submit should be related to both neuroscience and AI, but it doesn't have to be in equal part. Pilot studies, first results and work in progress are welcome alongside more finalized studies, as both can lead to great discussions! <br>
 
-**Prizes: 4 prizes will be awarded to the best posters! Our thanks to Millenium Québecor for making this possible.**  <br>
+**Prizes: 4 prizes will be awarded to the best posters! Our thanks to Millenium Québecor for making this possible.** <br>
 **The decisions regarding the selection of abstracts will be sent out at the beginning of the week of April 14th.** <br>
 
 For more information, please contact us at unique.student.symposium@gmail.com. <br>
 
-#  POSTER CONTEST:
+# Poster Contest
 
 Prizes will be awarded during the closing remarks on **May 10th** and are possible thanks to support by **Millenium Québecor**. 
 

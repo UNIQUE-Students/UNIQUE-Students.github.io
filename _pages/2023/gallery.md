@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Gallery
 layout: page
 permalink: /2023/gallery
 ---

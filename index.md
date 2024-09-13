@@ -2,14 +2,13 @@
 layout: page
 title: UNIQUE STUDENTS
 subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
-#toc: true
 ---
 
 [UNIQUE (Unifying Neuroscience and Artificial Intelligence in Québec)](https://sites.google.com/view/unique-neuro-ai) is a research centre working at the intersection of neuroscience and artificial intelligence research. It consists of more than 80 researchers affiliated with several universities and research centres from different regions of the province, and even from outside of it. The main goal of UNIQUE is to promote and facilitate exchanges between research teams working at the intersection of artificial intelligence (AI) and neuroscience.
 
 ---
 
-# Coming up: UNIQUE Student Symposium 2024, May 8-10 @ Quebec City!
+# Thanks for attending USS 2024!
 
 <style>
 .inlinelist ul {
@@ -53,7 +52,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     </div>
 
     <div class="content">
-    Join us at the UNIQUE Student Symposium (USS) 2024, happening from 8th to 10th May at the <a href="https://cervo.ulaval.ca/en">CERVO Brain Research Center</a> in Quebec City!
+    The UNIQUE Student Symposium (USS) 2024 was organized from 8th to 10th May at the <a href="https://cervo.ulaval.ca/en">CERVO Brain Research Center</a> in Quebec City.
     <br><br>
     USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
 
@@ -65,7 +64,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     <b>See the schedule <a href="/2024/schedule.html">here</a>.</b><br>
     <b>See the speakers <a href="/2024/speakers.html">here</a>.</b>
 
-    <h3>Important Information</h3>
+    <!-- <h3>Important Information</h3>
     <b>Registration link: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">click here!</a></b>
     <br>
     <b>Deadline: <span style="color:red;">17 April 2024 (UPDATED!)</span></b>
@@ -86,7 +85,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     <b>Deadline: <span style="color:red;">14 April 2024</span></b>
     <br>
     <br>
-    Note: The event is open to all people working in Neuro-AI (UNIQUE member or not).
+    Note: The event is open to all people working in Neuro-AI (UNIQUE member or not). -->
 
     <h3>Accessibility and Code of Conduct</h3>
     We strive to create an accessible and inclusive event. Please be informed that:
@@ -97,9 +96,9 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     <li>If you have any accessibility needs that you would like us to know, please contact us at <code>{{ site.email }}</code>.</li>
     </ul>
     <hr>
-    Rejoignez-nous au Symposium Étudiant UNIQUE (USS 2024), qui se déroulera du 8 au 10 mai 2024 au <a href="https://cervo.ulaval.ca/fr">Centre de recherche sur le cerveau – CERVO</a> à Québec!
+    Le Symposium Étudiant UNIQUE (USS 2024), a été organisé du 8 au 10 mai 2024 au <a href="https://cervo.ulaval.ca/fr">Centre de recherche sur le cerveau – CERVO</a> à Québec/
     <br><br>
-    <b>Inscrivez-vous dès maintenant (date limite: <span style="color:red;"><b>17 avril (date modifié!)</b></span>): <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">formulaire d'inscription</a></b>
+    <!-- <b>Inscrivez-vous dès maintenant (date limite: <span style="color:red;"><b>17 avril (date modifié!)</b></span>): <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">formulaire d'inscription</a></b> -->
     <br>
     Les frais d'inscription comprennent les repas, le transport et la chambre d'hôtel le cas échéant (voir condition).
     <br><br>
@@ -111,7 +110,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     <br><br>
     <b>Presentations d’affiche (date limite: <span style="color:red;"><b>14 avril</b></span>): <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1McQQJl94KUQD5rnH5T2992mQDraWf7zh68DnjP9t7JmWtA/viewform">formulaire pour les soumissions</a></b>
     <br><br>
-    Note: l'événement est ouvert à toutes les personnes travaillant dans le domaine de la Neuro-AI (membres d'UNIQUE ou non).
+    Note: l'événement est ouvert à toutes les personnes travaillant dans le domaine de la Neuro-AI (membres d'UNIQUE ou non). -->
     </div>
 </div>
 </div>
