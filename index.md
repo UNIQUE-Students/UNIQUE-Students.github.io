@@ -95,10 +95,10 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     <li>On Chrome, you can enable Live Caption feature following <a href="https://www.youtube.com/embed/KDP8a5s8yaU">this video</a>.</li> -->
     <li>If you have any accessibility needs that you would like us to know, please contact us at <code>{{ site.email }}</code>.</li>
     </ul>
-    <-- <hr>
+    <!-- <hr>
     Le Symposium Étudiant UNIQUE (USS 2024), a été organisé du 8 au 10 mai 2024 au <a href="https://cervo.ulaval.ca/fr">Centre de recherche sur le cerveau – CERVO</a> à Québec.
     <br><br>
-    <b>Inscrivez-vous dès maintenant (date limite: <span style="color:red;"><b>17 avril (date modifié!)</b></span>): <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">formulaire d'inscription</a></b> -->
+    <b>Inscrivez-vous dès maintenant (date limite: <span style="color:red;"><b>17 avril (date modifié!)</b></span>): <a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507">formulaire d'inscription</a></b>
     <br>
     Les frais d'inscription comprennent les repas, le transport et la chambre d'hôtel le cas échéant (voir condition).
     <br><br>
