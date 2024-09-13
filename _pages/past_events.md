@@ -28,7 +28,7 @@ permalink: /pastevents
       <br>
       <a href="/2024/poster.html">Poster Contest</a>.
       <br>
-      <a href="/2024/posters-talks.html">Posters and Lightning Talks</a>.
+      <a href="https://drive.google.com/file/d/1kREKYbRzEaVV2g4Xx9i8li7reAvfdpXR/view?usp=drive_link">Abstract Booklet</a>.
       <br>
       <a href="/2024/gallery.html">Gallery</a>.
     </div>
