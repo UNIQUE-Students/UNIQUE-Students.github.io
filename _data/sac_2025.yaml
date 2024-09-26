@@ -1,0 +1,88 @@
+- affiliation: "Université de Montréal"
+  bio: "I am a PhD student working with Vincent Taschereau-Dumouchel on bridging the gap between quantitative and qualitative approaches in cognitive neuroscience and computational psychiatry. During my master's, I worked on mapping out subjective experience using a combination of psychometrics, NLP and generative AI, with a focus on accelerating mental health care research. I now aim to develop innovative applications of AI to the study of brains and consciousness. Being part of the UNIQUE SAC, as well as the broader neuroAI community, has been a huge source of inspiration and motivation, which is why I'm eager to continue on this path for a second year."
+  committee: Co-Chair of the SAC
+  email: charlotte.volk@mail.mcgill.ca
+  fullname: shawn.manuel@umontreal.ca
+  photo: shawn_manuel.jpg
+  alttext: none
+  pronouns: he/him
+  twitter: https://x.com/shwnmnl
+  website: https://shwnmnl.github.io/resume.html
+
+- affiliation: "McGill University and Mila"
+  bio: "I am a Master's student in Computer Science at McGill and Mila, supervised by Blake Richards and Shahab Bakhtiari. I'm interested in leveraging AI models to study human learning processes. In my free time, I love to read, figure skating, and crochet. "
+  committee: Co-Chair of the SAC
+  email: charlotte.volk@mail.mcgill.ca
+  fullname: Charlotte Volk
+  photo: charlotte_volk.png
+  alttext: none
+  pronouns: she/her
+
+- affiliation: "Université de Montréal and Mila"
+  bio: "I am a PhD student in Psychology at Université de Montréal under the guidance of Prof. Shahab Bakhtiari. My research is at intersection of artificial intelligence and neuroscience, particularly focusing on modelling the visual system. I use artificial neural networks trained with self-supervised learning to simulate and understand the complexities of the visual system."
+  committee: Technical Lead
+  email: cornelius.crijnen@umontreal.ca
+  fullname: Cornelius Arjan Jacques Crijnen
+  photo: cornelius_crijnen.jpeg
+  alttext: none
+  pronouns: he/him
+
+- affiliation: "Université de Montréal and Mila"
+  bio: "I am a master's student at Mila and Université de Montréal with Matthew Perich and Guillaume Lajoie. I am intrigued by how AI systems can rapidly learn and generalize to new tasks given little to no information. To this end, I aim to mathematically elucidate how different paradigms of task learning (e.g., continual, meta, in-context, etc.) are affected by factors such as learning dynamics, compositional representations, and memory."
+  committee: Liaison to the Equity, Diversity, and Inclusion Committee
+  email: hee-woon.ryoo@umontreal.ca
+  fullname: Avery Ryoo
+  photo: avery_ryoo.jpeg
+  alttext: none
+  pronouns: he/him
+  twitter: https://x.com/averyryoo
+  website: https://averyryoo.github.io
+
+- affiliation: "Université de Montréal"
+  bio: "I am a Master's student in Computational Medicine (Clinical Sciences) at Université de Montréal, under the supervision of Franco Lepore and Shahab Bakhtiari. My research focuses on the joint modeling of audiovisual systems to improve the prediction of cochlear implant efficiency."
+  committee: Communication Lead
+  email: shawn.manuel@umontreal.ca
+  fullname: Elizaveta Sycheva
+  photo: elizaveta_sycheva.jpeg
+  alttext: none
+  pronouns: she/her
+
+- affiliation: "McGill University"
+  bio: "I am a Neuroscience PhD student at McGill University's Integrated Program, collaborating with Prof. Sylvain Baillet and Prof. John Kalaska in advancing knowledge of non-motor functions of the motor cortex, an area of the brain classically known for its role in executive functions such as decision making. I have a strong interest in devising and implementing sophisticated techniques to measure complex patterns in ongoing human brain activity. I am very excited to be part of the UNIQUE community and looking forward to collaborating with other members of this community to improve our understanding of the brain and develop new tools to address important questions in neuroscience."
+  committee: Event Coordinator
+  email: niloofar.gharesi@mail.mcgill.ca
+  fullname: Niloofar Gharesi
+  photo: niloofar_gharesi.jpg
+  alttext: none
+  pronouns: she/her
+  website: https://www.linkedin.com/in/niloofargharesi
+
+- affiliation: "Université de Montréal and Mila"
+  bio: "I am a graduate student at Mila and Université de Montréal supervised by Matthew Perich. My research interests lie at the intersection of artificial intelligence and neuroscience. I am intrigued by the brain’s remarkable ability to integrate information from different regions to produce complex behaviours and adapt to novel environments. Currently, I am working on understanding the underlying compositional structure of flexible behaviour in the brain."
+  committee: Event Coordinator
+  email: anirudh.jamkhandi@umontreal.ca
+  fullname: Anirudh Jamkhandi
+  photo: anirudh_jamkhandi.jpg
+  alttext: none
+  pronouns: he/him
+  website: http://anirudhgj.github.io
+
+- affiliation: "Université Laval"
+  bio: "I'm a PhD student in Christian Gagné and Flavie Lavoie-Cardinal's labs at Laval University and the CERVO Brain Research Centre. My research focuses on the development of deep learning tools for the analysis of optical microscopy data. I am interested in the study of synaptic plasticity and synaptic degenerescence in neurodegenerative diseases through deep anomaly detection approaches."
+  committee: Quebec Community Coordinator
+  email: frederic.beaupre.3@ulaval.ca
+  fullname: Frédéric Beaupré
+  photo: frederic_beaupre.jpg
+  alttext: none
+  pronouns: he/him
+
+- affiliation: "Université de Montréal and Mila"
+  bio: "I am a PhD student in Dr. Christopher Pack's lab, studying the effect of cortical microstimulation on visual perception in monkey subjects. In my free time, I practice Karate or watch sci-fi. This is my first year at SAC, and I'm really looking forward to all the UNIQUE events we have planned this year!"
+  committee: Content Manager
+  email: younes.valibeigi@mcgill.ca
+  fullname: Younes Valibeigi
+  photo: younes_valibeigi.jpeg
+  alttext: none
+  pronouns: he/him
+  twitter: https://x.com/neuronhunter
+  
