@@ -6,7 +6,7 @@ permalink: /team
 
 # UNIQUE Student Affairs Committee
 
-{% assign people = site.data.sac_2024 | sort: "fullname" %}
+{% assign people = site.data.sac_2025 | sort: "fullname" %}
 {% for person in people %}
   {% assign side = forloop.index0 | modulo: 2 %}
     {% if side == 0 %}
