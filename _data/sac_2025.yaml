@@ -1,8 +1,8 @@
 - affiliation: "Université de Montréal"
   bio: "I am a PhD student working with Vincent Taschereau-Dumouchel on bridging the gap between quantitative and qualitative approaches in cognitive neuroscience and computational psychiatry. During my master's, I worked on mapping out subjective experience using a combination of psychometrics, NLP and generative AI, with a focus on accelerating mental health care research. I now aim to develop innovative applications of AI to the study of brains and consciousness. Being part of the UNIQUE SAC, as well as the broader neuroAI community, has been a huge source of inspiration and motivation, which is why I'm eager to continue on this path for a second year."
   committee: Co-Chair of the SAC
-  email: charlotte.volk@mail.mcgill.ca
-  fullname: shawn.manuel@umontreal.ca
+  email: shawn.manuel@umontreal.ca
+  fullname: Shawn Manuel
   photo: shawn_manuel.jpg
   alttext: none
   pronouns: he/him
@@ -10,7 +10,7 @@
   website: https://shwnmnl.github.io/resume.html
 
 - affiliation: "McGill University and Mila"
-  bio: "I am a Master's student in Computer Science at McGill and Mila, supervised by Blake Richards and Shahab Bakhtiari. I'm interested in leveraging AI models to study human learning processes. In my free time, I love to read, figure skating, and crochet. "
+  bio: "I am a Master's student in Computer Science at McGill and Mila, supervised by Blake Richards and Shahab Bakhtiari. I'm interested in leveraging AI models to study human learning processes. In my free time, I love to read, figure skate, and crochet. "
   committee: Co-Chair of the SAC
   email: charlotte.volk@mail.mcgill.ca
   fullname: Charlotte Volk
@@ -22,7 +22,7 @@
   bio: "I am a PhD student in Psychology at Université de Montréal under the guidance of Prof. Shahab Bakhtiari. My research is at intersection of artificial intelligence and neuroscience, particularly focusing on modelling the visual system. I use artificial neural networks trained with self-supervised learning to simulate and understand the complexities of the visual system."
   committee: Technical Lead
   email: cornelius.crijnen@umontreal.ca
-  fullname: Cornelius Arjan Jacques Crijnen
+  fullname: Cornelius Crijnen
   photo: cornelius_crijnen.jpeg
   alttext: none
   pronouns: he/him
@@ -41,7 +41,7 @@
 - affiliation: "Université de Montréal"
   bio: "I am a Master's student in Computational Medicine (Clinical Sciences) at Université de Montréal, under the supervision of Franco Lepore and Shahab Bakhtiari. My research focuses on the joint modeling of audiovisual systems to improve the prediction of cochlear implant efficiency."
   committee: Communication Lead
-  email: shawn.manuel@umontreal.ca
+  email: elizaveta.sycheva@umontreal.ca
   fullname: Elizaveta Sycheva
   photo: elizaveta_sycheva.jpeg
   alttext: none
