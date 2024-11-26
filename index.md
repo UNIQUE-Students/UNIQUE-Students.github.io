@@ -8,6 +8,49 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 
 ---
 
+# Upcoming event: UNIQUE Fellows Get-Together 2024 on November 29th, 4 pm to 7 pm!
+
+<div class="card">
+<div class="card-image">
+    <figure class="image is-5by2">
+    <img src="/assets/img/UNIQUE_Get-Together_Fall_2024.png" alt="UNIQUE Fellows Get-Together Fall 2024">
+    </figure>
+</div>
+</div>
+
+---
+
+This event is an ideal opportunity to present UNIQUE-funded work and promote the Neuro-AI student community. The event will feature brief student presentations, followed by networking and a meal (pizza and snacks). With this gathering, we hope to give UNIQUE students the opportunity to get to know each other in a friendlier format, with the aim of creating a community of Neuro-AI students and networking among UNIQUE students.
+
+_Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE._
+
+**Date & Time:** Friday, 29th November 2024 from 4 pm to 7 pm EST<br>
+**Venue:** [D-427 - Pavillon Marie-Victorin - UdeM, 90 Vincent D'Indy Ave, QC H2V 2S9](https://maps.app.goo.gl/YdjkaLHCxZBECSTe7)
+
+---
+
+## Schedule
+
+4:00--4:10 Arrival
+
+4:10--4:15 Opening remarks
+
+4:25--4:35 Talk 1: **Charlotte Volk** (McGill): _TBD_
+
+4:35--4:45 Talk 2: **Yann Harel** (UdeM): _Gamer in the scanner : Event-related analysis of fMRI activity during retro videogame play guided by automated annotations of game content_
+
+4:45--4:50 Lightning Talk: **Marjorie Côté** (UdeM): _TBD_
+
+4:50--5:00 Talk 3 : **Cornelius Crijnen** (UdeM): _TBD_
+
+5:00--5:10 Talk 4 : **Joaquin Streicher** (UdeM): _How to determine if a human being is conscious? Towards a unifying conceptual framework_
+
+5:10--5:15 Closing remarks
+
+5:15--7:00 Networking and pizza!
+
+---
+
 # Thanks for attending USS 2024!
 
 <style>
@@ -33,6 +76,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
   }
 }
 </style>
+
 <center>
 <ul class="inlinelist" style="margin-top: 2em;"><li class="inlinelist"><a href="/2024/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li class="inlinelist"><a href="/2024/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li class="inlinelist"><a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507"><button class="button is-primary">Registration</button></a></li>  <li class="inlinelist"><a href="/2024/poster.html"><button class="button is-primary">Poster Submission</button></a></li> <li class="inlinelist"><a href="/2024/team.html"><button class="button is-primary">USS Team</button></a></li></ul>
 </center>
