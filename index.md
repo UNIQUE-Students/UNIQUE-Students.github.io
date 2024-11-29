@@ -35,13 +35,13 @@ _Cet événement est l'occasion idéale de présenter les travaux financés par 
 
 4:10--4:15 Opening remarks
 
-4:25--4:35 Talk 1: **Charlotte Volk** (McGill): _TBD_
+4:25--4:35 Talk 1: **Charlotte Volk** (McGill): _How sequential curricula enhance visual learning generalization: The role of readout subspace dimensionality_
 
 4:35--4:45 Talk 2: **Yann Harel** (UdeM): _Gamer in the scanner : Event-related analysis of fMRI activity during retro videogame play guided by automated annotations of game content_
 
-4:45--4:50 Lightning Talk: **Marjorie Côté** (UdeM): _TBD_
+4:45--4:50 Lightning Talk: **Marjorie Côté** (UdeM): _Are all fears represented in the same way in the human brain?_
 
-4:50--5:00 Talk 3 : **Cornelius Crijnen** (UdeM): _TBD_
+4:50--5:00 Talk 3 : **Cornelius Crijnen** (UdeM): _A comparative, multi­-species study of visual systems: How do distinct movement repertoires shape the visual systems of different species?_
 
 5:00--5:10 Talk 4 : **Joaquin Streicher** (UdeM): _How to determine if a human being is conscious? Towards a unifying conceptual framework_
 
