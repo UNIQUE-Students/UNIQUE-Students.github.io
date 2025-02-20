@@ -12,7 +12,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 
 <style>
 /* Ensure mobile responsiveness */
-@media only screen and (max-width: 665px) {
+@media screen and (max-width: 665px) {
     .card {
         flex-direction: column;
         max-width: 100%;
@@ -21,22 +21,18 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
         max-width: 100%;
     }
     .card-content {
-        padding: 0 !important; /* Ensures no padding */
+      padding: none;
     }
-    /* .media, .content, .media-content {
-        margin: 0 !important;
-        padding: 0 !important;
-    }*/
 }
 </style>
 
 <div class="card" style="display: flex; align-items: center; flex-wrap: wrap;">
-  <div class="card-image" style="flex: 0; max-width: 40%;">
+  <div class="card-image" style="flex: 1; max-width: 40%;">
       <figure class="image is-5by2">
           <img src="/assets/img/UNIQUE_Get-Together_Spring_2025.png" alt="UNIQUE Fellows Get-Together Spring 2025">
       </figure>
   </div>
-  <div class="card-content" style="flex: 0; padding: 20px; max-width: 60%;">
+  <div class="card-content" style="flex: 1.5; padding: 20px; max-width: 60%;">
     <div class="media">
       <div class="media-content">
         <p class="title is-4">UNIQUE Fellows Get-Together Spring 2025</p>
