@@ -8,46 +8,82 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 
 ---
 
-# Upcoming event: UNIQUE Fellows Get-Together 2024 on November 29th, 4 pm to 7 pm!
+# Upcoming event: UNIQUE Fellows Get-Together 2025 on February 26th, 4 pm to 7 pm!
 
-<div class="card">
-<div class="card-image">
-    <figure class="image is-5by2">
-    <img src="/assets/img/UNIQUE_Get-Together_Fall_2024.png" alt="UNIQUE Fellows Get-Together Fall 2024">
-    </figure>
+<style>
+/* Ensure mobile responsiveness */
+@media only screen and (max-width: 665px) {
+    .card {
+        flex-direction: column;
+        max-width: 100%;
+    }
+    .card-image, .card-content {
+        max-width: 100%;
+    }
+    .card-content {
+        padding: 0 !important; /* Ensures no padding */
+    }
+    /* .media, .content, .media-content {
+        margin: 0 !important;
+        padding: 0 !important;
+    }*/
+}
+</style>
+
+<div class="card" style="display: flex; align-items: center; flex-wrap: wrap;">
+  <div class="card-image" style="flex: 0; max-width: 40%;">
+      <figure class="image is-5by2">
+          <img src="/assets/img/UNIQUE_Get-Together_Spring_2025.png" alt="UNIQUE Fellows Get-Together Spring 2025">
+      </figure>
+  </div>
+  <div class="card-content" style="flex: 0; padding: 20px; max-width: 60%;">
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4">UNIQUE Fellows Get-Together Spring 2025</p>
+      </div>
+    </div>
+    <div class="media">
+      <div class="content">
+        This event is an ideal opportunity to present UNIQUE-funded work and promote the Neuro-AI student community. The event will feature brief student presentations, followed by networking and a meal (pizza and snacks). With this gathering, we hope to give UNIQUE students the opportunity to get to know each other in a friendlier format, with the aim of creating a community of Neuro-AI students and networking among UNIQUE students. 
+
+        <br><br> 
+
+        <em>Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE.</em>
+
+        <br><br>
+
+        <strong>Date & Time:</strong> Wednesday, 26th February 2025 from 4 pm to 7 pm EST<br>
+        <strong>Venue:</strong> <a href="https://maps.app.goo.gl/455ze7suaPv2p8J6A">Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9</a>
+      </div>
+    </div>
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4">Schedule</p>
+      </div>
+    </div>
+    <div class="media">
+      <div class="content">
+        4:00–4:10 Arrival<br>
+
+        4:10–4:15 Opening remarks<br>
+
+        4:25–4:35 Talk 1: <strong>Jordan O'Byrne</strong> (UdeM) — <em>TBD</em><br>
+
+        4:35–4:45 Talk 2: <strong>Avery Ryoo</strong> (UdeM) — <em>TBD</em><br>
+
+        4:45–4:50 Lightning Talk 1: <strong>Nizar Islah</strong> (UdeM) — <em>TBD</em><br>
+
+        4:50–4:55 Lightning Talk 2: <strong>Anaïs Rourre</strong> (UdeM) — <em>TBD</em><br>
+
+        4:55–5:05 Talk 3: <strong>Juan Guerra</strong> (Poly) — <em>TBD</em><br>
+
+        5:05–5:10 Closing remarks<br>
+
+        5:05–7:00 Networking and pizza!
+      </div>
+    </div>
+  </div>
 </div>
-</div>
-
----
-
-This event is an ideal opportunity to present UNIQUE-funded work and promote the Neuro-AI student community. The event will feature brief student presentations, followed by networking and a meal (pizza and snacks). With this gathering, we hope to give UNIQUE students the opportunity to get to know each other in a friendlier format, with the aim of creating a community of Neuro-AI students and networking among UNIQUE students.
-
-_Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE._
-
-**Date & Time:** Friday, 29th November 2024 from 4 pm to 7 pm EST<br>
-**Venue:** [D-427 - Pavillon Marie-Victorin - UdeM, 90 Vincent D'Indy Ave, QC H2V 2S9](https://maps.app.goo.gl/YdjkaLHCxZBECSTe7)
-
----
-
-## Schedule
-
-4:00--4:10 Arrival
-
-4:10--4:15 Opening remarks
-
-4:25--4:35 Talk 1: **Charlotte Volk** (McGill): _How sequential curricula enhance visual learning generalization: The role of readout subspace dimensionality_
-
-4:35--4:45 Talk 2: **Yann Harel** (UdeM): _Gamer in the scanner : Event-related analysis of fMRI activity during retro videogame play guided by automated annotations of game content_
-
-4:45--4:50 Lightning Talk: **Marjorie Côté** (UdeM): _Are all fears represented in the same way in the human brain?_
-
-4:50--5:00 Talk 3 : **Cornelius Crijnen** (UdeM): _A comparative, multi­-species study of visual systems: How do distinct movement repertoires shape the visual systems of different species?_
-
-5:00--5:10 Talk 4 : **Joaquin Streicher** (UdeM): _How to determine if a human being is conscious? Towards a unifying conceptual framework_
-
-5:10--5:15 Closing remarks
-
-5:15--7:00 Networking and pizza!
 
 ---
 
