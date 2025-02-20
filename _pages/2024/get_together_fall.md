@@ -1,12 +1,12 @@
 ---
-title: UNIQUE Get-Together – Spring 2024
-subtitle: 28th March (4 pm to 7 pm EST) at the Mila Agora
-permalink: /2024/get-together-spring
+title: UNIQUE Get-Together – Fall 2024
+subtitle: 29th November (4 pm to 7 pm EST) at D-427 - Pavillon Marie-Victorin - UdeM
+permalink: /2024/get-together-fall
 ---
 
 <br>
 
-# UNIQUE Trainee Get-Together – Spring 2024
+# UNIQUE Fellows Get-Together - Fall 2024
 
 <style>
 /* Ensure mobile responsiveness */
@@ -27,13 +27,13 @@ permalink: /2024/get-together-spring
 <div class="card" style="display: flex; align-items: center; flex-wrap: wrap;">
   <div class="card-image" style="flex: 1; max-width: 40%;">
       <figure class="image is-5by2">
-          <img src="/assets/img/UNIQUE_Get-Together_Spring_2024.png" alt="UNIQUE Trainee Get-Together Spring 2024">
+          <img src="/assets/img/UNIQUE_Get-Together_Fall_2024.png" alt="UNIQUE Fellows Get-Together Fall 2024">
       </figure>
   </div>
   <div class="card-content" style="flex: 1.5; padding: 20px; max-width: 60%;">
     <div class="media">
       <div class="media-content">
-        <p class="title is-4">UNIQUE Trainee Get-Together Spring 2024</p>
+        <p class="title is-4">UNIQUE Fellows Get-Together Fall 2024</p>
       </div>
     </div>
     <div class="media">
@@ -46,8 +46,8 @@ permalink: /2024/get-together-spring
 
         <br><br>
 
-        <strong>Date & Time:</strong> Tuesday, 28th March 2024 from 4 pm to 7 pm EST<br>
-        <strong>Venue:</strong> <a href="https://maps.app.goo.gl/455ze7suaPv2p8J6A">Mila Agora, 6650 Rue St-Urbain, Montréal, QC H2S 3G9</a>
+        <strong>Date & Time:</strong> Friday, 29th November 2024 from 4 pm to 7 pm EST<br>
+        <strong>Venue:</strong> <a href="https://maps.app.goo.gl/YdjkaLHCxZBECSTe7">D-427 - Pavillon Marie-Victorin - UdeM, 90 Vincent D'Indy Ave, QC H2V 2S9</a>
       </div>
     </div>
     <div class="media">
@@ -61,21 +61,19 @@ permalink: /2024/get-together-spring
 
         4:10–4:15 Opening remarks<br>
 
-        4:25–4:35 <strong>Dan Levenstein</strong> — <em>Sequential predictive learning is a unifying theory for hippocampal representation and replay</em><br>
+        4:25–4:35 Talk 1: <strong>Charlotte Volk</strong> (McGill) — <em>How sequential curricula enhance visual learning generalization: The role of readout subspace dimensionality</em><br>
 
-        4:35–4:45 <strong>Maxime Daigle</strong> — <em>Reverse engineering non-stereotypical hippocampal neurons with goal-driven neural networks</em><br>
+        4:35–4:45 Talk 2: <strong>Yann Harel</strong> (UdeM) — <em>Gamer in the scanner: Event-related analysis of fMRI activity during retro videogame play guided by automated annotations of game content</em><br>
 
-        4:45–4:50 <strong>Rishabh Singhal</strong> — <em>Intracortical microstimulation in dACC disrupts the onset of exploration</em><br>
+        4:45–4:50 Lightning Talk: <strong>Marjorie Côté</strong> (UdeM) — <em>Are all fears represented in the same way in the human brain?</em><br>
 
-        4:50–5:00 <strong>Yohaï-Eliel Berreby</strong> — <em>Modeling visual localization: the role of receptive field remapping</em><br>
+        4:50–5:00 Talk 3: <strong>Cornelius Crijnen</strong> (UdeM) — <em>A comparative, multi-species study of visual systems: How do distinct movement repertoires shape the visual systems of different species?</em><br>
 
-        5:00–5:10 <strong>Mashbayar Tugsbayar</strong> — <em>Brain-like connectivity in multimodal integration</em><br>
+        5:00–5:10 Talk 4: <strong>Joaquin Streicher</strong> (UdeM) — <em>How to determine if a human being is conscious? Towards a unifying conceptual framework</em><br>
 
-        5:10–5:20 <strong>Soraya Rahimi</strong> — <em>Dynamic connectivity in the cortical motor network during monkey reaching and grasping</em><br>
+        5:10–5:15 Closing remarks<br>
 
-        5:20–5:25 Closing remarks<br>
-
-        5:30–7:00 Networking and pizza! 🍕
+        5:15–7:00 Networking and pizza! 🍕
       </div>
     </div>
   </div>
