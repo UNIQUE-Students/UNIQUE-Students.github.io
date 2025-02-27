@@ -63,15 +63,15 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 
         4:10–4:15 Opening remarks<br>
 
-        4:15–4:25 Talk 1: <strong>Avery Ryoo</strong> (UdeM) — <em>A generalizable approach for real-time motor decoding</em><br>
+        4:15–4:35 Talk 1: <strong>Avery Ryoo</strong> (UdeM) — <em>A generalizable approach for real-time motor decoding</em><br>
 
-        4:25–4:30 Lightning Talk: <strong>Anaïs Rourre</strong> (UdeM) — <em>When social cognition remains: identifying consciousness capacity from multi-brain recordings in patients in a disorder of consciousness</em><br>
+        4:35–4:45 Lightning Talk: <strong>Anaïs Rourre</strong> (UdeM) — <em>When social cognition remains: identifying consciousness capacity from multi-brain recordings in patients in a disorder of consciousness</em><br>
 
-        4:30–4:40 Talk 2: <strong>Juan Guerra</strong> (Poly) — <em>Bidirectional Information Flow : A Sample Efficient Hierarchical Gaussian Process</em><br>
+        4:45–5:05 Talk 2: <strong>Juan Guerra</strong> (Poly) — <em>Bidirectional Information Flow : A Sample Efficient Hierarchical Gaussian Process</em><br>
 
-        4:40–4:45 Closing remarks<br>
+        5:05–5:15 Closing remarks<br>
 
-        5:00–7:00 Networking and pizza!
+        5:15–7:00 Networking and pizza!
       </div>
     </div>
   </div>
