@@ -7,6 +7,28 @@ permalink: /pastevents
 <div class="card">
   <div class="card-image">
     <figure class="image is-5by2" style="max-width: 40%; height: auto;">
+      <img src="/assets/img/UNIQUE_Get-Together_Winter_2025.png" alt="UNIQUE Fellows Get-Together Winter 2025">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4">UNIQUE Fellows Get-Together Winter 2025</p>
+      </div>
+    </div>
+
+    <div class="content">
+      <a href="/2025/get-together-winter">Event page</a>.
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<div class="card">
+  <div class="card-image">
+    <figure class="image is-5by2" style="max-width: 40%; height: auto;">
       <img src="/assets/img/UNIQUE_Get-Together_Fall_2024.png" alt="UNIQUE Fellows Get-Together Fall 2024">
     </figure>
   </div>
