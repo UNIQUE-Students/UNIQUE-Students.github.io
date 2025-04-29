@@ -19,7 +19,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     </div>
 
     <div class="content">
-    Save the date: May 20-21, 2025! Registrations will open soon!
+    Dates will be announced soon!
     </div>
 </div>
 </div>
