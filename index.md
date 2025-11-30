@@ -56,25 +56,23 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     </div>
     <div class="media">
       <div class="content">
-        5:00–5:10 Arrival
+        5:00–5:05 Arrival
         <br>
-        5:10–5:15 Opening remarks
+        5:05-5:10 Opening remarks
         <br>
-        5:15–5:30 Talk 1: <strong>Zijing Wu</strong> (McGill) — <em>The basal ganglia as a distributed reinforcement learning system computing general values</em>
+        5:10–5:22 Lightning Talk 1: <strong>Zijing Wu</strong> (McGill) — <em>The basal ganglia as a distributed reinforcement learning system computing general values</em>
         <br>
-        5:30–5:45 Talk 2: <strong>Raymond Chua</strong> (McGill/Mila) — <em>Balancing Plasticity and Stability with fast and slow successor features</em>
+        5:22–5:34 Lightning Talk 2: <strong>Raymond Chua</strong> (McGill/Mila) — <em>Balancing Plasticity and Stability with fast and slow successor features</em>
         <br>
-        5:45–6:00 Talk 3: <strong>Tejas Kasetty</strong> (UdeM/Mila) — <em>Learning to order data for better compression and representation learning</em>
+        5:34–5:46 Lightning Talk 3: <strong>Tejas Kasetty</strong> (UdeM/Mila) — <em>Learning to order data for better compression and representation learning</em>
         <br>
-        6:00-6:05 Break
+        5:46–5:58 Lightning Talk 4: <strong>Maxime Daigle</strong> (UdeM) — <em>From memory to navigation: inference across relational structures</em>
         <br>
-        6:05–6:20 Talk 4: <strong>Maxime Daigle</strong> (UdeM) — <em>From memory to navigation: inference across relational structures</em>
+        5:58–6:10 Lightning Talk 5: <strong>Ezekiel Williams</strong> (UdeM/Mila) — <em>Dynamics and Timescales of Learning in Linear RNN Models</em>
         <br>
-        6:20–6:35 Talk 5: <strong>Ezekiel Williams</strong> (UdeM/Mila) — <em>Dynamics and Timescales of Learning in Linear RNN Models</em>
+        6:10–6:15 Closing remarks
         <br>
-        6:35–6:45 Closing remarks
-        <br>
-        6:45–7:00 Networking and pizza!
+        6:15–7:00 Networking and pizza!
       </div>
     </div>
   </div>
