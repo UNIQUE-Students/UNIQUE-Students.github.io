@@ -8,7 +8,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 
 ---
 
-# Upcoming Event: UNIQUE Fellows Get-Together - Fall 2026
+# Upcoming Event: UNIQUE Fellows Get-Together - Winter 2026
 
 <style>
 /* Ensure mobile responsiveness */
@@ -29,13 +29,13 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 <div class="card" style="display: flex; align-items: center; flex-wrap: wrap;">
   <div class="card-image" style="flex: 1; max-width: 40%;">
       <figure class="image is-5by2">
-          <img src="/assets/img/UNIQUE_Get-Together_Winter_2026.png" alt="UNIQUE Fellows Get-Together Fall 2026">
+          <img src="/assets/img/UNIQUE_Get-Together_Winter_2026.png" alt="UNIQUE Fellows Get-Together Winter 2026">
       </figure>
   </div>
   <div class="card-content" style="flex: 1.5; padding: 20px; max-width: 60%;">
     <div class="media">
       <div class="media-content">
-        <p class="title is-4">UNIQUE Fellows Get-Together Fall 2026</p>
+        <p class="title is-4">UNIQUE Fellows Get-Together Winter 2026</p>
       </div>
     </div>
     <div class="media">
