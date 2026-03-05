@@ -8,7 +8,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 
 ---
 
-# Upcoming Event: UNIQUE Fellows Get-Together - Fall 2025
+# Upcoming Event: UNIQUE Fellows Get-Together - Winter 2026
 
 <style>
 /* Ensure mobile responsiveness */
@@ -29,13 +29,13 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 <div class="card" style="display: flex; align-items: center; flex-wrap: wrap;">
   <div class="card-image" style="flex: 1; max-width: 40%;">
       <figure class="image is-5by2">
-          <img src="/assets/img/UNIQUE_Get-Together_Fall_2025.png" alt="UNIQUE Fellows Get-Together Fall 2025">
+          <img src="/assets/img/UNIQUE_Get-Together_Winter_2026.png" alt="UNIQUE Fellows Get-Together Winter 2026">
       </figure>
   </div>
   <div class="card-content" style="flex: 1.5; padding: 20px; max-width: 60%;">
     <div class="media">
       <div class="media-content">
-        <p class="title is-4">UNIQUE Fellows Get-Together Fall 2025</p>
+        <p class="title is-4">UNIQUE Fellows Get-Together Winter 2026</p>
       </div>
     </div>
     <div class="media">
@@ -44,9 +44,9 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
         <br><br>
         <em>Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE.</em>
         <br><br>
-        <strong>Date & Time:</strong> Tuesday, 2nd December 2025 from 5 pm to 7 pm EST
+        <strong>Date & Time:</strong> Thursday, 26th February 2026 from 5 pm to 7 pm EST
         <br>
-        <strong>Venue:</strong> Room 580-31, Pavillon 3744 Jean-Brillant, Montréal, QC H3T 1P1
+        <strong>Venue:</strong> <a href="https://maps.app.goo.gl/455ze7suaPv2p8J6A">Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9</a>
       </div>
     </div>
     <div class="media">
@@ -56,7 +56,8 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     </div>
     <div class="media">
       <div class="content">
-        5:00–5:05 Arrival
+        Schedule: TBD
+        <!-- 5:00–5:05 Arrival
         <br>
         5:05-5:10 Opening remarks
         <br>
@@ -72,7 +73,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
         <br>
         6:10–6:15 Closing remarks
         <br>
-        6:15–7:00 Networking and pizza!
+        6:15–7:00 Networking and pizza! -->
       </div>
     </div>
   </div>
