@@ -44,7 +44,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
         <br><br>
         <em>Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE.</em>
         <br><br>
-        <strong>Date & Time:</strong> Thursday, 26th February 2026 from 5 pm to 7 pm EST
+        <strong>Date & Time:</strong> Thursday, 26th March 2026 from 5 pm to 7 pm EST
         <br>
         <strong>Venue:</strong> <a href="https://maps.app.goo.gl/455ze7suaPv2p8J6A">Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9</a>
       </div>
