@@ -1,6 +1,6 @@
 ---
 title: UNIQUE Get-Together – Winter 2026
-subtitle: 26th March (5 pm to 7 pm EST) at the Mila Coworking Space
+subtitle: 9th April (5 pm to 7 pm EST) at the Mila Coworking Space
 permalink: /2026/get-together-winter
 ---
 
@@ -46,7 +46,7 @@ permalink: /2026/get-together-winter
 
         <br><br>
 
-        <strong>Date & Time:</strong> Thursday, 26th March 2026 from 5 pm to 7 pm EST<br>
+        <strong>Date & Time:</strong> Thursday, 9th April 2026 from 5 pm to 7 pm EST<br>
         <strong>Venue:</strong> <a href="https://maps.app.goo.gl/455ze7suaPv2p8J6A">Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9</a>
       </div>
     </div>
