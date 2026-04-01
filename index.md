@@ -47,6 +47,8 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
         <strong>Date & Time:</strong> Thursday, 9th April 2026 from 5 pm to 7 pm EST
         <br>
         <strong>Venue:</strong> <a href="https://maps.app.goo.gl/455ze7suaPv2p8J6A">Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9</a>
+        <br><br>
+        <a href="https://forms.gle/Ssd58De8JkTMaNFm7"><strong>Sign up here!</strong></a>
       </div>
     </div>
     <div class="media">
