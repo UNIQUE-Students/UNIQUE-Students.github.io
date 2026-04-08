@@ -57,20 +57,21 @@ permalink: /2026/get-together-winter
     </div>
     <div class="media">
       <div class="content">
-        Schedule: TBD
-        <!-- 4:00–4:10 Arrival<br>
+        5:00–5:15 Arrivals, opening remarks & pizza 🍕<br>
 
-        4:10–4:15 Opening remarks<br>
+        5:15–5:25 <strong>Motahareh Pourrahimi</strong> (McGill/Mila) — <em>Neural signatures of associational cortex emerge in a goal-directed model of visual search</em><br>
 
-        4:15–4:35 Talk 1: <strong>Avery Ryoo</strong> (UdeM) — <em>A generalizable approach for real-time motor decoding</em><br>
+        5:25–5:35 <strong>Veldon-James Laurie</strong> (UdeM) — <em>Persistent decisions in mice and primates across experimental settings</em><br>
 
-        4:35–4:45 Lightning Talk: <strong>Anaïs Rourre</strong> (UdeM) — <em>When social cognition remains: identifying consciousness capacity from multi-brain recordings in patients in a disorder of consciousness</em><br>
+        5:35–5:45 <strong>Natalie Kastel</strong> (UdeM) — <em>Agency Makes the World Model Profound: Routing "Unphysical" Prediction Errors Yields Leaner, More Generalizable Social Agents</em><br>
 
-        4:45–5:05 Talk 2: <strong>Juan Guerra</strong> (Poly) — <em>Bidirectional Information Flow : A Sample Efficient Hierarchical Gaussian Process</em><br>
+        5:45–5:55 <strong>Darius Valevicius</strong> (UdeM) — <em>Synthetic image evolution for affective neuroscience</em><br>
 
-        5:05–5:15 Closing remarks<br>
+        5:55–6:05 <strong>Doris Voina</strong> (UdeM) — <em>Neural Mechanisms and Learning Rules underlying Heuristic Decision-Making</em><br>
 
-        5:15–7:00 Networking and pizza! -->
+        6:05–6:15 <strong>Manoosh Samiei</strong> (McGill/Mila) — <em>Brain-inspired Multi-Horizon Reinforcement Learning</em><br>
+
+        6:15–7:00 Social, pizza & judging — winner announced at 6:45 pm 🏆
       </div>
     </div>
   </div>

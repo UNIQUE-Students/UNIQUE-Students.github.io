@@ -58,24 +58,21 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
     </div>
     <div class="media">
       <div class="content">
-        Schedule: TBD
-        <!-- 5:00–5:05 Arrival
+        5:00–5:15 Arrivals, opening remarks & pizza 🍕
         <br>
-        5:05-5:10 Opening remarks
+        5:15–5:25 <strong>Motahareh Pourrahimi</strong> (McGill/Mila) — <em>Neural signatures of associational cortex emerge in a goal-directed model of visual search</em>
         <br>
-        5:10–5:22 Lightning Talk 1: <strong>Zijing Wu</strong> (McGill) — <em>The basal ganglia as a distributed reinforcement learning system computing general values</em>
+        5:25–5:35 <strong>Veldon-James Laurie</strong> (UdeM) — <em>Persistent decisions in mice and primates across experimental settings</em>
         <br>
-        5:22–5:34 Lightning Talk 2: <strong>Raymond Chua</strong> (McGill/Mila) — <em>Balancing Plasticity and Stability with fast and slow successor features</em>
+        5:35–5:45 <strong>Natalie Kastel</strong> (UdeM) — <em>Agency Makes the World Model Profound: Routing "Unphysical" Prediction Errors Yields Leaner, More Generalizable Social Agents</em>
         <br>
-        5:34–5:46 Lightning Talk 3: <strong>Tejas Kasetty</strong> (UdeM/Mila) — <em>Learning to order data for better compression and representation learning</em>
+        5:45–5:55 <strong>Darius Valevicius</strong> (UdeM) — <em>Synthetic image evolution for affective neuroscience</em>
         <br>
-        5:46–5:58 Lightning Talk 4: <strong>Maxime Daigle</strong> (UdeM) — <em>From memory to navigation: inference across relational structures</em>
+        5:55–6:05 <strong>Doris Voina</strong> (UdeM) — <em>Neural Mechanisms and Learning Rules underlying Heuristic Decision-Making</em>
         <br>
-        5:58–6:10 Lightning Talk 5: <strong>Ezekiel Williams</strong> (UdeM/Mila) — <em>Dynamics and Timescales of Learning in Linear RNN Models</em>
+        6:05–6:15 <strong>Manoosh Samiei</strong> (McGill/Mila) — <em>Brain-inspired Multi-Horizon Reinforcement Learning</em>
         <br>
-        6:10–6:15 Closing remarks
-        <br>
-        6:15–7:00 Networking and pizza! -->
+        6:15–7:00 Social, pizza & judging — winner announced at 6:45 pm 🏆
       </div>
     </div>
   </div>
