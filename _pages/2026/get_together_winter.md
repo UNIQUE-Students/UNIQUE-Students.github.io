@@ -59,11 +59,11 @@ permalink: /2026/get-together-winter
       <div class="content">
         5:00–5:15 Arrivals, opening remarks & pizza 🍕<br>
 
-        5:15–5:25 <strong>Motahareh Pourrahimi</strong> (McGill/Mila) — <em>Neural signatures of associational cortex emerge in a goal-directed model of visual search</em><br>
+        5:15–5:25 <strong>Motahareh Pourrahimi</strong> (McGill/Mila) — <em>A task-trained recurrent neural network produces brain-like neural signatures during visual search</em><br>
 
         5:25–5:35 <strong>Veldon-James Laurie</strong> (UdeM) — <em>Persistent decisions in mice and primates across experimental settings</em><br>
 
-        5:35–5:45 <strong>Natalie Kastel</strong> (UdeM) — <em>Agency Makes the World Model Profound: Routing "Unphysical" Prediction Errors Yields Leaner, More Generalizable Social Agents</em><br>
+        5:35–5:45 <strong>Natalie Kastel</strong> (UdeM) — <em>To Know Others, Know Yourself: Computational Evidence for the Intrapersonal Prerequisites of Social Intelligence</em><br>
 
         5:45–5:55 <strong>Darius Valevicius</strong> (UdeM) — <em>Synthetic image evolution for affective neuroscience</em><br>
 
