@@ -1,0 +1,116 @@
+# May 12th - Day 1
+- name: Arrival and Registration (coffee, tea & pastries)
+  date: 20260512
+  time_start: "08:45"
+  time_end: "09:15"
+  platforms:
+- name: Opening Remarks
+  date: 20260512
+  time_start: "09:15"
+  time_end: "09:30"
+  platforms:
+- name: "Session 1: Innovative Analysis in NeuroAI"
+  date: 20260512
+  time_start: "09:30"
+  time_end: "10:45"
+  title: "Innovative Analysis in NeuroAI"
+  platforms:
+- name: Break
+  date: 20260512
+  time_start: "10:45"
+  time_end: "11:00"
+  platforms:
+- name: "Panel Discussion 1: Neuro foundation models"
+  date: 20260512
+  time_start: "11:00"
+  time_end: "12:00"
+  session: panel
+  title: "Neuro foundation models"
+  platforms:
+- name: Lunch
+  date: 20260512
+  time_start: "12:00"
+  time_end: "13:00"
+  platforms:
+- name: "Session 2: Computational approaches to the mind"
+  date: 20260512
+  time_start: "13:00"
+  time_end: "14:15"
+  title: "Computational approaches to the mind"
+  platforms:
+- name: Break
+  date: 20260512
+  time_start: "14:15"
+  time_end: "14:30"
+  platforms:
+- name: Workshop 1
+  date: 20260512
+  time_start: "14:30"
+  time_end: "16:00"
+  platforms:
+- name: Poster session
+  date: 20260512
+  time_start: "16:00"
+  time_end: "17:30"
+  platforms:
+- name: Neuro-AI Networking event
+  date: 20260512
+  time_start: "17:30"
+  time_end: "19:00"
+  platforms:
+
+# May 13th - Day 2
+- name: Coffee, tea & pastries
+  date: 20260513
+  time_start: "08:45"
+  time_end: "09:15"
+  platforms:
+- name: Opening Remarks
+  date: 20260513
+  time_start: "09:15"
+  time_end: "09:30"
+  platforms:
+- name: "Session 3: Ethics and EDI in NeuroAI"
+  date: 20260513
+  time_start: "09:30"
+  time_end: "10:45"
+  title: "Ethics and EDI in NeuroAI"
+  platforms:
+- name: Break
+  date: 20260513
+  time_start: "10:45"
+  time_end: "11:00"
+  platforms:
+- name: "Panel Discussion 2: Neuro-AI in industry"
+  date: 20260513
+  time_start: "11:00"
+  time_end: "12:00"
+  session: panel
+  title: "Neuro-AI in industry"
+  platforms:
+- name: Lunch
+  date: 20260513
+  time_start: "12:00"
+  time_end: "13:00"
+  platforms:
+- name: "Session 4: Video games + Creativity + Gamification"
+  date: 20260513
+  time_start: "13:00"
+  time_end: "14:15"
+  title: "Video games + Creativity + Gamification"
+  platforms:
+- name: Break
+  date: 20260513
+  time_start: "14:15"
+  time_end: "14:30"
+  platforms:
+- name: Workshop 2
+  date: 20260513
+  time_start: "14:30"
+  time_end: "16:00"
+  platforms:
+- name: Closing Remarks
+  date: 20260513
+  time_start: "16:00"
+  time_end: "17:30"
+  platforms:

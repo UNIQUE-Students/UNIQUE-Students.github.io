@@ -1,0 +1,27 @@
+- fullname: Annemarie Wolff
+  photo: none
+  affiliation: "TBA"
+  bio: "TBA"
+  committee: TBA
+  alttext: none
+
+- fullname: Bahar Moadeli
+  photo: bahar_moadeli.jpg
+  affiliation: "Concordia University"
+  bio: "I am a MASc student at Concordia University, supervised by Dr. Habib Benali. My research focuses on analyzing resting-state fMRI data to investigate the relationship between brain glutamate levels and motor-related neural activity patterns. By integrating multimodal neuroimaging data, I aim to explore how fluctuations in glutamate concentration are reflected in BOLD signal dynamics, particularly in brain regions involved in motor memory consolidation."
+  committee: Communication
+  alttext: none
+
+- fullname: Myriam Sahraoui
+  photo: myriam_sahraoui.jpg
+  affiliation: "Université de Montréal"
+  bio: "I'm a PhD student in Cognitive and Computational Neuroscience under the supervision of Professors Bruno Gauthier and Karim Jerbi. My research focuses on exploring and characterizing neuroexecutive heterogeneity during development. I aim to combine mobile neuroimaging techniques with data-driven clustering methods to uncover meaningful patterns in brain and behavioral data."
+  committee: Co-Chair
+  alttext: none
+
+- fullname: Tanzia Mobarak
+  photo: tanzia_mobarak.jpg
+  affiliation: "Université de Montréal"
+  bio: "I am a doctoral student in Cinema at the Université de Montréal, supervised by Professor André Gaudreault and Professor Karim Jerbi. I am also a research assistant at the Laboratoire CinéMédias. My current research interests include: early cinema technology, video GenAI technology, neurocognitive impact of GenAI videos on viewers, etc."
+  committee: Workshop management team
+  alttext: none

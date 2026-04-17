@@ -8,80 +8,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 
 ---
 
-# Upcoming Event: UNIQUE Fellows Get-Together - Winter 2026
-
-<style>
-/* Ensure mobile responsiveness */
-@media screen and (max-width: 665px) {
-  .card {
-    flex-direction: column;
-    max-width: 100%;
-  }
-  .card-image, .card-content {
-    max-width: 100%;
-  }
-  .card-content {
-    padding: none;
-  }
-}
-</style>
-
-<div class="card" style="display: flex; align-items: center; flex-wrap: wrap;">
-  <div class="card-image" style="flex: 1; max-width: 40%;">
-      <figure class="image is-5by2">
-          <img src="/assets/img/UNIQUE_Get-Together_Winter_2026.png" alt="UNIQUE Fellows Get-Together Winter 2026">
-      </figure>
-  </div>
-  <div class="card-content" style="flex: 1.5; padding: 20px; max-width: 60%;">
-    <div class="media">
-      <div class="media-content">
-        <p class="title is-4">UNIQUE Fellows Get-Together Winter 2026</p>
-      </div>
-    </div>
-    <div class="media">
-      <div class="content">
-        This event is an ideal opportunity to present UNIQUE-funded work and promote the Neuro-AI student community. The event will feature brief student presentations, followed by networking and a meal (pizza and snacks). With this gathering, we hope to give UNIQUE students the opportunity to get to know each other in a friendlier format, with the aim of creating a community of Neuro-AI students and networking among UNIQUE students.
-        <br><br>
-        <em>Cet événement est l'occasion idéale de présenter les travaux financés par UNIQUE et de promouvoir la communauté des étudiant.e.s de Neuro-AI. L'événement comprendra de brèves présentations d'étudiant.e.s, suivies d'un réseautage accompagné de nourriture (pizza et snacks). Avec cette rencontre, nous voulons donner aux étudiant.e.s d'UNIQUE l'opportunité de se connaître dans un format plus amical, dans le but de créer une communauté d'étudiant.e.s Neuro-AI et de créer un réseau parmi les étudiant.e.s UNIQUE.</em>
-        <br><br>
-        <strong>Date & Time:</strong> Thursday, 9th April 2026 from 5 pm to 7 pm EST
-        <br>
-        <strong>Venue:</strong> <a href="https://maps.app.goo.gl/455ze7suaPv2p8J6A">Mila Coworking Space, 6650 Rue St-Urbain, Montréal, QC H2S 3G9</a>
-        <br><br>
-        <a href="https://forms.gle/Ssd58De8JkTMaNFm7"><strong>Sign up here!</strong></a>
-      </div>
-    </div>
-    <div class="media">
-      <div class="media-content">
-        <p class="title is-4">Schedule</p>
-      </div>
-    </div>
-    <div class="media">
-      <div class="content">
-        5:00–5:15 Arrivals, opening remarks & pizza 🍕
-        <br>
-        5:15–5:25 <strong>Motahareh Pourrahimi</strong> (McGill/Mila) — <em>A task-trained recurrent neural network produces brain-like neural signatures during visual search</em>
-        <br>
-        5:25–5:35 <strong>Veldon-James Laurie</strong> (UdeM) — <em>Persistent decisions in mice and primates across experimental settings</em>
-        <br>
-        5:35–5:45 <strong>Natalie Kastel</strong> (UdeM) — <em>To Know Others, Know Yourself: Computational Evidence for the Intrapersonal Prerequisites of Social Intelligence</em>
-        <br>
-        5:45–5:55 <strong>Darius Valevicius</strong> (UdeM) — <em>Synthetic image evolution for affective neuroscience</em>
-        <br>
-        5:55–6:05 <strong>Doris Voina</strong> (UdeM) — <em>Neural Mechanisms and Learning Rules underlying Heuristic Decision-Making</em>
-        <br>
-        6:05–6:15 <strong>Manoosh Samiei</strong> (McGill/Mila) — <em>Brain-inspired Multi-Horizon Reinforcement Learning</em>
-        <br>
-        6:15–7:00 Social, pizza & judging — winner announced at 6:45 pm 🏆
-      </div>
-    </div>
-  </div>
-</div>
-
-
----
-
-# Thanks for attending USS 2024!
+# Coming up: UNIQUE Student Symposium 2026, May 12-13 @ Montréal!
 
 <style>
 .inlinelist ul {
@@ -106,6 +33,77 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
   }
 }
 </style>
+
+<center>
+<ul class="inlinelist" style="margin-top: 2em;"><li class="inlinelist"><a href="/2026/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li class="inlinelist"><a href="/2026/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li class="inlinelist"><a href="/2026/poster.html"><button class="button is-primary">Poster Submission</button></a></li>  <li class="inlinelist"><a href="/2026/team.html"><button class="button is-primary">USS Team</button></a></li></ul>
+</center>
+<br>
+
+<div class="card">
+  <div class="card-image">
+    <figure class="image">
+      <img src="/assets/img/USS2026/USS_poster_EN.png" alt="USS 2026" style="width: 100%;">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4">UNIQUE Student Symposium 2026: May 12-13 at Université de Montréal</p>
+      </div>
+    </div>
+    <div class="content">
+      Join us at the UNIQUE Student Symposium (USS) 2026, happening from 12-13 May at the Jean-Brillant Pavilion, <a href="https://www.umontreal.ca/en/">Université de Montréal</a>, in Montréal!
+      <br><br>
+      USS is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
+
+      <h3>Event Details</h3>
+      <b>Day 1: Tuesday, 12 May 2026</b><br>
+      <b>Day 2: Wednesday, 13 May 2026</b><br>
+      <b>Location: <a href="https://maps.app.goo.gl/">Jean-Brillant Pavilion, Université de Montréal, 3200 Jean-Brillant Street</a></b><br>
+      <b>See the schedule <a href="/2026/schedule.html">here</a>.</b><br>
+      <b>See the speakers <a href="/2026/speakers.html">here</a>.</b>
+
+      <h3>Important Information</h3>
+      <b>Registration:</b> coming soon.
+      <br><br>
+      <b>Poster submission & volunteer recruitment: <a href="https://forms.gle/Lr97HxzwZPqMP9WKA">click here!</a></b>
+      <br>
+      <b>Deadline:</b> TBD
+      <br><br>
+      Note: The event is open to all people working in Neuro-AI (UNIQUE member or not).
+
+      <h3>Accessibility and Code of Conduct</h3>
+      We strive to create an accessible and inclusive event. Please be informed that:
+      <ul>
+      <li>All participants are required to follow the <a href="/coc.html">Code of Conduct</a>.</li>
+      <li>If you have any accessibility needs that you would like us to know, please contact us at <code>{{ site.email }}</code>.</li>
+      </ul>
+
+      <hr>
+
+      <figure class="image">
+        <img src="/assets/img/USS2026/USS_poster_FR.png" alt="USS 2026 (FR)" style="width: 100%;">
+      </figure>
+      <br>
+      Rejoignez-nous au Symposium Étudiant UNIQUE (USS 2026), qui se déroulera du 12 au 13 mai 2026 au Pavillon Jean-Brillant, <a href="https://www.umontreal.ca/">Université de Montréal</a>, à Montréal!
+      <br><br>
+      <b>Date :</b> Mardi 12 mai et Mercredi 13 mai 2026<br>
+      <b>Lieu :</b> <a href="https://maps.app.goo.gl/">Pavillon Jean-Brillant, Université de Montréal, 3200 rue Jean-Brillant</a>
+      <br><br>
+      <b>Inscription :</b> bientôt disponible.
+      <br><br>
+      <b>Présentations d'affiche et recrutement de bénévoles : <a href="https://forms.gle/Lr97HxzwZPqMP9WKA">formulaire</a></b>
+      <br>
+      <b>Date limite :</b> à déterminer
+      <br><br>
+      Note: l'événement est ouvert à toutes les personnes travaillant dans le domaine de la Neuro-AI (membres d'UNIQUE ou non).
+    </div>
+  </div>
+</div>
+
+---
+
+# Thanks for attending USS 2024!
 
 <center>
 <ul class="inlinelist" style="margin-top: 2em;"><li class="inlinelist"><a href="/2024/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li class="inlinelist"><a href="/2024/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li class="inlinelist"><a href="https://www.eventbrite.ca/e/unique-student-symposium-2024-tickets-865573121507"><button class="button is-primary">Registration</button></a></li>  <li class="inlinelist"><a href="/2024/poster.html"><button class="button is-primary">Poster Submission</button></a></li> <li class="inlinelist"><a href="/2024/team.html"><button class="button is-primary">USS Team</button></a></li></ul>
