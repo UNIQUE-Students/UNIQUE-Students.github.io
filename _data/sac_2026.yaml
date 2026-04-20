@@ -2,7 +2,7 @@
   email: shawn.manuel@umontreal.ca
   photo: shawn_manuel.jpg
   affiliation: "Université de Montréal"
-  bio: "I am a PhD student working with Vincent Taschereau-Dumouchel on bridging the gap between quantitative and qualitative approaches in cognitive neuroscience and computational psychiatry. During my master's, I worked on mapping out subjective experience using a combination of psychometrics, NLP and generative AI, with a focus on accelerating mental health care research. I now aim to develop innovative applications of AI to the study of brains and consciousness. Being part of the UNIQUE SAC, as well as the broader neuroAI community, has been a huge source of inspiration and motivation, which is why I'm eager to continue on this path for a second year."
+  bio: "I am a PhD student working on bridging subjective experience and objective measurement through computational methods in brain and mental health research. I am particularly interested in how we can use large language models and other AI tools alongside traditional methods such as neuroimaging, psychophysics and psychometrics."
   committee: Co-Chair of the SAC
   alttext: none
   pronouns: he/him
@@ -11,9 +11,9 @@
 
 - fullname: Charlotte Volk
   email: charlotte.volk@mail.mcgill.ca
-  photo: charlotte_volk.png
+  photo: charlotte_volk.jpg
   affiliation: "McGill University and Mila"
-  bio: "I am a Master's student in Computer Science at McGill and Mila, supervised by Blake Richards and Shahab Bakhtiari. I'm interested in leveraging AI models to study human learning processes. In my free time, I love to read, figure skate, and crochet. "
+  bio: "I'm a PhD student in Computer Science at McGill and Mila, co-supervised by Blake Richards and Shahab Bakhtiari. My interests lie broadly in NeuroAI and human learning processes, and I work on biologically inspired learning algorithms. Right now, I'm working on developing predictive coding algorithms that are more closely mapped to cortical microcircuits and can process complex data modalities."
   committee: Co-Chair of the SAC
   alttext: none
   pronouns: she/her
@@ -32,16 +32,16 @@
   email: elizaveta.sycheva@umontreal.ca
   photo: elizaveta_sycheva.jpeg
   affiliation: "Université de Montréal"
-  bio: "I am a Master’s student in Computational Medicine (Clinical Sciences) at the Université de Montréal, under the supervision of Franco Lepore and Shahab Bakhtiari. My research investigates how perceptual and contextual factors influence multisensory integration and how audiovisual systems can be jointly modeled to capture these dynamics."
+  bio: "I'm a Master's student in Computational Medicine supervised by Professors Franco Lepore and Shahab Bakhtiari. My research focuses on audiovisual multisensory integration and how the brain combines information from different senses to guide perception and decision-making. I use computational and statistical modeling to characterize the dynamics of this process and to better understand how factors such as expectations and sensory reliability shape perceptual behavior."
   committee: Event Coordinator
   alttext: none
   pronouns: she/her
 
 - fullname: Emmanuelle Coutu-Nadeau
   email: emmanuelle.coutu-nadeau@umontreal.ca
-  photo: emmanuelle_coutu-nadeau.png
+  photo: emmanuelle_coutu-nadeau.jpeg
   affiliation: "Université de Montréal"
-  bio: "Emmanuelle Coutu-Nadeau is a Master’s student in Psychology at the Université de Montréal, under the supervision of Dr. Sarah Lippé, where she applies artificial intelligence to EEG data to identify biomarkers of autism. She holds two undergraduate degrees from McGill University, in Software Engineering and Psychology, and has worked in digital health at CareSimple as a software developer and later as a project manager. Emmanuelle is also a mentor for Technovation Montréal, where she supports girls aged 8 to 18 in creating mobile applications with social impact. Her background reflects a unique expertise at the intersection of technology, health, and psychology."
+  bio: "Emmanuelle Coutu-Nadeau (M.Sc. Candidate, University of Montreal) specializes in the intersection of artificial intelligence and developmental psychology. Under the supervision of Dr. Sarah Lippé, she develops AI-driven analytical pipelines for EEG data to enhance the diagnostic precision of Autism Spectrum Disorder and ADHD. She holds two undergraduate degrees from McGill University, in Software Engineering and Psychology, and has worked in digital health at CareSimple as a software developer and later as a project manager. Emmanuelle is also a mentor for Technovation Montreal, where she supports girls aged 8 to 18 in creating mobile applications with social impact. Her background reflects a unique expertise at the intersection of technology, health, and psychology."
   committee: Content Manager
   alttext: none
   pronouns: she/her
@@ -49,9 +49,9 @@
 
 - fullname: Laurence Lessard
   email: laurence.lessard.4@umontreal.ca
-  photo: laurence_lessard.png
+  photo: laurence_lessard.jpg
   affiliation: "Université de Montréal"
-  bio: "I am a Master’s student in psychology (specialization in computational and cognitive neuroscience) at Université de Montréal. I am co-supervised by Dr. Ian Charest and Dr. Frédéric Gosselin, studying the mental geometry of the human mind between vision and mental imagery similarities. My main research ambition is to turn imagination and mental content into something you can see, using advanced neuroimaging and neuromodulation techniques such as geodesic transcranial electrical neuromodulation. Outside the lab, I enjoy literature, rock music and getting lost in new countries. "
+  bio: "I'm a Master's student in Psychology at Université de Montréal, specializing in Cognitive and Computational Neuroscience. My current work focuses on how visual perception and mental imagery share a similar representational format. I am interested more generally in the inner world of the mind and what is shaping each individual's unique way of perceiving and imagining."
   committee: Liaison to the Equity, Diversity, and Inclusion Committee
   alttext: none
   pronouns: she/her
