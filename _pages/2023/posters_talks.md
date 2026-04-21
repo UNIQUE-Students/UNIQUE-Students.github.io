@@ -4,13 +4,9 @@ layout: page
 permalink: /2023/posters-talks
 ---
 
-<section class="hero is-primary">
-  <div class="hero-body">
-    <figure class="image is-5by2">
-      <img src="/assets/img/USS2023/banner.png" alt="USS 2023">
-    </figure>
-  </div>
-</section>
+<figure class="image is-5by2">
+  <img src="/assets/img/USS2023/banner.png" alt="USS 2023">
+</figure>
 
 # Accepted Posters and Lightning Talks
 

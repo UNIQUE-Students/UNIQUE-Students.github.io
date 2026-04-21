@@ -4,13 +4,9 @@ layout: page
 permalink: /2023/schedule
 ---
 
-<section class="hero is-primary">
-  <div class="hero-body">
-    <figure class="image is-5by2">
-      <img src="/assets/img/USS2023/speaker_banner.png" alt="USS 2023">
-    </figure>
-  </div>
-</section>
+<figure class="image is-5by2">
+  <img src="/assets/img/USS2023/speaker_banner.png" alt="USS 2023">
+</figure>
 
 <br>
 

@@ -6,7 +6,7 @@ permalink: /pastevents
 
 <div class="card">
   <div class="card-image">
-    <figure class="image is-5by2" style="max-width: 40%; height: auto;">
+    <figure class="image is-5by2">
       <img src="/assets/img/UNIQUE_Get-Together_Winter_2026.png" alt="UNIQUE Fellows Get-Together Winter 2026">
     </figure>
   </div>
@@ -28,7 +28,7 @@ permalink: /pastevents
 
 <div class="card">
   <div class="card-image">
-    <figure class="image is-5by2" style="max-width: 40%; height: auto;">
+    <figure class="image is-5by2">
       <img src="/assets/img/UNIQUE_Get-Together_Fall_2025.png" alt="UNIQUE Fellows Get-Together Fall 2025">
     </figure>
   </div>
@@ -50,7 +50,7 @@ permalink: /pastevents
 
 <div class="card">
   <div class="card-image">
-    <figure class="image is-5by2" style="max-width: 40%; height: auto;">
+    <figure class="image is-5by2">
       <img src="/assets/img/UNIQUE_Get-Together_Winter_2025.png" alt="UNIQUE Fellows Get-Together Winter 2025">
     </figure>
   </div>
@@ -72,7 +72,7 @@ permalink: /pastevents
 
 <div class="card">
   <div class="card-image">
-    <figure class="image is-5by2" style="max-width: 40%; height: auto;">
+    <figure class="image is-5by2">
       <img src="/assets/img/UNIQUE_Get-Together_Fall_2024.png" alt="UNIQUE Fellows Get-Together Fall 2024">
     </figure>
   </div>
@@ -128,7 +128,7 @@ permalink: /pastevents
 
 <div class="card" style="align-items: center;">
   <div class="card-image">
-    <figure class="image is-5by2" style="max-width: 40%; height: auto;">
+    <figure class="image is-5by2">
       <img src="/assets/img/UNIQUE_Get-Together_Spring_2024.png" alt="UNIQUE Get-Together Spring 2024">
     </figure>
   </div>
@@ -150,7 +150,7 @@ permalink: /pastevents
 
 <div class="card" style="align-items: center;">
   <div class="card-image">
-    <figure class="image is-5by2" style="max-width: 40%; height: auto;">
+    <figure class="image is-5by2">
       <img src="/assets/img/UNIQUE_Fellows_Get-Together_2023.png" alt="UNIQUE Fellows Get-Together 2023">
     </figure>
   </div>

@@ -33,13 +33,9 @@ permalink: /2024/schedule
 </center>
 <br>
 
-<section class="hero is-primary">
-  <div class="hero-body">
-    <figure class="image is-5by2">
-      <img src="/assets/img/USS2024/banner.png" alt="USS 2024">
-    </figure>
-  </div>
-</section>
+<figure class="image is-5by2">
+  <img src="/assets/img/USS2024/banner.png" alt="USS 2024">
+</figure>
 
 <br>
 

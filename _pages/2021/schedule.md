@@ -7,13 +7,9 @@ show_sidebar: false
 permalink: /2021/schedule
 ---
 
-<section class="hero is-primary">
-  <div class="hero-body">
-    <figure class="image is-5by2">
-      <img src="/assets/img/USS2021/banner-1-v1.png" alt="{{'USS21'}}">
-    </figure>
-  </div>
-</section>
+<figure class="image is-5by2">
+  <img src="/assets/img/USS2021/banner-1-v1.png" alt="{{'USS21'}}">
+</figure>
 
 ## Monday, 7 June
 

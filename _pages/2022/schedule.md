@@ -7,13 +7,9 @@ show_sidebar: false
 permalink: /2022/schedule
 ---
 
-<section class="hero is-primary">
-  <div class="hero-body">
-    <figure class="image is-5by2">
-      <img src="/assets/img/USS2022/banner.png" alt="USS 2022">
-    </figure>
-  </div>
-</section>
+<figure class="image is-5by2">
+  <img src="/assets/img/USS2022/banner.png" alt="USS 2022">
+</figure>
 
 <br>
 

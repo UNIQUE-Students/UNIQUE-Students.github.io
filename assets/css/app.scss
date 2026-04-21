@@ -3,3 +3,28 @@
 $primary: #372248;
 // Import Main CSS file from theme
 @import "main";
+
+.card.card-split {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  .card-image   { flex: 1 1 40%; max-width: 40%; }
+  .card-content { flex: 1 1 60%; max-width: 60%; }
+
+  @media screen and (max-width: 900px) {
+    flex-direction: column;
+
+    .card-image,
+    .card-content {
+      flex: 1 1 100%;
+      max-width: 100%;
+      width: 100%;
+    }
+    .card-image figure {
+      margin: 0;
+      &.is-5by2 { padding-top: 0; }
+      img { position: static; height: auto; }
+    }
+  }
+}

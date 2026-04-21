@@ -4,13 +4,9 @@ layout: page
 permalink: /2024/gallery
 ---
 
-<section class="hero is-primary">
-  <div class="hero-body">
-    <figure class="image is-5by2">
-      <img src="/assets/img/USS2024/banner.png" alt="USS 2024">
-    </figure>
-  </div>
-</section>
+<figure class="image is-5by2">
+  <img src="/assets/img/USS2024/banner.png" alt="USS 2024">
+</figure>
 
 <div class="columns is-multiline">
   <div class="column is-one-third-desktop is-half-tablet">

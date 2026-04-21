@@ -8,29 +8,13 @@ permalink: /2024/get-together-fall
 
 # UNIQUE Fellows Get-Together - Fall 2024
 
-<style>
-/* Ensure mobile responsiveness */
-@media screen and (max-width: 665px) {
-    .card {
-        flex-direction: column;
-        max-width: 100%;
-    }
-    .card-image, .card-content {
-        max-width: 100%;
-    }
-    .card-content {
-      padding: none;
-    }
-}
-</style>
-
-<div class="card" style="display: flex; align-items: center; flex-wrap: wrap;">
-  <div class="card-image" style="flex: 1; max-width: 40%;">
+<div class="card card-split">
+  <div class="card-image">
       <figure class="image is-5by2">
           <img src="/assets/img/UNIQUE_Get-Together_Fall_2024.png" alt="UNIQUE Fellows Get-Together Fall 2024">
       </figure>
   </div>
-  <div class="card-content" style="flex: 1.5; padding: 20px; max-width: 60%;">
+  <div class="card-content">
     <div class="media">
       <div class="media-content">
         <p class="title is-4">UNIQUE Fellows Get-Together Fall 2024</p>

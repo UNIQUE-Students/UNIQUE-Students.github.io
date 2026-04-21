@@ -33,13 +33,9 @@ permalink: /2026/poster
 </center>
 <br>
 
-<section class="hero is-primary">
-  <div class="hero-body">
-    <figure class="image">
-      <img src="/assets/img/USS2026/USS_poster_EN.png" alt="USS 2026" style="width: 100%;">
-    </figure>
-  </div>
-</section>
+<figure class="image">
+  <img src="/assets/img/USS2026/USS_poster_EN.png" alt="USS 2026" style="width: 100%;">
+</figure>
 
 # Poster Abstract Submission
 
