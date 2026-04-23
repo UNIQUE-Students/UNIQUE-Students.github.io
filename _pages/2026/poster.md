@@ -29,7 +29,7 @@ permalink: /2026/poster
 </style>
 <br>
 <center>
-<ul class="inlinelist"><li class="inlinelist"><a href="/2026/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li class="inlinelist"><a href="/2026/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li class="inlinelist"><a href="/2026/poster.html"><button class="button is-primary">Poster Submission</button></a></li> <li class="inlinelist"><a href="/2026/team.html"><button class="button is-primary">USS Team</button></a></li></ul>
+<ul class="inlinelist"><li class="inlinelist"><a href="/2026/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li class="inlinelist"><a href="/2026/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li class="inlinelist"><a href="https://www.eventbrite.ca/e/unique-student-symposium-2026-tickets-1987516837363"><button class="button is-primary">Registration</button></a></li>  <li class="inlinelist"><a href="/2026/poster.html"><button class="button is-primary">Poster Submission</button></a></li> <li class="inlinelist"><a href="/2026/team.html"><button class="button is-primary">USS Team</button></a></li></ul>
 </center>
 <br>
 
@@ -40,7 +40,7 @@ permalink: /2026/poster
 # Poster Abstract Submission
 
 **Conference date:** 12-13 May 2026 <br>
-**Abstract submission deadline:** TBD <br><br>
+**Abstract submission deadline:** 29 April 2026 <br><br>
 
 **Note:** Participation in the event and submission of abstracts are open to anyone interested in the field of Neuro-AI (UNIQUE member or not).
 <br>

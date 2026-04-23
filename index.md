@@ -35,7 +35,7 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
 </style>
 
 <center>
-<ul class="inlinelist" style="margin-top: 2em;"><li class="inlinelist"><a href="/2026/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li class="inlinelist"><a href="/2026/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li class="inlinelist"><a href="/2026/poster.html"><button class="button is-primary">Poster Submission</button></a></li>  <li class="inlinelist"><a href="/2026/team.html"><button class="button is-primary">USS Team</button></a></li></ul>
+<ul class="inlinelist" style="margin-top: 2em;"><li class="inlinelist"><a href="/2026/schedule.html"><button class="button is-primary">Schedule</button></a></li>  <li class="inlinelist"><a href="/2026/speakers.html"><button class="button is-primary">Speakers</button></a></li>  <li class="inlinelist"><a href="https://www.eventbrite.ca/e/unique-student-symposium-2026-tickets-1987516837363"><button class="button is-primary">Registration</button></a></li>  <li class="inlinelist"><a href="/2026/poster.html"><button class="button is-primary">Poster Submission</button></a></li>  <li class="inlinelist"><a href="/2026/team.html"><button class="button is-primary">USS Team</button></a></li></ul>
 </center>
 <br>
 
@@ -64,11 +64,11 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
       <b>See the speakers <a href="/2026/speakers.html">here</a>.</b>
 
       <h3>Important Information</h3>
-      <b>Registration:</b> coming soon.
+      <b>Registration: <a href="https://www.eventbrite.ca/e/unique-student-symposium-2026-tickets-1987516837363">click here!</a></b>
       <br><br>
       <b>Poster submission & volunteer recruitment: <a href="https://forms.gle/Lr97HxzwZPqMP9WKA">click here!</a></b>
       <br>
-      <b>Deadline:</b> TBD
+      <b>Deadline:</b> 29 April 2026
       <br><br>
       Note: The event is open to all people working in Neuro-AI (UNIQUE member or not).
 
@@ -90,11 +90,11 @@ subtitle: Unifying Neuroscience and Artificial Intelligence in Québec
       <b>Date :</b> Mardi 12 mai et Mercredi 13 mai 2026<br>
       <b>Lieu :</b> <a href="https://maps.app.goo.gl/">Pavillon Jean-Brillant, Université de Montréal, 3200 rue Jean-Brillant</a>
       <br><br>
-      <b>Inscription :</b> bientôt disponible.
+      <b>Inscription : <a href="https://www.eventbrite.ca/e/unique-student-symposium-2026-tickets-1987516837363">formulaire</a></b>
       <br><br>
       <b>Présentations d'affiche et recrutement de bénévoles : <a href="https://forms.gle/Lr97HxzwZPqMP9WKA">formulaire</a></b>
       <br>
-      <b>Date limite :</b> à déterminer
+      <b>Date limite :</b> 29 avril 2026
       <br><br>
       Note: l'événement est ouvert à toutes les personnes travaillant dans le domaine de la Neuro-AI (membres d'UNIQUE ou non).
     </div>
