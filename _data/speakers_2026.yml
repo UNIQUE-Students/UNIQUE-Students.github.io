@@ -1,4 +1,35 @@
-# May 12th - Session 1
+# May 12th - Session 1: Innovative Analysis in NeuroAI
+- fullname: Frédéric Beaupré
+  pronouns: ""
+  affiliations:
+  - Université Laval
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Frédéric Beaupré
+  title: "Innovative Analysis in NeuroAI"
+  abstract: ""
+  sessions:
+  - "202605120929session"
+  - "202605120930"
+  - "202605121100panel"
+
+- fullname: Sina Esmaeili
+  pronouns: ""
+  affiliations:
+  - Université de Montréal
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Sina Esmaeili
+  title: "Innovative Analysis in NeuroAI"
+  abstract: ""
+  sessions:
+  - "202605120929session"
+  - "202605120955"
+
 - fullname: Kevin Whittingstall
   pronouns: ""
   affiliations:
@@ -11,9 +42,80 @@
   title: "Innovative Analysis in NeuroAI"
   abstract: ""
   sessions:
-  - "202605120930"
+  - "202605120929session"
+  - "202605121020"
 
-# May 12th - Session 2
+# May 12th - Panel Discussion 1: Neuro foundation models
+- fullname: Nanda Krishna
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Nanda Krishna
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605121100panel"
+
+- fullname: Philipp Thölke
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Philipp Thölke
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605121100panel"
+
+- fullname: Elkaïoum Moutuou
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Elkaïoum Moutuou
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605121100panel"
+
+# May 12th - Session 2: Computational approaches to the mind
+- fullname: Hafez Ghaemi
+  pronouns: ""
+  affiliations:
+  - Université de Montréal
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Hafez Ghaemi
+  title: "Computational approaches to the mind"
+  abstract: ""
+  sessions:
+  - "202605121259session"
+  - "202605121300"
+
+- fullname: Darius Valevicius
+  pronouns: ""
+  affiliations:
+  - Université de Montréal
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Darius Valevicius
+  title: "Computational approaches to the mind"
+  abstract: ""
+  sessions:
+  - "202605121259session"
+  - "202605121325"
+
 - fullname: Nicolas Doyon
   pronouns: ""
   affiliations:
@@ -26,9 +128,67 @@
   title: "Computational approaches to the mind"
   abstract: ""
   sessions:
-  - "202605121300"
+  - "202605121259session"
+  - "202605121350"
 
-# May 13th - Session 3
+# May 12th - Workshop 1
+- fullname: Julien Armand
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Julien Armand
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605121430workshop"
+
+- fullname: Baptiste Bonin
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Baptiste Bonin
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605121430workshop"
+
+# May 13th - Session 3: Ethics and EDI in NeuroAI
+- fullname: Mina Arzaghi
+  pronouns: ""
+  affiliations:
+  - Université de Montréal
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Mina Arzaghi
+  title: "Ethics and EDI in NeuroAI"
+  abstract: ""
+  sessions:
+  - "202605130929session"
+  - "202605130930"
+
+- fullname: Antoine Boudreau LeBlanc
+  pronouns: ""
+  affiliations:
+  - Université Laval
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Antoine Boudreau LeBlanc
+  title: "Ethics and EDI in NeuroAI"
+  abstract: ""
+  sessions:
+  - "202605130929session"
+  - "202605130955"
+
 - fullname: Benoit Labonté
   pronouns: ""
   affiliations:
@@ -41,9 +201,93 @@
   title: "Ethics and EDI in NeuroAI"
   abstract: ""
   sessions:
-  - "202605130930"
+  - "202605130929session"
+  - "202605131020"
 
-# May 13th - Session 4
+# May 13th - Panel Discussion 2: Neuro-AI in industry and entrepreneurship
+- fullname: Taylor Webb
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Taylor Webb
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605131100panel"
+
+- fullname: Raymond Chua
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Raymond Chua
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605131100panel"
+
+- fullname: Bruno Morency
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Bruno Morency
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605131100panel"
+
+- fullname: Jean-Maxime Larouche
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Jean-Maxime Larouche
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605131100panel"
+
+# May 13th - Session 4: Video games + Creativity + Gamification
+- fullname: Mariem Hafsia
+  pronouns: ""
+  affiliations:
+  - Université de Montréal
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Mariem Hafsia
+  title: "Video games + Creativity + Gamification"
+  abstract: ""
+  sessions:
+  - "202605131259session"
+  - "202605131300"
+
+- fullname: Pingsheng Li
+  pronouns: ""
+  affiliations:
+  - McGill
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Pingsheng Li
+  title: "Video games + Creativity + Gamification"
+  abstract: ""
+  sessions:
+  - "202605131259session"
+  - "202605131325"
+
 - fullname: Lune Bellec
   pronouns: ""
   affiliations:
@@ -56,4 +300,19 @@
   title: "Video games + Creativity + Gamification"
   abstract: ""
   sessions:
-  - "202605131300"
+  - "202605131259session"
+  - "202605131350"
+
+# May 13th - Workshop 2
+- fullname: Vanessa Hadid
+  pronouns: ""
+  affiliations: []
+  nametitle: ""
+  bio: ""
+  position: ""
+  photo: none
+  alttext: Vanessa Hadid
+  title: ""
+  abstract: ""
+  sessions:
+  - "202605131430workshop"

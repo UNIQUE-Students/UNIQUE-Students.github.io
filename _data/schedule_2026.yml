@@ -11,9 +11,26 @@
   platforms:
 - name: "Session 1: Innovative Analysis in NeuroAI"
   date: 20260512
-  time_start: "09:30"
+  time_start: "09:29"
+  time_display: "09:30"
   time_end: "10:45"
+  session: session
   title: "Innovative Analysis in NeuroAI"
+  platforms:
+- name: "↳ Frédéric Beaupré"
+  date: 20260512
+  time_start: "09:30"
+  time_end: "09:55"
+  platforms:
+- name: "↳ Sina Esmaeili"
+  date: 20260512
+  time_start: "09:55"
+  time_end: "10:20"
+  platforms:
+- name: "↳ Kevin Whittingstall"
+  date: 20260512
+  time_start: "10:20"
+  time_end: "10:45"
   platforms:
 - name: Break
   date: 20260512
@@ -34,9 +51,26 @@
   platforms:
 - name: "Session 2: Computational approaches to the mind"
   date: 20260512
-  time_start: "13:00"
+  time_start: "12:59"
+  time_display: "13:00"
   time_end: "14:15"
+  session: session
   title: "Computational approaches to the mind"
+  platforms:
+- name: "↳ Hafez Ghaemi"
+  date: 20260512
+  time_start: "13:00"
+  time_end: "13:25"
+  platforms:
+- name: "↳ Darius Valevicius"
+  date: 20260512
+  time_start: "13:25"
+  time_end: "13:50"
+  platforms:
+- name: "↳ Nicolas Doyon"
+  date: 20260512
+  time_start: "13:50"
+  time_end: "14:15"
   platforms:
 - name: Break
   date: 20260512
@@ -47,6 +81,7 @@
   date: 20260512
   time_start: "14:30"
   time_end: "16:00"
+  session: workshop
   platforms:
 - name: Poster session
   date: 20260512
@@ -72,21 +107,38 @@
   platforms:
 - name: "Session 3: Ethics and EDI in NeuroAI"
   date: 20260513
-  time_start: "09:30"
+  time_start: "09:29"
+  time_display: "09:30"
   time_end: "10:45"
+  session: session
   title: "Ethics and EDI in NeuroAI"
+  platforms:
+- name: "↳ Mina Arzaghi"
+  date: 20260513
+  time_start: "09:30"
+  time_end: "09:55"
+  platforms:
+- name: "↳ Antoine Boudreau LeBlanc"
+  date: 20260513
+  time_start: "09:55"
+  time_end: "10:20"
+  platforms:
+- name: "↳ Benoit Labonté"
+  date: 20260513
+  time_start: "10:20"
+  time_end: "10:45"
   platforms:
 - name: Break
   date: 20260513
   time_start: "10:45"
   time_end: "11:00"
   platforms:
-- name: "Panel Discussion 2: Neuro-AI in industry"
+- name: "Panel Discussion 2: Neuro-AI in industry and entrepreneurship"
   date: 20260513
   time_start: "11:00"
   time_end: "12:00"
   session: panel
-  title: "Neuro-AI in industry"
+  title: "Neuro-AI in industry and entrepreneurship"
   platforms:
 - name: Lunch
   date: 20260513
@@ -95,9 +147,26 @@
   platforms:
 - name: "Session 4: Video games + Creativity + Gamification"
   date: 20260513
-  time_start: "13:00"
+  time_start: "12:59"
+  time_display: "13:00"
   time_end: "14:15"
+  session: session
   title: "Video games + Creativity + Gamification"
+  platforms:
+- name: "↳ Mariem Hafsia"
+  date: 20260513
+  time_start: "13:00"
+  time_end: "13:25"
+  platforms:
+- name: "↳ Pingsheng Li"
+  date: 20260513
+  time_start: "13:25"
+  time_end: "13:50"
+  platforms:
+- name: "↳ Lune Bellec"
+  date: 20260513
+  time_start: "13:50"
+  time_end: "14:15"
   platforms:
 - name: Break
   date: 20260513
@@ -108,6 +177,7 @@
   date: 20260513
   time_start: "14:30"
   time_end: "16:00"
+  session: workshop
   platforms:
 - name: Closing Remarks
   date: 20260513
