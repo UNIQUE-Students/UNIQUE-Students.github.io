@@ -8,7 +8,7 @@
   position: ""
   photo: none
   alttext: Frédéric Beaupré
-  title: ""
+  title: "STED-FM: A Self-Supervised Foundation Model for Robust and Generalizable Representation Learning in STED Microscopy"
   abstract: ""
   sessions:
   - "202605120929session"
@@ -24,7 +24,7 @@
   position: ""
   photo: none
   alttext: Sina Esmaeili
-  title: ""
+  title: "Building the Missing Layer for Mobile Neuro-AI: Python tools for denoising, source separation, and reproducible Mobile Brain/Body Imaging (MoBI) workflows"
   abstract: ""
   sessions:
   - "202605120929session"
@@ -39,7 +39,7 @@
   position: ""
   photo: none
   alttext: Kevin Whittingstall
-  title: ""
+  title: "When hormones meet the brain: a vascular perspective"
   abstract: ""
   sessions:
   - "202605120929session"
@@ -95,7 +95,7 @@
   position: ""
   photo: none
   alttext: Hafez Ghaemi
-  title: ""
+  title: "Self-supervised learning with teacher-guided masking"
   abstract: ""
   sessions:
   - "202605121259session"
@@ -110,7 +110,7 @@
   position: ""
   photo: none
   alttext: Darius Valevicius
-  title: ""
+  title: "Synthetic image evolution for affective neuroscience"
   abstract: ""
   sessions:
   - "202605121259session"
@@ -125,7 +125,7 @@
   position: ""
   photo: none
   alttext: Nicolas Doyon
-  title: ""
+  title: "How dynamics of ionic concentration shape information processing in neural networks"
   abstract: ""
   sessions:
   - "202605121259session"
@@ -183,7 +183,7 @@
   position: ""
   photo: none
   alttext: Antoine Boudreau LeBlanc
-  title: ""
+  title: "From the Ethics of Governance to Sociotechnical Assemblages in NeuroAI"
   abstract: ""
   sessions:
   - "202605130929session"
@@ -198,7 +198,7 @@
   position: ""
   photo: none
   alttext: Benoit Labonté
-  title: ""
+  title: "Sex Differences in Depression - Ethical and EDI Considerations"
   abstract: ""
   sessions:
   - "202605130929session"
@@ -267,7 +267,7 @@
   position: ""
   photo: none
   alttext: Mariem Hafsia
-  title: ""
+  title: "Beyond Diagnostic Labels: Behavioral Phenotyping Through Gamified Neurodevelopmental Assessment"
   abstract: ""
   sessions:
   - "202605131259session"
@@ -282,7 +282,7 @@
   position: ""
   photo: none
   alttext: Pingsheng Li
-  title: ""
+  title: "Aligning Human-AI Visual Learning through Virtual Reality"
   abstract: ""
   sessions:
   - "202605131259session"
