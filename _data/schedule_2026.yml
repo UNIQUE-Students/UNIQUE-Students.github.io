@@ -83,6 +83,7 @@
   time_end: "16:00"
   session: workshop
   platforms:
+  - "Colab+https://colab.research.google.com/drive/1SyD9gLEzpx0P3tKsl2_MYb4QmE5QkKMd?usp=sharing"
 - name: Poster session
   date: 20260512
   time_start: "16:00"
