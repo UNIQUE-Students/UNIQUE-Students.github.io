@@ -17,17 +17,17 @@
   session: session
   title: "Innovative Analysis in NeuroAI"
   platforms:
-- name: "↳ Frédéric Beaupré"
+- name: "↳ Talk 1"
   date: 20260512
   time_start: "09:30"
   time_end: "09:55"
   platforms:
-- name: "↳ Sina Esmaeili"
+- name: "↳ Talk 2"
   date: 20260512
   time_start: "09:55"
   time_end: "10:20"
   platforms:
-- name: "↳ Kevin Whittingstall"
+- name: "↳ Talk 3"
   date: 20260512
   time_start: "10:20"
   time_end: "10:45"
@@ -57,17 +57,17 @@
   session: session
   title: "Computational approaches to the mind"
   platforms:
-- name: "↳ Hafez Ghaemi"
+- name: "↳ Talk 1"
   date: 20260512
   time_start: "13:00"
   time_end: "13:25"
   platforms:
-- name: "↳ Darius Valevicius"
+- name: "↳ Talk 2"
   date: 20260512
   time_start: "13:25"
   time_end: "13:50"
   platforms:
-- name: "↳ Nicolas Doyon"
+- name: "↳ Talk 3"
   date: 20260512
   time_start: "13:50"
   time_end: "14:15"
@@ -113,17 +113,17 @@
   session: session
   title: "Ethics and EDI in NeuroAI"
   platforms:
-- name: "↳ Mina Arzaghi"
+- name: "↳ Talk 1"
   date: 20260513
   time_start: "09:30"
   time_end: "09:55"
   platforms:
-- name: "↳ Antoine Boudreau LeBlanc"
+- name: "↳ Talk 2"
   date: 20260513
   time_start: "09:55"
   time_end: "10:20"
   platforms:
-- name: "↳ Benoit Labonté"
+- name: "↳ Talk 3"
   date: 20260513
   time_start: "10:20"
   time_end: "10:45"
@@ -153,17 +153,17 @@
   session: session
   title: "Video games + Creativity + Gamification"
   platforms:
-- name: "↳ Mariem Hafsia"
+- name: "↳ Talk 1"
   date: 20260513
   time_start: "13:00"
   time_end: "13:25"
   platforms:
-- name: "↳ Pingsheng Li"
+- name: "↳ Talk 2"
   date: 20260513
   time_start: "13:25"
   time_end: "13:50"
   platforms:
-- name: "↳ Lune Bellec"
+- name: "↳ Talk 3"
   date: 20260513
   time_start: "13:50"
   time_end: "14:15"
