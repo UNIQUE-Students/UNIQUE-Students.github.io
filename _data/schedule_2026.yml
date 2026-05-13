@@ -180,6 +180,7 @@
   time_end: "16:00"
   session: workshop
   platforms:
+  - "GitHub+https://github.com/thecocolab/mne_meeg_ml_main"
 - name: Closing Remarks
   date: 20260513
   time_start: "16:00"

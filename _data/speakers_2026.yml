@@ -168,7 +168,7 @@
   position: ""
   photo: none
   alttext: Mina Arzaghi
-  title: ""
+  title: "Bias and Fairness in Large Language Models"
   abstract: ""
   sessions:
   - "202605130929session"
@@ -297,7 +297,7 @@
   position: ""
   photo: none
   alttext: Lune Bellec
-  title: ""
+  title: "Modelling Individual Brains and Behaviour in Retro Games"
   abstract: ""
   sessions:
   - "202605131259session"
@@ -312,7 +312,7 @@
   position: ""
   photo: none
   alttext: Vanessa Hadid
-  title: ""
+  title: "Machine learning on electrophysiology MEG/EEG signals"
   abstract: ""
   sessions:
   - "202605131430workshop"
