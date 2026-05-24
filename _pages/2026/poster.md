@@ -46,7 +46,7 @@ permalink: /2026/poster
 <br>
 The work you submit should be related to both neuroscience and AI, but it doesn't have to be in equal part. Pilot studies, first results and work in progress are welcome alongside more finalized studies, as both can lead to great discussions!
 <br>
-**Prizes will be awarded to the best posters! Our thanks to Millénium Québecor for making this possible.**
+**Prizes will be awarded to the best posters! Our thanks to Millénium Québecor and UNIQUE-CerebrUM for making this possible.**
 <br><br>
 **Submission link: <a href="https://forms.gle/Lr97HxzwZPqMP9WKA">click here!</a>** (also used for volunteer recruitment)
 <br>
@@ -55,7 +55,7 @@ For more information, please contact us at <code>{{ site.email }}</code>.
 
 # Poster Contest Details
 
-Prizes will be awarded during the closing remarks on **May 13th** and are possible thanks to support by **Millénium Québecor**.
+Prizes will be awarded during the closing remarks on **May 13th** and are possible thanks to support by **Millénium Québecor** and **UNIQUE-CerebrUM**.
 
 ## Evaluation Criteria
 
