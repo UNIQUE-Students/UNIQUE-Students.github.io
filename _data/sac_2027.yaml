@@ -1,0 +1,85 @@
+- fullname: Laurence Lessard
+  email: laurence.lessard.4@umontreal.ca
+  photo: laurence_lessard_2027.jpg
+  affiliation: "Université de Montréal"
+  bio: "I am a first year neuroscience PhD student working on decision-making with Dr. Becket Ebitz at Université de Montréal. I’m currently working on understanding how energetic states influence cognitive flexibility and decision-making, combining behavioral, physiological and computational approaches. I’m also interested in value representations at the human level, and how these representations shape our behavioral choices."
+  committee: Co-Chair of the SAC
+  alttext: none
+  pronouns: she/her
+  website: https://www.linkedin.com/in/laurence-lessard/
+
+- fullname: Elizaveta Sycheva
+  email: elizaveta.sycheva@umontreal.ca
+  photo: elizaveta_sycheva_2027.jpg
+  affiliation: "Université de Montréal and Mila"
+  bio: "I’m a PhD student in Neuroscience at Université de Montréal, affiliated with Mila. My research focuses on understanding the neural mechanisms underlying perception, particularly multisensory processing, using complementary approaches including behavioral experiments, neuroimaging (EEG, MEG, MRI), and computational modeling. I’m also particularly interested in translational research, bridging fundamental discoveries and clinical applications."
+  committee: Co-Chair of the SAC
+  alttext: none
+  pronouns: elle/she
+  website: https://www.linkedin.com/in/elizaveta-sycheva123
+
+- fullname: Charlotte Volk
+  email: charlotte.volk@mail.mcgill.ca
+  photo: charlotte_volk.jpg
+  affiliation: "McGill University and Mila"
+  bio: "I'm a PhD student in Computer Science at McGill and Mila, co-supervised by Blake Richards and Shahab Bakhtiari. My interests lie broadly in NeuroAI and human learning processes, and I work on biologically inspired learning algorithms. Right now, I'm working on developing predictive coding algorithms that are more closely mapped to cortical microcircuits and can process complex data modalities."
+  committee: Program Lead
+  alttext: none
+  pronouns: she/her
+  bluesky: https://bsky.app/profile/charlottevolk.bsky.social
+
+- fullname: Cornelius Crijnen
+  email: cornelius.crijnen@mail.mcgill.ca
+  photo: cornelius_crijnen.jpeg
+  affiliation: "McGill University and Mila"
+  bio: "I’m a PhD student in Electrical and Computer Engineering at McGill University and Mila, supervised by Professor Tal Arbel. My research focuses on deep learning and generative modeling for medical imaging, particularly self-supervised and diffusion-based methods for neurological diseases such as multiple sclerosis and Alzheimer’s."
+  committee: Technical Lead
+  alttext: none
+  pronouns: he/him
+  website: https://ccrijnen.github.io/
+
+- fullname: Francis Gingras
+  email: none
+  photo: francis_gingras.jpg
+  affiliation: "Université de Montréal"
+  bio: "I completed my Ph.D. at UQAM in 2026 in the Department of Psychology, with specializations in Neuropsychology/Biopsychology and Cognitive Science, and now work as a postdoctoral researcher at the University of Montreal under the supervision of Professor Ian Charest. I am interested in developing and analyzing large neural datasets (fMRI/EEG/MEG) to better understand visual cognition at all levels. My research interests include visual psychophysics, face perception, cognitive neuroscience and cultural psychology. Since 2024, I am also a staff scientist for VPixx Technologies Inc., where I work closely with the research team to investigate how to track visual attention using EEG, as well as with the software development team to produce useful software for research teams, handling experiment building as well as research hardware control.<br><br>Outside of research, I have 5 years of experience as a lecturer, teaching courses on statistics, research methods and neuropsychology, and have worked on the organization of multiple research conferences such as the Société Québécoise pour la Recherche en Psychologie and the Culture & Cognition Preconference."
+  committee: Event Organiser
+  alttext: none
+  pronouns: he/him
+
+- fullname: Emmanuelle Coutu-Nadeau
+  email: emmanuelle.coutu-nadeau@umontreal.ca
+  photo: emmanuelle_coutu-nadeau_2027.jpg
+  affiliation: "Université de Montréal"
+  bio: "I'm a psychology PhD student supervised by Dr. Sarah Lippé (CHU Sainte-Justine). I specialize in the clinical applications of artificial intelligence to identify transdiagnostic behavioral and neurophysiological profiles in autism and ADHD. I have a background in software engineering (B. Eng.) and experience in digital health as a software developer and project manager at CareSimple.<br><br>Outside of research, I am a Crisis Responder for Kids Help Phone, a mentor for Technovation and a board member of La Fondation de la Maison du Père."
+  committee: Content Manager
+  alttext: none
+  pronouns: she/her
+  website: https://emmanuellecoutunadeau.com/
+
+- fullname: Myriam Sahraoui
+  email: none
+  photo: myriam_sahraoui_2027.jpg
+  affiliation: "Université de Montréal"
+  bio: "I'm a PhD student in Cognitive and Computational Neuroscience under the supervision of Professors Bruno Gauthier and Karim Jerbi. My research focuses on exploring and characterizing neuroexecutive heterogeneity during development. I aim to combine mobile neuroimaging techniques with data-driven clustering methods to uncover meaningful patterns in brain and behavioral data."
+  committee: Communication Lead
+  alttext: none
+  pronouns: elle/she
+
+- fullname: Cléo Lam
+  email: none
+  photo: cleo_lam.jpg
+  affiliation: "Université de Montréal"
+  bio: "I am currently a master’s student in psychology at the Université de Montréal, under the supervision of Lune Bellec. My research interests are in computational cognitive science. I am working on developing behavioral analyses using unsupervised learning techniques. I use video games as a setting to explore these questions. I am also a fan of underground rap and emo music. My favorite artist from Quebec is Lydia Képinski."
+  committee: Liaison to the Equity, Diversity, and Inclusion Committee
+  alttext: none
+  pronouns: elle/she
+
+- fullname: Elisa Corti
+  email: none
+  photo: elisa_corti.jpg
+  affiliation: "CERVO Brain Research Centre, Université Laval"
+  bio: "I have obtained my Ph.D. in 2025 in Experimental Biology and Biomedicine (specialization in Neuroscience) at the University of Coimbra, where I investigated the role of FMRP in synaptogenesis and synaptic plasticity. I am currently a postdoctoral fellow in the group led by prof Flavie Lavoie-Cardinal at CERVO brain research center. I am interested in how changes in the synaptic proteome shape the expression and modulation of synaptic plasticity in the healthy brain, but also in aging and in neurodevelopmental disorders. Moreover, I am deeply enthusiastic about superresolution microscopy and live imaging.<br><br>In my free time I enjoy jigsaw puzzles, boardgames, cooking and baking, under the supervision of my cat Vivi."
+  committee: Quebec Community Coordinator
+  alttext: none
+  pronouns: she/her
