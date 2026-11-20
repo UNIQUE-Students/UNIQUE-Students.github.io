@@ -21,14 +21,17 @@
         </div>
         <div class="content">
           <p>{{ person.bio }}</p>
-          {% if person.email != "none" %}
+          {% if person.email and person.email != "none" %}
             <a class="tag" href="mailto:{{ person.email }}">{{ person.email }}</a>
           {% endif %}
-          {% if person.website != "none" %}
+          {% if person.website and person.website != "none" %}
             <a class="tag" href="{{ person.website }}">Website</a>
           {% endif %}
-          {% if person.twitter != "none" %}
+          {% if person.twitter and person.twitter != "none" %}
             <a class="tag" href="{{ person.twitter }}">Twitter</a>
+          {% endif %}
+          {% if person.bluesky and person.bluesky != "none" %}
+            <a class="tag" href="{{ person.bluesky }}">Bluesky</a>
           {% endif %}
         </div>
       </div>
