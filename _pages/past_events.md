@@ -6,6 +6,34 @@ permalink: /pastevents
 
 <div class="card">
   <div class="card-image">
+    <figure class="image is-16by9">
+      <img src="/assets/img/USS2026/USS_poster_EN.png" alt="USS 2026">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-content">
+        <p class="title is-4">UNIQUE Student Symposium 2026</p>
+      </div>
+    </div>
+
+    <div class="content">
+      <a href="/2026/schedule.html">Program</a>.
+      <br>
+      <a href="/2026/team.html">Team</a>.
+      <br>
+      <a href="/2026/speakers.html">Speakers</a>.
+      <br>
+      <a href="/2026/poster.html">Poster Contest</a>.
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<div class="card">
+  <div class="card-image">
     <figure class="image is-5by2">
       <img src="/assets/img/UNIQUE_Get-Together_Winter_2026.png" alt="UNIQUE Fellows Get-Together Winter 2026">
     </figure>
